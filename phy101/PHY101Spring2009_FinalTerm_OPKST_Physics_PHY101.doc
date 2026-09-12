@@ -1,0 +1,1370 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f70\froman\fcharset238\fprq2 Times New Roman CE;}{\f71\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f73\froman\fcharset161\fprq2 Times New Roman Greek;}{\f74\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f75\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f76\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f77\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f78\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f80\fswiss\fcharset238\fprq2 Arial CE;}{\f81\fswiss\fcharset204\fprq2 Arial Cyr;}{\f83\fswiss\fcharset161\fprq2 Arial Greek;}{\f84\fswiss\fcharset162\fprq2 Arial Tur;}{\f85\fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f86\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f87\fswiss\fcharset186\fprq2 Arial Baltic;}{\f88\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\*\cs17 \additive \ul\cf2 
+\sbasedon10 \styrsid4291359 Hyperlink;}{\s18\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext18 \styrsid876848 header;}{\s19\ql \li0\ri0\nowidctlpar
+\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext19 \styrsid876848 footer;}}{\*\rsidtbl \rsid149843\rsid802880\rsid876848\rsid934911\rsid1133851\rsid2821380\rsid3420817
+\rsid4291359\rsid4463222\rsid5970460\rsid8001333\rsid8855822\rsid8868333\rsid10313840\rsid10366388\rsid10828425\rsid12058996\rsid12800272\rsid13061641\rsid13330267\rsid13651278\rsid16084237}{\*\generator Microsoft Word 10.0.2627;}{\info
+{\author Sohail Anwar}{\operator M.Tariq Malik}{\creatim\yr2009\mo7\dy16\hr8\min1}{\revtim\yr2012\mo1\dy29\hr8\min27}{\version6}{\edmins156}{\nofpages7}{\nofwords1351}{\nofchars7701}{\*\company vustudents.net}{\nofcharsws9034}{\vern16437}}
+\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot12058996 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\header \pard\plain \s18\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 
+\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\field\flddirty{\*\fldinst {\fs32\insrsid876848\charrsid876848  HYPERLINK "http://www.vustudents.ning.com" }{\fs32\insrsid876848\charrsid876848 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000180000007700770077002e0076007500730074007500640065006e00740073002e006e0069006e0067002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4000000068007400740070003a002f002f007700770077002e007600750073007400
+7500640065006e00740073002e006e0069006e0067002e0063006f006d002f000000}}}{\fldrslt {\cs17\fs32\ul\cf2\insrsid876848\charrsid876848 www.vustudents.ning.com}}}{\fs32\insrsid876848\charrsid876848  
+\par }}{\footer \pard\plain \s18\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0\pararsid876848 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\field\flddirty{\*\fldinst {\insrsid876848\charrsid876848  HYPERLINK "http://
+www.vustudents.ning.com" }{\insrsid876848\charrsid876848 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000180000007700770077002e0076007500730074007500640065006e00740073002e006e0069006e0067002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4000000068007400740070003a002f002f007700770077002e007600750073007400
+7500640065006e00740073002e006e0069006e0067002e0063006f006d002f000000}}}{\fldrslt {\cs17\fs32\ul\cf2\insrsid876848\charrsid876848 www.vustudents.ning.com}}}{\insrsid876848\charrsid876848  }{\fs32\insrsid876848\charrsid876848 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\insrsid149843 FINALTERM  EXAMINATION 
+\par Spring 2009
+\par PHY101- Physics (Session - 2) 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\ulc0\insrsid149843  The number of significant figures in 0.00150 is:
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f 5
+\par        \u9658\'3f 4
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f 3
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\ulc0\insrsid149843 2}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\fs22\ulc0\insrsid149843 One revolution is the same as:
+\par 
+\par 
+\par 
+\par }{\fs22\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 2}{\f73\fs22\ulc0\insrsid149843 \'f0}{\fs22\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911  rad
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 
+\par }{\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\fs22\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid10313840 1 rad}{\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid10313840 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911        \u9658\'3f }{\fs22\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 57 rad
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 
+\par }{\f1\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911        \u9658\'3f }{\f73\fs22\ulc0\insrsid149843 \'f0}{\fs22\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 /2 rad}{
+\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911 
+\par }{\f1\cf0\lang1030\langfe1033\langnp1030\ulc0\insrsid149843\charrsid934911        }{\f1\cf0\ulc0\insrsid149843 \u9658\'3f }{\f73\fs22\ulc0\insrsid149843 \'f0 rad}{\cf0\ulc0\insrsid149843 
+\par }{\f1\cf0\ulc0\insrsid149843        \u9658\'3f }{\f73\fs22\ulc0\insrsid149843 2\'f0 rad}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\fs22\ulc0\insrsid149843 For a body to be in equilibrium under the combined action of several forces:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\ulc0\insrsid149843 all the forces must be applied at the same point
+\par all the forces must be applied at the same point
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\fs22\ulc0\insrsid149843  all of the forces form pairs of equal and opposite forces}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\ulc0\insrsid149843 any two of these forces must be balanced by a third force
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\cf0\ulc0\insrsid149843\charrsid5970460 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\fs22\ulc0\insrsid149843\charrsid10313840 the sum of the torques about any point must equal zero
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\fs22\cf0\ulc0\insrsid149843 A bucket of water is pushed from left to right with increasing speed across a horizontal surface.
+\par Consider the pressure at two points at the same level in the water.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843  It is the same
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843\charrsid10313840 It is higher at the point on the left
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843 It is higher at the point on the right
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843 At first it is higher at the point on the left but as the bucket speeds up it is lower there
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\fs22\cf0\ulc0\insrsid149843 An organ pipe with both ends open is 0.85m long. Assuming that the speed of sound is 340m/s, the frequency of the third harmonic of this pipe is:}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843 A. 200 Hz
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843 B. 300 Hz
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843 C. 400 Hz
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\fs22\cf0\ulc0\insrsid149843\charrsid10313840 D. 600 Hz
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 Capacitors C1 and C2 are connected in series. The equivalent capacitance is given by}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 C}{\f1\sub\ulc0\insrsid149843 1}{\f1\ulc0\insrsid149843 C}{\f1\sub\ulc0\insrsid149843 2}{\f1\ulc0\insrsid149843 /(C}{
+\f1\sub\ulc0\insrsid149843 1}{\f1\ulc0\insrsid149843  + C}{\f1\sub\ulc0\insrsid149843 2}{\f1\ulc0\insrsid149843 )
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 (C}{\f1\sub\ulc0\insrsid149843\charrsid10313840 1}{\f1\ulc0\insrsid149843\charrsid10313840  + C}
+{\f1\sub\ulc0\insrsid149843\charrsid10313840 2}{\f1\ulc0\insrsid149843\charrsid10313840 )/C}{\f1\sub\ulc0\insrsid149843\charrsid10313840 1}{\f1\ulc0\insrsid149843\charrsid10313840 C}{\f1\sub\ulc0\insrsid149843\charrsid10313840 2}{
+\f1\ulc0\insrsid149843\charrsid10313840 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 1/(C}{\f1\sub\ulc0\insrsid149843 1}{\f1\ulc0\insrsid149843  + C}{\f1\sub\ulc0\insrsid149843 2}{\f1\ulc0\insrsid149843 )
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 C}{\f1\sub\ulc0\insrsid149843 1}{\f1\ulc0\insrsid149843 /C}{\f1\sub\ulc0\insrsid149843 2}{\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\ulc0\insrsid149843 If the potential difference across a resistor is doubled:
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840 
+\par        \u9658\'3f }{\ulc0\insrsid149843\charrsid10313840 only the current is doubled}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\ulc0\insrsid149843 only the current is halved}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 only the resistance is doubled}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 only the resistance is halved}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f73\ulc0\insrsid149843 By using only two resistors, R1 and R2, a student is able to obtain resistances of 3 \'d9, 4\'d9, 12\'d9, and 16 \'d9. The values of R1 and R2 (in ohms) are:
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 3, 4}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 2, 12}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 3, 16}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\ulc0\insrsid149843\charrsid10313840 4, 12}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 Faraday's law states that an induced emf is proportional to:
+\par 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 the rate of change of the electric field}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 the rate of change of the magnetic flux}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 the rate of change of the electric flux}{\cf0\ulc0\insrsid149843 
+\par 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 the rate of change of the magnetic field}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 A generator supplies 100V to the primary coil of a transformer. The primary has 50 turns and the secondary has 500 turns. The secondary voltage is:
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 1000V}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 500V}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 250V}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 100V}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 The wavelength of red light is 700 nm. Its frequency is ____________________.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\ulc0\insrsid149843 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 4.30 * 10}{\f1\super\ulc0\insrsid149843 4}{\f1\ulc0\insrsid149843  Hertz}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 4.30 * 10}{\f1\super\ulc0\insrsid149843 3}{\f1\ulc0\insrsid149843  Hertz}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 4.30 * 10}{\f1\super\ulc0\insrsid149843\charrsid10313840 5}{\f1\ulc0\insrsid149843\charrsid10313840  Hertz}{\cf0\ulc0\insrsid149843\charrsid10313840 
+
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 4.30 * 10}{\f1\super\ulc0\insrsid149843 2}{\f1\ulc0\insrsid149843  Hertz}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 In some movies, you sometimes see an actor looking in a mirror and you can see his face in the mirror. During the filming of this scene, what does the actor see in the mirror?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 His face
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 Your face
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 The movie camera
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 The director's face
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 
+A laser in a compact disc player generates light that has a wavelength of 780 nm in air. The light then enters into the plastic of a CD. If the index of refraction of plastic is 1.55, the speed of this light once enter the plastic is ________.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 3.00 * 10}{\f1\super\ulc0\insrsid149843 8}{\f1\ulc0\insrsid149843  m/s
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\cf0\ulc0\insrsid149843\charrsid13330267 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 1.94 * 10}{\f1\super\ulc0\insrsid149843\charrsid10313840 8}{\f1\ulc0\insrsid149843\charrsid10313840 
+ m/s
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 4.29 * 10}{\f1\super\ulc0\insrsid149843 8}{\f1\ulc0\insrsid149843  km/h
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 3.00 * 10}{\f1\super\ulc0\insrsid149843 8}{\f1\ulc0\insrsid149843  km/h
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\ulc0\insrsid149843 Which of the following electromagnetic radiations has photons with the greatest energy?
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\ulc0\insrsid149843 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\ulc0\insrsid149843 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 blue light}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\ulc0\insrsid149843 yellow light}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\ulc0\insrsid149843\charrsid10313840 x rays}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\ulc0\insrsid149843 radio waves}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri432\widctlpar\faauto\rin432\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 A virtual image is one:}{\f1\ulc0\insrsid149843 
+\par 
+\par }{\b\f1\ul\ulc0\insrsid149843\charrsid13330267 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\cf0\ulc0\insrsid149843\charrsid13330267 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 toward which light rays converge but do not pass through}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 from which light rays diverge as they pass through}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 toward which light rays converge and pass through}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 from which light rays diverge but do not pass through}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 What is the unit of magnification factor?
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 meter.Kelvin }{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 radian.Kelvin}{\cf0\ulc0\insrsid149843 
+\par }{\b\cf0\ulc0\insrsid149843\charrsid13330267        }{\cf0\ulc0\insrsid149843\charrsid10313840 \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 degree.Kelvin}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 no units}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 During an adiabatic process an object does 100 J of work and its temperature decreases by 5K. During another process it does 25 J of work and its temperature decreases by 5 K. Its heat capacity for the second process is.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\ulc0\insrsid149843 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 20 J/K}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 100 J/K}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 15 J/K}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 5 J/K}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 An ideal gas expands into a vacuum in a rigid vessel. As a result there is:
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\ulc0\insrsid149843 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\ul\cf0\ulc0\insrsid149843\charrsid13330267 
+\par }{\cf0\ulc0\insrsid149843\charrsid13330267        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid13330267  a change in entropy}{\cf0\ulc0\insrsid149843\charrsid13330267 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840  a decrease of internal energy}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 an increase of pressure}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843   a change in temperature}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 The Stern-Gerlach experiment makes use of:}{\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 a strong uniform magnetic field}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843        \u9658\'3f }{\f1\ulc0\insrsid149843 a strong non-uniform magnetic field}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 a strong uniform electric field}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 a strong non-uniform electric field}{\cf0\ulc0\insrsid149843 
+\par     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 A large collection of nuclei are undergoing alpha decay. The rate of decay at any instant is proportional to:}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 the number of undecayed nuclei present at that instant}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 the time since the decays started}{\cf0\ulc0\insrsid149843 
+\par        \u9658\'3f }{\f1\ulc0\insrsid149843 the time remaining before all have decayed}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843\charrsid10313840        \u9658\'3f }{\f1\ulc0\insrsid149843\charrsid10313840 the half-life of the decay}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }{\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 21    ( Marks: 1 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 Which weighs more, a liter of ice or a liter of water?
+\par }{\f1\cf0\ulc0\insrsid13330267 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 22    ( Marks: 1 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\cf0\ulc0\insrsid149843 Will the current in a light bulb connected to a 220-V source be greater or less than when the same bulb is connected to 110-V source?}{\fs20\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10313840 {\cf0\ulc0\insrsid149843     
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid13330267 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 23    ( Marks: 1 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\cf0\ulc0\insrsid149843 How is the wavelength of light related to its frequency?}{\fs20\cf0\ulc0\insrsid149843 
+\par }{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10313840 {\cf0\ulc0\insrsid149843     
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid12800272 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 24    ( Marks: 1 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\cf0\ulc0\insrsid149843 We don't notice the de Broglie wavelength for a pitched baseball. Is this because 
+\par the wavelength is very large or because it is very small? 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 25    ( Marks: 2 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\cf0\ulc0\insrsid149843 Does every magnet necessarily have a north and south pole? Explain
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid12800272 
+\par }{\b\f1\cf0\ulc0\insrsid12800272 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 26    ( Marks: 2 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 In a cool room, a metal or marble table top feels much colder to the touch than does a wood surface even though they are at the same temperature. Why?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 27    ( Marks: 3 ) 
+\par }{\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 If a water wave oscillates up and down three times each second and the distance between wave crests is 2 m, what is its frequency? What is its wavelength? What is its wave speed? }{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 28    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid149843\charrsid16084237  }{\f1\cf0\ulc0\insrsid149843\charrsid16084237 A transformer has N}{\f1\cf0\sub\ulc0\insrsid149843\charrsid16084237 1}{\f1\cf0\ulc0\insrsid149843\charrsid16084237  = 350 turns and N}{
+\f1\cf0\sub\ulc0\insrsid149843\charrsid16084237 2}{\f1\cf0\ulc0\insrsid149843\charrsid16084237  = 2 000 turns. If the input voltage is \u-4028\'3f}{\f1\fs17\cf0\ulc0\insrsid149843\charrsid16084237 
+\par }{\f1\cf0\ulc0\insrsid149843\charrsid16084237 v(t) = (170 V) cos \u-3977\'3f\u-4064\'3f}{\f1\fs17\cf0\ulc0\insrsid149843\charrsid16084237  }{\f1\cf0\ulc0\insrsid149843\charrsid16084237 t, what rms voltage is developed across the secondary coil?
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 29    ( Marks: 3 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10313840 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\cf0\ulc0\insrsid149843 Why do astronomers looking at distant galaxies talk about looking backward in time?}{\cf0\ulc0\insrsid149843\charrsid10313840 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 30    ( Marks: 3 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 Some distant astronomical objects, called quasars, are receding from us at half the speed of light (or greater). What is the speed of the light we receive from these quasars?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10313840 {\cf0\ulc0\insrsid149843     
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid13061641 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 31    ( Marks: 5 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\ulc0\insrsid149843 Consider a lamp hanging from a chain. What is the tension in the chain?
+\par }\pard \qc \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid10828425 {\*\shppict{\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex56\picscaley56\piccropl0\piccropr0\piccropt0\piccropb0\picw4286\pich6085\picwgoal2430\pichgoal3450\pngblip\bliptag-1651148750{\*\blipuid 9d957832d5c3ac80dbf91675c2e6ff7d}
+89504e470d0a1a0a0000000d49484452000000a2000000e60802000000d959c936000000017352474200aece1ce9000030db49444154785eed7d2d432cc9b22d
+73af4262916d916d47f22492fb13f6fb097be479ee6cfbdcc16ef7b0482ceeb4456271078b9bb762ad88c8a8ac6a683e9baea686e9dd5d959995152bbe323232
+eb8fbffffefbe0fb983b05fe6bee0ff8fd7c46816f98f7820fbe61fe86f92329f0f0f080e6f1a963c35b7525ebcf6c2a5b56fbf9597f8e6fda951cf7e7d9021b
+3ec2568afdb115174c243b3a3aca2ff9f0153914486c6ae12ca393f553eda8a28eaec12cff8ee4aeb77bc766dfb1a9edc0dc51ffbd9e471076add59393184f32
+d03a769944f41be6b5088e75e05804f3cc1322de896cd74842f82c274db2c8b3b55460b1586c58725bc5b623cdebecdc1895c933eb94c1b3507505c63f3b211e
+3738b6323b01f3763cedb1e08e819f6485757e5675a9c62e58cad0583d64e14eb7779c54d549d7870f3240ef2bf75b93e6a4efa4614ba1e9a4799dbc56183a50
+3b7fad239fda57b3931abeba8163d2ebaaeabe2f30efdbda3661ee005847e50ec21769e6dae6986384505af727a05ac707aaf26d9ba799f2eeeeae034f185424
+9e85f3097edfbc6e65b5c9069f682ab1fffa306fc73657f7b85ac749dd5b0b2412601419c57ae4c96a2faba91ed74aadab762ad279266f31eef6fbaad68f6b6d
+3b30a739ac12dcf96549e5b12eed6a55d328a83a839a4827a8d5a3ee544847ebae6ede3a6b8d35d3c7a1f5ea96b700f36ad5fb2c9346710c5e8a2fbe482e7574
+84aee29b6526754685b0d319dda5f4d474bba323333ad2d55fdcf91205b600f3626102276c3aea8fd5e35897aadfd51c26a1c7fe54eae14e8eab56efbe8f7fa2
+6ee52adc1a1077ceddabe5ec732a6e01e6f4b652b54a134e6acb27c465526a553ed1edd8a81a6fddae63acdaa5d4ffa9a8eb1dc7df3f07b0d7dd650b30aba3d5
+b54e71196bce0e8614b571c954dd45df36c53e499db1dd4de59126832a7a628a259ea21f32bc0e868faeb52598576d8a30f11641c501a617637cd58966964fd5
+2d48aa2d0f496da1e614cd14e264352ae1a64e1254556147a63d70f2dc578f66eb79b700b3516dd9d837e1ac924ac47d245d81494d20f5bb5aadaa26a8a29fdf
+3beb3e36f66aaa8eb5aada67475a0805d5c115592059f3a3c5f18ded6f09e6a151148925c449b894b0495b2b743bcd5f69918a213923af56b9cfefb57ce25a1b
+2c4aa539d8d2046fc4e013aa6f01e64af70e0c009732dd29cf94e934a8a96cab20d662557027bda7b1e11f6b0e95496ec82a636fee13d07af52db600b3f0d351
+11ea86bf63f0f221c7725c91a88c522558df55b72adb64b522af4d4075353b9c825e1bf9fa02bd0598c7aab5d3ab63f3d9d13ae5b8523f07e295e8d95457b233
+c662b814dcc4b51bdc57bc75973437af96b3cfa9b81d98215193a2d371409ae74e40ab06eec8d499d5490b5d8d7d674152c174f61bc5b2a97a8be4bfcf41ebd5
+77d90eccd09ab5c71d6c9576a9ba2b713b7915135475da99d814e5aca8c235b635a9516ab1ec64a7a2ebad5f0dc34757dc16cc262d9de1cc33a263278815a171
+ddc4556a56a1d054c2d960ba051d934d4e3f743c5199afebea4783f4f6f6b70373275e636b9ac632f11bbb39d948c72ea9e13b99aee72b2765f5c95b6cd2c8b8
+e2db8179df16b6903d02a220ac3156981d3c4f3c671ad7b1955d574baab50a7a45b7530feb609b34eacb25e651ce3b9fe07d417a7b6bdb9166b96029b24fc865
+f784895615b28acad8279233952640f7aa96b816a8b71b1bfbae56f46107e29ddb81192ed82471d7d9bc4af174792a781dea9dbf36e6832c9f023ad62e9d4c27
+7fe87c7e667fde2e731fd7c21660aeb23b26e5a4a5cc621d892b3629e81dc6637d5031ce488bc6e263bd520d7fa7b413e0754afee3607b69cb5b80195d4c4f78
+516678aa3aed1c9fb19a55814c2ee8e0afd8e0bbc97d04bff45375eb24e3134259994c4827debad48d0f5f8ac12794df02cca4b951188f77c701740538bf3fe1
+d45485b94e58b35914b6f112855522abe153ce6ea93fa987c7ea24edba75f8ee4e8d88c342077c75f3bc059843105bdcb8b39d55342b8a950306a63126aa2715
+7e550cf546980b155a55a6016055e92a2f261073a856f2c4e478e113a4f3a5b7d802cc9d98a6648cd5e958f75a99c8f14e170cee5caadcc9318f4eda8dca5c53
+15dfe6fa952cbe843315b5c97d84cff06d27d4b568b805982b789d4d1518398924afa8d3ea965619d30c2a9f3297782484c24f4c9020a9036827533355209bca
+f279ebe49e54e060197e2f09122f15b14f2cbf059857b1e828ed5cd24e608872a4ecc0e655a55d498400050ad7692b55ef90cb2aa9baabbc76ea37a53f7ae27c
+50c3a2567db5cad63e11b517df6a0b304b4484717e9a78858c820fb24cf74093c05c5fbb0e5023aaa25b8c35874e6af024e72b3f53761b1f2c2c51b7d30df9d3
+9a8861d88b09ffb915b610ec048a779797707445afaa572b8a49eb4e1557ba1b6085d024bbb38eaaa79ea87e966a255ad579eef476728cbee4ad75179dc4f79f
+3f7f7ef165545b8019a4f9f5eb17609e547763749fd68a1d978827c6295a697d3b2952f57aa4195e276fb58abe7fc33c4dab8b8b8b1caac21243e99e925e52d7
+79c8be4e36717d7dbd5c2e3b0ea886208535014679f056724032c4f96251efdbb148ea83ae6355bed775721da37cfef9ed48f3a4d54c62a5ebd4914fa0a2ae4d
+705ddec9c9edc4b41a5aae74f2cc4b1f10cbbb2ba82ececf7ffcf8515542c5206d4a9eacb6e0f3d17af51db703f326dd1d9358b500f3e5e525a4d990abc31980
+b7b41330faf0bd0d4a7c11a6896e29afafcbe50f20fdf5c571138a3d51663b9ef6269d7e82f4d3d69a90365085aefe741451de8dd1ee2664daacccd785795dff
+e50c1b138cb18a339d8d1f34c53228404f7f57c21b9b81b9bed4eec10c80e125c9651b1f55802744b6c71fda7d371628bf11e7af6b9b9f90661867ae9f92fde5
+ffcf6ae128d30ac2902f7fe0ef8d14dc89eabb0733c8eaeeae052888b57d0c74f04068e9911933f00bbff3370658f6e35906d9091c9fe9e44ec29ccf64469a60
+ffba7ea0884fa3e6fe3660feb1c4f0698f6c72506af76c73e55b3a629050e85e4a667798a0538e052c875b43e77b0e92bac933ec36ccf9840c29870f9d232957
+d15e8a1a7b2f54f418f899c0cc41f612b16c092f85db1c2c37cb92e8b0cc9bb0ffcccacc07e6c5798cb228b574a17f30d8b920f012e56f69de71064ebd0d5cef
+8e4e1500c989c53d74bb2a9e3391e6f648c824b9bb43c41bc76a7501593e5f3cecab456e54990fcca69d0129f38a88b18da5154361a07b7f35369e7e3e3003c8
+d3d3531860aedb4102f89d07499e0a70efb8a1dab8fb338299cfdc3211960770b4bb9da93626cbdc0ace0d663862380c5f85ac0f4cb86d82724752303f88bfe6
+06b3c8443d6d832a8ca473de3a57547c1029bf72b373835923286a6bfbcf31e668590b26f6f3981bcc4051f357d0d35a8da703407f4bf3dc585c13931856597a
+b612aa63e2626e8fbad9f3cc4d9a8b965e09e694e6cd0832cf523384d9f2871813b1a5eb84999904dfe1911971302323be3c35e3229b2411cd8806138f323769
+d623cadbca2c2f86c64ee70de4d34f373798b526c35dae32ddacf7a8eced313798359af2d9654c397bb6dfc1e5e56ebc94e283187156305b64e4da120924ce47
+98c960b053c99f92f2fd3ce6067387a27699536ce4eb6febf4712c382b98a5ae11c7b67c208a6e0d76ee697e1079675630db8a596e5e60fa3950356bad11d51e
+2791cc0d66175fce3c2a5508b86ba1e43e1fb382d980e47b46eddf8b1596413f5c5feb64fbdc4bb4e706331433829d9a73ac53524cf7fc9e889c0d8f7b2e58d9
+c984a25cf7f39acdb36efe207393663d790992783a1835f9fe5ae8b9c12c80e176417bdbe2655bff683e37e226cacedf5c02e654726e303b360c8369f2d1b66a
+73abbc1b1b2f7e047bcd10e6dc1b8ae96006b3b6e0fb0e767e04036dad4d5b1739ccf173531d367b6b3ddbde8de726cdda8006c32758e2ba4debf628fc25ee3c
+37988ba7ad49a978e19547c2f6d4d99e21ccbebec6a41971b04bdbc893fb0172df8a3d9dbf982fcc8c715ab053c9249ef8f72554e8e777629e308f03217bbef6
+7586305b3004995fb16b904407bfba572a7cbe486df18e338439435dbe9594ad7f35f1fece1ed9229fbdffadb9712bb3f07f58b8f348a9bbe691ed6f587b86d2
+6c6f888a719316be2ad889b0f6de4e5ecc1066201a416c53d77ab9ecfb2b8d9d6a719e3027041834631d95596b0d98f774d83caf94bf4ec0940e66af31518efe
+de823cb3cc4e87599b14acb0d2e212713033c9da82775f45196499a1d2ce0155ffce933dd6da738319188f5fb6bbc762ec0a6e863073ecc464a00a2f97b2ef94
+77fc9e9d9d21cc2ecdcc0533b7abcd3deee92ce41c6d33d3f12de5cfa4d7b706db5f784323cc4d9a8f4eed55a045df592e580976bea726dca1b6e606b385bdca
+fbbd6daa2a8ebdcdde9da1d2cead59b92f98f6fc83ef6dc1cefd75c066396ece08b60657b902639f2df40c9536a2227ab520e25f4807c3d6605cfbbad7c7dc60
+36a57d7a9aafb019c638f717ebb9c12c996dde960cb2bf08617f057a86306333a1c49311123ff67823a1594e5dc420ca5f3ac6570b6aa08579c9fd1c56cd4d9a
+7d0815790478994dbc62ce3c32dbac956962fb76cc0de61c4de5548572c1f67cf791b9c12ce58c03b8d6c46c8b9018d47bea6ccf1366827d9a661806595bb3ee
+6d206c9e302f6ce34e806b896070bb6c19d57eef003743984d6a974cbee7eb2ef0a6c8c16ab9bd14e919c26c5ed87279cef9c74cc18fad97f7546dcf1366bd68
+4cef93f3c3f65dfeb9b7d67986300b57f9db3506b6cfef0f9c27cc17dc8be2f4f44e81304b08dbefd744ce1066ee917fcd95164be96ca515c8f7deb7f8979e77
+9e30f3d1342d6562dcf668ddd3e8c82c61666e500643b45fba7697e18b23bf63da3baed1802eacf2f5c3f542db6803dc95127963677c464bf670926a3e4a1be0
+617328ec966ef23a181e2f1504333dce808990de2bb0fff8fbefbf775486819cbdd7c2b6a0b0dc6ca0db96b95245c3c7e66cc5443e0122de9acb42190dbd3c9d
+7b4769f15cb7770c664921a411e8c9ca56989bab350e76499ceb7946b92bde423a53809f23dd2e5ddf1998e934dbe037d372e3c5cc53b38b5ad09cb8d6c5cd43
+67dbdf64e4856d8c6d29831871f3ed55b339be3acc09aabe00694fffa868e52af5e993043973ff3ae89221dc67037b30a242b1867c9764b21d06fdebc22cfdac
+4d379bc00e65b19352df5f649d1806a29e5ec0628e7e708299f1b2b501241bfbebcf408d7f51986d6b18c92e3e0f382a2a87633da58aeda507c24e8e9782da45
+64fd559101a7728942677364ade2d1f802d96421d950e63b2ad1fffd8f7ffce34b751de8fef5d7e5e3cde5f5edefc5c3edc1c1fd31897e7c6cd43ffeb13c5e1e
+af5638778fffeccf2e13197c2766c7abfbd5310e1640351cbac4e3fede2e2c8f790e9ff8717fb03cb3cfe3e3e5f2f80c9750d90a1aaf1c2c0e6f6f1f6e8fef57
+ab7bbc42c37619fb52e4dab0335f086680f5e8127c0302131f47ee0cf407086767c0e2eeee044b666842c5022ebd3fce0835c10546b8843ffb2f0e14c425f080
+c65ab87cbfba572340decadddf3f9e9c1e1c2fff5c1c1ac3e02ceb88558ed0b947e9efdd43fa4b286d1bf2da9b1c6d8cb4d0c63f987558391e9c6272b57d4187
+1b06fb1c2f822cee348bfc002a17171752d1390569a367b2428e9f0d6628f72c4ca995f6e6bb31ceb904cb8bf31fb7e6623aa9eef37353e6bb726c5f9a41c21b
+f859373770b80c63932a53d590c698464cd3bc5c5d5d81150e0f6fed72b86350b350e5d0b7a6a97148a6430a797265f22d38a119cecee05ba1c6e2f0d0f4f615
+e55f0afefe1e227bb878385c9c1f9d9c2cfeb4023c6d8a03cd40c46f1f0ed1818787438835beed04d25b86d9621dbf6fefee6eecfdca8fd0d5263832a7b658e2
+d8e5180c00c2de3d3e324e79ed624c8b6b6f5c3f83c53eb35c91e3e33f170be0628e14603e032aa6a6d18c14b09d3476383b3a793c3c4449831f37140f50c91f
+1c3ec0189b0dc6f1f87804c4612e8c07a8d621db27a77768f3e1f0e1e6e6eef6f61606fbeb83bd3598013088fbfbf7efc3dbeba3931b9a47d8c97b58d83308dc
+f20ca6d8e40b3be73e82dc8fc0f8e6e6062af4cf439b7d72013c38b0b2e69e0184631b52df1fdc1e1e0280c387073b65ff53ded8b889b8b958061a2c2d64f6e4
+e884ae1d4cb6b541265b1e3e5c43648534241bc58024c1363d035fccdcc1e315641a1564afbf38d25b831972f07f6f6e16b7f0a557f27be1cb9a1705d42c9a11
+8afafe003a12300163a86b5858739ae46711dce3b33312fde010f0832718df366ed02e3386b1c1685fa1bba9cea1b14f4e4c56718edc4087db9b748e00b6d0cb
+e09be3fb6300893fe02d671f05d13ebe83bdee8f31e565711bf0cd5776cdb600336000c6f66665604c75280181fc9a101f98aa45be078ddf23680a050b0ee0d6
+9bd78c491d5f0115ca9db1c5f1f2f108a0c10f3625bb8271e5b1387c30f1ab51ec1826c1463c3e9e9cc00623b246d5ac611534b8ab67e2874ee2a6685cb16e14
+00c3e14e618c610ccc1a40bc31e23213707cfc6565fab361063a30c65757c0ecf7c1d2ec2225c37c28130f1355932bb38a8f86b13cb26b52dc90a385049626ca
+56fe0c55415cf084ce837bb04fa789b2ab038dacfd0030a6b81175794492af296f20873f148251b061bac655f00c64c831c6338bd174320a43b2cd02c817a751
+07b7c185bcb983bd876e6fb7cbfb6efdcbe7cd3767509a3e1447301c1df155053f905d3bdcaacd2903670a4e976d977c64f97b553ad3ff4651185095c959e435
+ab9963e6392adb9bc93895f9d3f6383847eabe928b6c08e619271637e328c0ff2c61b425a4583fed616c01c0e5977d3fe1e7c10c187efd325143fcd2268257cb
+4bcbc453eae5e095da43de5fea455269ac510be5ed051631a0d6421a7ff141015fd904fea9f8658cc1429bfb6f55c270d9efc2b74bf29c7da2e59a5aa4e558f4
+1f3c6dd4dc0b8fabda98fe0be6217d12cc12659043bbe24a96cfcf17366a625462006df925436b74640404c045766649c116426c42ab206bba0865937f830089
+6ed8df77301fe5e26cd5e2a6640b05cbfdf5654a0fb6e629e2f0c87ed9aaad2f767c06ccc0093c8e87979f4c4a196cbea766a5b55f6d44527e480787c2550289
+c04fbc95b90963a1b857725175b391d79de15428e63c86139143b660b9cc344b4d8f4e7db58cb3cf8059a22c8c6bd87082e3a72eb312e92b7beb72e3b571a16e
+40408b602a5d1152fe75470a64d3e0992be6fcd4a4dfca183bac5610d22826896e0a1ff1518554cd14197f206aebef2dfc2252fde1300b63ea6a4a0981ac616a
+49779023107554dd9122a1bd5053d6838a430672a91b998304a81869f7b8d88004991ca56076bc79d05e8d220fabd6f49fa708cb105eacf4880a169fff3a32fd
+b130d3edfa65931024de35deb7ebc238046bc0f3a25d7acaa9e70575fc1c622ca8884d2a04e9e4f1e1380e2e84320ea8edb7e50b5234f39fe4c7445b37206fc2
+08fd00373393c94e713126f28927fbf0d942fee130e784041ed7346a884b79d0a4555284546e42ae35329a45e295708807240c2d9d386b5c541585b7535447a5
+77d124decd30d0de1d6332afd0d4455c63cfa4b2d3ca987c43076094b6e5e39dc323a014a20380163105c4abc1cb279c90405c8261109f9050311e4c100899d0
+f4b1e68464eaf05f4c4629c269d14d55436cc2652db1646c0241124e5e693ac2e25b3af4ddb1044f1c5b7446d193fcd42c969dd1b496fdc437632d4c64798e02
+4328f63ffb8606599da53c7e6e2172db0803f1574e6d318c63872883e393e365ef29cdcaad55b2340e37c9e471d3db1ae8c6f23557cde1cc88faf1e99ace96b8
+71b2382aa9852650b5569e1e94d0d9d4c9126dfac72ef42553df659f8511f79619a0dbc86af202f57fb4939a233552f81fe618ea2406fa1a168232980ebf4472
+cce55f9b8fad27c711de93a4c5735fde4d9ad11b3c03669118f3bfc5fc2226766c6ed1e28216626480105f4ce298687d8c0825b3ac198e3e7a8cc8a62d60c44f
+080482cf14200a37438f2664f74b13b4e3e3df30f50f8757c808ba4794fb00d387b82f04f61a01664c48706eca528aec864c1aa2589ab02e196545d8da725430
+c18c74941bc4ae11ef34f9e60407a6c434c76cb5a512a4421867c5fc95fa8f692ec8b345b7ed1f0a379b60ea0aa5dca26368d82654eeafae30ff81f02ec2ac88
+a172ca6bfa007f8028b806a1fffdfb965327839415e3344bb1e08d3738de0d66282270abe1aa193b9be9bb4117ee1eb1a3cf21a94692199dee81834d2d220a7c
+77e734b5e988fb1bcc29e0e4d19d4df543f3195fa0851388435099738ba64eefc14e9c593c600d9b79942a079f194391cc16c4060aaeb47dfad24edfe30ed4ee
+f7f747773700e6e6f206fd5e5d5cd95c84ca1336a52a8092aed84da523b3e0f6e8eed1a6b0ee2e51e08ad81a9a781ece9b52a3533f21d1cc3e91778c10bdc5c0
+2d7a6fac2b802640d21cfc6a75051588483968a51c34b87317ffe74a5dc2c3fe069b3fdcfe699911cf23fdce4a9b2acb9d5df12aa695f0071da8618a06a1f470
+426dfb28c5341cb347e88c7bdcc17465b728d94735e1d1da94c6c246b4f6074a3497ab05be32eaa92ea575084dec75342248474cdf6932a2e3f4b9a380cd98f1
+99f038765bfba937d8857d4a31737def813c363be8e9401e15f5d35ed1889c0a63ceae5ab5753afc69917e4f98a95868ad0c4e1f4ac83ed9de4deda135a49167
+ccb3cef95e2470ce6b15baf63889595e567b6a7b40e2282acc74f8cde22631741a90cb59936c677d64617149fe4553b2df8a08b4aeb57be9cdc22c256e5f7700
+57a49b2dcecf61bb4e4f6d4940c0bc5a9c2f04bffa61df9f68a8dce07d60b6bc79c540f8a016a8c69358cab47783fcdd6e8be7bcd36b95e90e0dfaca13390236
+9215a238638c9ecddb8ff34e66d845de258bfb9740aba1ad3e10c0dab663191e98c91397df11fed6f1e19365e8bc31952243d03ad455d019d260d3a2a9d51e26
+337c0b8facb25222ed7bde0ce6c926c237c2f97d6006c6f0b1d1733e8f86b945fd35962627f351b5371bbe2072e43cce62ee642b122246a8a86453e3a753c321
+672ae8fbe287d6a89027df05c339174acaadf9916e90704b9afbf84eeb8ff75ca4f0a3045ec55b787628647cae53c21717b68c286557ba91090e7627101c9f9b
+e7abbc4f02afcf4cb832a6bee6e484536ee37f5ca549509c63960717cefe9cbd749de9a29796c084de2dab18453835751f7d119b49bcec3a65335af50a3ac7bb
+592b19c9d279de4a822d512a8f59ef981ceacc1bb771dfc57a89ffb178c7528f8707b0ff5f7f5d22866aabf6982ffcbf01fbc5c53ffff94ffcc4558cc9d0bfd3
+9fa71baed77d2bcce828bc5c0ca5985fedb48d3e0fc89052e24acfcdb8cb4e10d8a395249155472a9125144c308a8050f5f2ea3870c5c505066c3f7f6a6a3209
+4f519442958b37c9852eaac11f6c42be8f8dfe854c3283806b0d25db38f7240b98311ebcdeae3d266c9b24be3ea239d51717106564830348e0fa3fbf7e81ce3f
+7f22fbe11488a31f9cc2dd5490deaab4716fcbeaf299091245fd2548ea8514693daa10a61f86024c3460614a9b19a7bbcbb1f2135148e0a090cafb532f4dd775
+b774761a9a32a7546b49df38b7922d36528af37410fac14deaaf8efe6977bc8fea351fec00ca6a2af46dd8c60b96c0b55aba6dfe3667e4cc29d36bd4363bde0a
+33bc7fcd07c32bc41db535936bdcd2830641d171493ff141a9ebe44fa41a5b449b49c78e87b4c2bddeaea7830c433d5b910b2673560be61856515290bac0a15c
+29168d399b8c51c8e2c561e80501220c3eb0d5093c94200568cd96db4f5b82bdb961461fde141ed1f81d2604d101460690bc7eadac6945a715d84a3873181f79
+78b8624514304238c5222acaa3b600cbd282246c4a8115cfc31d528ec12eabaeb62c1086e0b3a5f365f10c5ae314c2138a5403250b34a87beaadbee45f765ea1
+26844bb4face421e16a450c05cf19371304a37f543a4d09f4744589d2514dc437eaa498862ddf83c393941a35a608deff8fcf34fac35b0fc517c7f6948fcf5d2
+0c8cc568f930f602cecdacc5844919496e7a5252a062f8b1261ed40b491930d758a07846b8ea68067724e7dd1d2182e69967571839993af2b46f4197659a3168
+36c0bc8cceeb96c8da009a832b8db25063439fabebd22b61a665b2c5c7cdebe273e991937c4f29cfd211279a4650a6cbd44c199936384c4bd6aa1dc7a4573c7c
+ceda23efa54ed5cf61dfbd8178849cc13838475c5a2adb17e13d15ec98e4cb78bc01ada00cd7747e0d9fbee4f46b60d64c94a768ade8ef6a2787e2128982f190
+1bc29d9255cc564e4e3517cbe46324640d9574fd26e9e07e4fb450954415eebe2e1990fe71d502e412b2fc60581595d9491b038604375da70ae2151402396dc1
+3ea7f55e02dfa6655f0cb305bc98bf7774643e7060ec644f0744f79f50ce93a72dd7c2dfef970a9ab1e2e6ab7b604ce1314bcab00f8c2ce402253fb51fd3ba94
+9d72e7c9eb8dd12d0c5a645aae713c9587798233736c171e7f7df489aed4f770a06138542aa469dc4dd1dbb8dc6b60cec08d543799790da00eea58fc5a07752d
+f4bf0423f273522c24468cba04ac2187a449bb7d9abe11097ae2b14e286dbb589f6142fff0941a61c9f2d06d68e537b1e599d979574852427e13fac9ce3336ae
+607c987321c6bdaf9b9f7802f417c36cfeb4c2d78cc557f53abc4d10f0198ea3da9b749da4f2749505480ea30802471953a05c2be58a7f25954892a616c4251e
+951016057655d20da3216f2e5d01a24c8fcb7b6b550c1d6f6c208339ab96f419ba149528a9bc1b2d25d3ef08f6cb600e9522b2708a30d97e3de0a1c72406097f
+088f51573088900e870c1a99ca164398dd4f6cfd770b4035c84ab0c97548f379258871ba903ab00a9e6010ca62cee49fdab8bb5d63def556bd25698acae9a165
+a615b2b838bd4f05fcdfd14ebf0066b982f4bcd47f857c2df45bf4df980079a62a457fdafca75ea392702a71676c5b0839159632b25848984948cca690829154
+bbe029d422bda8f15e743b00677117e2b00b28e35b2778d34584893b7d88a6c2a92b2e2ae7549a141150f4abbcac9475e2f15bd005ed29f4f42e32bd697844a9
+4c87b7bf4f4f8e2c31c2567d6ba48f70c30a6978ec7dc62a140851d4a1cb6dd0193f898008563bdafa7fee28202fe7062919965ea3cd048c8994e6377558060f
+379a6182c7f131924f1074b09d8198b967ddd27615d60a3e993b849d25f0ff9259434cfcb3f40e8b5518e3e256d41c2c6bff73edb325b73006c2e412dfbac072
+4cb888d312900497e226627fae70b74c121ded3c6a2c0e15aa4ce230f482cea0dfe6ea683dad05491009796930644ca84da5d975884f32aa1dd7c0662aa73108
+0535b83c50ee2d2d3039ba14a6d40c5da376df1400930fc96e764b9a16dbc840846338135d74852f99f70f8ba57b52a25c00de558167fa0134cae14244820c2f
+db9dfd9f2111d0440e1f12f86080097aa1bcd65ae684c43b6ee7bf11ccb6493595677497c3649228a0ae4806904eafe2ecb8b26f0f4942984d968f654dae30f7
+42785ced5607b8c3bca83ad18fadb8957486a8041d549715400d9f5e73e338be05f116edc93e44229a1d0ea49c115abf6ae7e976907da6edf3c1920b3f9b85d6
+1361f8fa76bdfd3ccc6621983220428aebdd611205e4d67412ad67ea88ec50fa595c2ff1776fc22815eeab909a1aadf5ea434ca2b3b49afa5e31cb2a79d2cab9
+0fae5a7dabadf7720ec878c14ad9afe163ba2f3921ae8d48ded331c5bcff92a1e0dcd585cf0f4db5b9e1b9e761b6488805359b32c91ef8c94e462bc01dfc4911
+5651ef2525212c92e820b88f5fd670bf03d9b3532bdde8b8064026eb39ef5991ca0143d8e3977c71ef639baf0c9fbf0db784d8008529de9cb44a0a29fa6ba7c9
+8c98417fd3a6fecfc00c18a6dc7a9224e5b8a2d0d8b03c617dbe00deb616d0666fd954ca8a4b6525548774fe74f35a9990fa609d68aec17ba0882b36ada1a6a9
+c5f039d492c149f1ebb4d8586427550c19a705557c681195e917bc657cf514cc3644b0b490d829408fc35b13e23a4c9860de5e650e916af6461a2a52e9b25552
+83973220a11fc383d60b1b75f16e6c8afe52574a3f0bfbf0778d554d56a827878a491d0b5b1136595addbdc10ab0a0edcea87575352f956281b53d10e4e12d48
+af8559a364e3a0213fdaa32545d7cb71a3a0c5ab23cfc1522d3d0aa8f526fe80c5186b4ca5e74e7784dc9c818a8128e36c869c4475a79a91bc6789ea9fa13daf
+e8bcf40cd0ced9fef4c3c2eaf4600c6105fcc1d768909eeb2cf533d6e34bb2d5683bacc3af73c79e82392cff402949c8028c35bab1f6384301ec703e89612c93
+ac0711880e714244ebe792e3331694163b10e2fceb2f6f24064e61d7151e791238654d47e36d3cb6ae1253fd3d7555c6b3886201833e98b8b94ec67bb3537d8a
+b499c19de385d372bc9304af8c804e8447c02fbfb141d3d5952d98f81382c821bc0c9e76c7fc81fdf7ec3b77a47dece31f5d3884691cb6375b39f060d8750bdb
+83a14d84162c086218bb4be3e920144d844c2c4c8202171601d10661b8827005be211862310c04346c150eb339501484d13eca764cae6141d2cbd1d5d5d5e9c9
+a305c99d8616e2b0988c1dbe9427333e70d3ab0b6e6c658d5bda891658ea9edc3ed2b340ac2637fee47e54239e199f316e3889149828dfa226d68aada2b1e561
+160ac2c6754f2cbe5ac7a313d26cea5aaff991a4856fa9670ce11a88267ed499356dad94b7ac594b3aaf181e1b6f7250ad52d38054ded6146edeb43566b97dc4
+4a6e4f75196a1b41501f746aae5e35fd0bfe81f6d32a9850b7760f59d6b889ff2b538bfd8fd4851ceb78bf8bd260553e939de41c69581f3e75afbb87147331a8
+27d565a4f6f9609acf008fbbf5711daaa3f3bd345b0fafaeb0091f72cac8b35af4455adbae7af6a0b662f144313c74ddc5867ba4795fb9a55a15df96188562e0
+7f6490d90b4928811037bb29829ab633a324c0b3a6780b13152c8dd63eb94c14f38371488b0bdad68012ab2beec0cbdd3f95be85b578f6007c0214860ec00a34
+48bc51caf615b43b9a10338c896caf2bdcc5174763952517d9adb090f10a6a43a963ad87ecbbd2b9b4ec2d16bff9da49db13d856c5d9bdb107203b9de965569c
+eb9c4134bbc470a65d8d33a98c6c934a5b287d689bd3a273d8a30e4f809a88836e8cf2f0e5811693a2dbe52f851934d3ac0a97f4a4bcbacfa393817dd674118d
+f256389c2f36b8ce3d193e8197f25b6954296d3b7051243cf6514ca06c39860c365dc97c049734bb7bd125a13650de52dff95fa62e844299e8eea4138093b4b8
+9d292e0a2bde849493132251d17c98004c8d682960a148cd560ba6cdddb181d256f68f8da0b40c8004b20c370a71e47fdba33255b8bf8da6ca796f3d4f234aae
+05d240bcf52f5463d587c3ba56a251ab00ee5b8089212aae93ce97d0f0c642b7ab6ef474a087b3c17808a3c910e5ea3fa622cd281227134bebc1b8ebb04912a5
+a844ea81ddd5618ef8009663615397cd632603987dd8e24b580c65dc00dd1dcc0cfa5bdc6a2e787b7a3cc3d3f9c35218eed792948a0e1602baa2ab4475311e8a
+ffe04d45ebb442a80cd127d8b50d149ad648b62c0389726ea4207947fb18270cc809e7638e67123bfa0cd11ddda532477a469e4eea32bdb64eb9e030538c6d00
+6e7b1f39e99b77747e0ef97652ab97f5b3dee6d91c7177be12b78427282aa28946e2073a5b43edc75a90660d2e936d1ac9a581871a5da3207a5d82c10771ed2e
+55ff5a7fa42605a515c60b16ec333b46a0ad48d7bbf869232b1e93d3c6126b5d9a2ca0ab22af080b71308908a9b085dd9bed5fe36ba8d073cc849439a8c2e5b6
+9b9a19c2b41ccf8aac2a77da494fa21d722bfdddc1235ae64d0f3f4548a50cb8631cae351de04b258783a0384dbe10ed594b9a548363de5212289874bededd2e
+e2b7dce99c848bc2e9ef57b616bba81605c1f35cd512e139b565325c0893749304f3f4c222beb14c46cba53a114ac94951b4659eb13013cdfefcf9ff9e4dde36
+9871276e286a999ad9bffc06393e3dfd99c8a97ffacc2ffa994f22fead251375f3ef864bdf9cd041bcfc49d24df83004c1fe434b168bd5f6e822b78e18240974
+d717eb600eb0a39180d7d1769d920da94b03134116130f256f79cfa34b9d5a512f514f4c10b1148fa8e024a9a437c83f60c863cb59c82cc0299fd191467f09d0
+d348fff1ef7fff5b7350e99f0ca1b6ee63b3c20a9b19c500010c89baf6693311585cc32d19282ca4b6d324adb03d9f1461d0d7b40e97609534b901ba8d64316c
+c5bf220dfc1027f0406d3235da5e4d53a2cb1dcca634a277895b3c94c7c6317434f6d53a6c272f9642a89f15efa633424e6cd49e9c174ce08aaab06f833f993a
+452d79bc577daed892ada9449e41fabf6ded067844492ed86247eb7adaf21f1bb82208838123b66e3979c44e2ed8c085e35a1bb7ae30a0c3e36050874ad875c5
+9e8e572d18b4d4f63fb6b10a5f5cc066f12a0b4b2bb29b6058c958921d58826584e1a0d86f8e9fbc8feec60a19d3621c8a8130ebb546b47a59860d97b96b3d3b
+b8ba625a0f23535ed95e2fc5001681b6ad6c68293ccb07094646365bbbc5ad7016e8d82db726c27934680371764cafc0b286a27bf882d758615f240ef0a3e7ec
+b6b54820995f25eab0baa51fc5f2aa08aa654f50cb48c24d72f806078b173abbb130148245e0acffd655db7a66cd9b74fecb946d48490baf34bf94ba886df72a
+d44b8bcfe9f5454ef940b4d8d93460de4b3647c75e6c1fda394b56f17751ca1bd9ef81cf221f9a039e14866c5277f4ca8c22f91e200c15cbb31c088cf5c997ae
+6b94c117183a09a8998bd6aedfd12bcbbf608b3d09fc167ea32465762be9521c43d15cece8dfa31b033858e0e9598d3ffe656f5534050a37472e89f52162faf4
+897a7c4b9706564a7deecc52c720d6e34c1d731fa9413ffdada9af7abb61afc29b328b25aa54c2119bd4cd582dac0105592d9e377f2611869ad9d9215d445149
+8a9f600fec004d66131b2cd486b6071374b40c7dfe0409c632d34c5e509cccc790d10090d6ea1ffffed7bf10eff1ee0ecd091d04ee0054000cb796e73affa563
+3a7940198a0ed619eb05efcec82c55b66b5d9ea2945f4d926453514d3e7cdfc8a8d8c060abf3cef8a3ba1d32a557c29bdc4c2765d8ab8e09dbb3bb021b6bcd21
+5959ac0d4902586c6ee19bfa4cb18cb960be6a412e530323d8bfe353b532524a137c2a16b6ddb2e259a85c354e555fa3bfa56b297479a311fc03b6901cd563cc
+079b4035863cc9998d87344c3a708d308299224ea0a7c83502435e7a3492dbebb4dc146b2cac52eb91745719e24fa17cf0c77ffef31fbae9bc850f45d4c1d6bb
+e8687662b0ed4aa361475fdd3015851ad593a77a98d232ae038c58ec864bc79416d0a38b8f923f74a2fcec3573bb293713cdd173544a97d849964f9892d82986
+1190f216e4798c2522d9b4327083c747ed43ce1d002c682bf74d82db4edab8d9064bf92aece624d49ad1d5c2990df3460c81227c7c3b56043652f535de198b57
+d7cfaada8a7c4bdf24995aa5ee64b051e1b108bca84ef0b4ebe4114ec1a0d1d1667b46048d816325c3781094f23dc2cbaf14e4c4dc6309a8447906d7eef25b77
+128ae6429ec8be012739d97ebb89b2601a71c21f1c584b904832e6736520ac93de2905905cd7ac78009684569942cb802338c3111c0a68a1a8e1a258444e364f
+d0d8f5f3d0184be6d8320389ae269b300e807b3d8acf62fe5e304f89becb0dc5cf074fcea6559111fb78c226ef8d973dda2862a90041c387c2cb5a59e10c530d
+7f935baf953722ab598bb662448d0a205e609c2df9c48224f63e16057d0b721d71154b09eb970cdcfa9b303f8bcabb17f80898273aa99cfe18263715401ed7ac
+67516629b8ae238cf4968a15f8ba342c971e21e722b8d8ca886f98202a0c4d878e276a8a9202016d4b6865621002cbc52c479b9d10cc591e5146b469bbfbf0ed
+579b6110eaed251674b3965f53ea936096f9d78441b07715cba76887ba000b517773b742f90a577b3dcce525f661c14f855d9590aa45f1eed537e14f2d604112
+5b2e1499949abaf6640ae737b184fd870809a5192cd16fc7f71a926fa3ce27c1fc9647d3cc4a82e772463b2769ae7cd30dde4c193b631569e6c988e477a38a50
+2b642846da9507c1bda22d74fcb20db9def2e0ef58f7f9c535ef78b3d73545b36e02dae94bc53b9bc34f776f78f86634657ce0d723561aaab55454684e49b5bc
+f38545af907ac79dd8deb2f4e1758fff2eb5be3acc122657a7f2dc7968fb5a5c5ae7ab3ae8c22f70d6c93224ebbd22fa71e6ce69624a007ba0c3bcbe09567a17
+183eba91afaeb4732e7c7d94618a4415fcf006e4a3e54c7984e22a1f0c8651ce1fc373b6987bb461ee4783f4f6f6bfba347bee44af8dfdc10783e3248686aaf9
+17e7fd750c96ad017f8a6f40cb921a13c768ad7dcd019e0fe76ad8e3edc4ffbc16beba348312f2b3065e7aa23e12bf268252b6157b3f6101ba1683ac0c24d4cb
+d10cbfc537e4696f38a0fa3c0837b9d30ec08cc7d0b01b2941f6482dc661df07b14f37ad53814211a3845fc4069519daf7b8a0a0b482574c88fb1e506dc2546f
+29a34d9cea2bbb47c2e7c1f3ee2e5db1c43604b72962c3d9432f11baa3fba5f99f0855bee521b6557737a4d9a9c34513dc1b7e10a316ba061ff571443e63b094
+121ca19501addb550fa6d3af37cf4f72fcf474fdb6607be97d77096685d29004d106486576dcb0577453f363632b5a34361578fdcdef1119d544858561775c88
+931b760966759a6023280654f8ce8794e3c2e14c71e111b3e823556d17958a5a6784558cd319be46eba572f335cbef1ecc41474fcb7023ea88869ca73d0e8935
+392f1e5845bd73c4666089c7acb6bb30d767896945695d7df8ffc59f1e8d9d1af6314b217f8b4defe4c0699d2e9907ccaea09b7d4d47b9e02df804bf4f5346de
+fdfc70edf09e13cc235656f89ba9021c17b9b1b64c04cd73eff218e9454ec0570f76bee861fac298933e3d2dbb4231cca148e63e610cb2cc1a66aefe46d607df
+eaee1adbd76acfcefa3e2d0fb356da7c744e19234ada1cb079443c5ea4e7e60f73426dc36c8f6a41b477353afd2274b3f07ec0ec42ed30cf6cb0b409f07b03f3
+26c4986f9999bb60f305ee654ff60df3cbe8b5a3a5bf61de51e05ed6ed6f985f46af1d2dfd0df38e02f7b26e7fc3fc327aed68e96f987714b89775fb1be697d16b474b7fc3bca3c0bdacdbff1fb349382b131b36510000000049454e44ae426082}}{\nonshppict
+{\pict\picscalex56\picscaley56\piccropl0\piccropr0\piccropt0\piccropb0\picw4286\pich6085\picwgoal2430\pichgoal3450\wmetafile8\bliptag-1651148750{\*\blipuid 9d957832d5c3ac80dbf91675c2e6ff7d}
+010009000003ee4b00000000cd4b000000000400000003010800050000000b0200000000050000000c02e700a300030000001e00cd4b0000410b2000cc00e600
+a20000000000e600a2000000000028000000a2000000e60000000100080000000000000000000000000000000000000000000000000000000000ffffff00fefe
+fe00eeeeee00dddddd00cccccc00bbbbbb00aaaaaa00fecccc009999990099cccc00cc99cc009999cc0088888800cc9999007777770099669900666699006666
+6600ccfefe009966660066999900fefecc00555555004444440033333300663366003366660033336600336699003333990099ccfe006699cc0033999900cccc
+fe006666cc003399cc0066cccc0099fefe003366cc0099996600cccc99000033660066ccfe0066333300cc9966009966330099cc9900222222006666330033cc
+cc0066fefe0033ccfe0099fecc000033330066cc990066996600339966000066660066fecc0033cc990000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202220c0a130202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020222201e1d20260202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020205111d1d1d1d201302020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020c182120150f1d0a0202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202040f1b1d2020151b
+0a130202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202220c111b1d24241d1c241f1302020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020213131f0a20201d
+1d1b1c1c1d1d1b1c1d200a1f13130202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202131f0a20151d1d1b1c1c1b1c1b1c1c1c1c1b1c1d1b1d2120250a1313020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020213221f0c20
+151d1d1b1c1b1c1c1b1b1c1d1b1d1d1b1d1b1d1b1d1b1d1d1d201f13020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202031f0c271d1c1e1b1d1d1d1d2015151d1115201520151515150f111b1b1b1b1d1b241f
+13020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020203
+2215111d1d1c1d1d1d1d2027212015202020202025252020200a0a25250a0a2015151b1d151f1302020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202021f201c1c1e1d1d1d241d27212720232424272424272420202020202025
+25200a200a070d1b1c1d201302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202022211181c1d1d211d1d1d1d1d241d1d1d1d1d1d211d1d1d1d211d211d1d1d2424242720202515211b1d201f130202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202040c1c1c1b1d1d1e1d1c1c1c1b1c1b1d1b1d1d1d1d1d1d
+1d21211d1d1b1d1b1d1d1d1b1d1d211d211b1c1d211f020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020206111b1c1c1b1c1c1c1b1b1b1b1d1d1d1e1d1e1d1d1d1d21212420322421211d1d1d1d211d1d1d1d1d1b1b1c1c15130202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030d1c1c1c1c1c1c1c1c1d1c1c191c1c1c
+1b1c1c1c1c1c1c1b1d1d1121211d1d1c1c1c1d1b1c1b1d1d1b1d1b1c1c1b201f0202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202040d1b1c1c1c1c1c1c1c1c1c1c1c1c1c1c1c1b1b1b1b1c1c1b0f0f0d0f121c1c1b1b1c2a1c1c1c1c1b1b1c1b1b
+1b1b1d0a020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030d1c1c1c1b1b1b0f
+0d171c1c1c1c1b1c1c1c1b151d1b1c1d15092f090d181b1d1b1c1c1c191c1c1b1b1c1c1b1b1c210a020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020207171c1b1d15150a060f191c1c1c1c1c1c1c1d20211b1b11150c0a0a0d182a1c1c1c1c1c
+1c361b0f150f1b1c1c1c120502020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+040d171c1d15150a050d1c1c1b1b1b1c1c1c1d24241d1d15150c0a0a09171c1c1b1b1c1c1c1b1d151507090f1b0f070302020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020203220a0c0c0a0a0a1f13020202020202020202020306121b2115150a040d190f0729070d171c1d241d1b1d1515200a0a
+0d181b1b1b17171c1c1b1d11150c0a07120902020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202040c111d1d1d1d1e241f1f22
+13131322221322220a201b1b1d15200c050d1c150a0404060f1c1d20271d1d15150c0a0c0f1c1d0a050506091b2a1d15150c0a060f0c13020202020202020202
+02020202131322131313020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+020202020202020202020202020202020213131313131f0a201d1d1d1b1c1c1c1c2120202025252020252525211d1c1c1d1d2115201b191d2421241d1c1c1d1d
+1d1b1d1d21202020111c1c200a0a0c151b2a1d1520200c07121522221322222222222222040a20152015201515200a1302020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202131322220a1f1f252023211d1c2124
+1d1c181b1c1b1c1e1c1e1d1c1d1b1d1b1b1b1c1c1b1b1d1d1d1b1c1c1d1b1d1b1c1c1d1d1d1b1c1e1d1d1d1d1d1c1c1c1d1b1c1c1c1c1b1d1d1d11151b1d2020
+202020202020202520211d1c1c1c1c1b1c1c21250a0a1f2222131313130202020202020202020202020202020202020202020202020202020202020200000203
+221f1f13130202020202131313221f1f1f0a0a0c0c0c2020201d21201d271c1d1c1b1d1d1b1c1b1c1c1c1c1c1c1c1c1c1b1b1b1b1c1b1b1b1d1c1c1c1b1b1b1b
+1c1c1c1b1b1c1c1b1d1b1d1d1c1d1b1b1c1b1d1c1b1b1c1c1c1c1c1c1b2a1c2a1b1c1c1c1c1c1c1c1c1b1d1b1b1b1c1c1d1d1d1d1b1c1e1d2120202020250a0a
+1f1f2626131322131313131302020202020202020202020202020202020202020000030c201115201f22221f1f1f0a0c20202015271d1d1e1c1e1c1b1c1c1c1c
+1c1c1b1c1b1b1d211d1c1c1b1b1d1d1d1d1d1d1b211b11111e1d1d211d1d1d1d1d21111d1d1e1d1d211d1e1d1d211b1d1c1e1d1b1d1d111c1d1b1b1d1b1d1c1d
+1b1b1b1c1b1c1b1b1b1c1c1c1c1b1b1c1c1c1c1c1d241d1e1c1c1c1c1c1c1c1c1b1d1d1b1d1d1d1d1511202020200c0a1f1f1f22221313130202020202020202
+02020202000005111c1b1d1c1d1d1d1b1d211b1d1b1d1b1b1c1c1c1c1c1c1b1c1c1c1c1b1c0f1b1c1c1c1d241d1c1c1d151d212121211d212121211d21211d21
+1d1d1d1d2121151d1d1d1d1d211d1d1d1d211d211d1d1d1d211d1d1d1d1d21211d1d1d1d1d151d1d1d1d211d211b1d1b1d1b1d1d1d1d1b1c1e1d211d1b1c1c1c
+1c1c1c1c1c1c1c1c1c111c1c1c362a2a1d1c1c1c1e1b1d1d1d1d1d20200a1302020202020202020200000c1b1d1b1d1c1c1b1b0f1d1b1c1c1b1c111b1d1b1c1d
+1b1d1d1b1b1d1d1d1e1c1d1b1b1c1d1d111d1d1d1d1d1d1d21211d211d1d2421241d1d1d1d211d1d1d1d212121211d1d1d21211d1d1d1d241d1d1d1d211d2121
+1d1d1d1d211d211d1d241d211d1d1d1d211d1d1d1d1d1d211d1d1d1c1e15211d1c1c1c1b1b1d1d1d1d1d1d1d211d1d1b1d1b1b1b1b1c1c1b1b1b1c1c1d1c1d1b
+1d1d1f0202020202020202020000111d151c1d1b1d1c1d1d24111d1d1d1d1d1d1d1d1b1d1d1d1d1b1b1d1b1c1c1c1c1b1c1c1c1e1515151d1c1c1c1c1c1c1c1c
+1c1c1c1c1b1c1c1b1d1d1d111d1d1d1d1511111c1d1d1d1d1d1e1c1d1b1d1d171d1d211b1d1c1e1d1c1d1b1d1b1d1b1d1d1d151d151d1d1c1e1c1d211b1d1b1d
+1c151b1b1b1c0f1c1b1c1c1c1c1b1b1d1d1d1d1d1d1d1d1d1d1b1b1b1b1b1c1b1c1d1c1c1b1d2013020202020202020200000f1d201d1b1b1b1b1d1d1d1d1d1c
+1d1b1d1d1d1d1b1d1d211b0f1b1d1b1b211b1d1c1c1c1b1b241d211d1b1c1c1c1c1c191c1c1c361c2a1c2a1b211209070d1c1c151521211d1c1b1d211c1b1b1b
+15150d0f1c1b1b1d1b1b1c1c1c2a111b15150f1c191d211d1d1b1b1c1b1b1c1c1c1c111b1d1d1c1c1b1b1d1b1d1c1b1c1c1c1c1c1b1b1b1c1c1b1c1d1d1d1d1d
+1d1d1d211d1d1c1b1d1d1504020202020202020200000d1e1d1d151b1b1c1c1c1c1b1b1c1b1d1d1d1d151d111d1515111d1d1d1b211b1d1b1d1b1c1b241d1d20
+211b1b1b1c1b1b1b1b1c1c1c1c1c1c1b15150c06091c1c1d1d1e1d1b1c1d27241c1b1b1d15200a151b1c1e191b191c1c1c1d1d15150715171c1d1d1b1c1c1b1c
+1c1c1c1c1c0f1d1b211d1c1c1b1b1c1b1c1c1c1b1c1b1c1b1b1b1b1b1d1d1d1d1b211b1d1b1d1d1d1d1b1e1b211b070302020202020202020000050d111d1d1b
+1b1c1c1c1c1b0d0f0d0f0d151115110d110d150f1115111b111d1111121b1c1c1d211d24211c1b0f1b1b1b1d1b1b1b1b1d1b1c1b15150c07071c1c1b1c1c1c1c
+2a1e24211b1b1d1515200c111c1b1c1b1c1b1b1c1b1c11110c07151b1c1c1c0f1b1b1d1b1d1d1b1c1d1d1d1b271d1c1c1b1b1d1c1d1b1d1b1b2121211d211d21
+211d211d1d15151515111d1d211b1b1b1d1504020202020202020202000002040d1b1d1d1b1b1b1c1c1504040405040504050605060506060706090d090d090d
+0d0f0f171b1d1d1d1d1b1b1d1d1d1b1b1d1b1d1b1b1b1b1b1d150c0a07181b1d1d1c1c1c1b1d241d1b1d1d1515200c111b1c1d1c1d1b1d1d2a1b1d11090c111b
+1c1b1b1d1b1d1d1d1d1e1b1b1d201d1b1d1b1c1c1c1d1d1d1d1d1d111b0f110f0f0d0d15070d09090d0a070a06111111151b1d1c150402020202020202020202
+00000202050f1d1d1d1b1b1b1b211f1303020203020202020202020202020202030303030304050d1c1d1d1d1d1b1b211b211b211b211b1b151c1c1b11150c0a
+09181b1539151b1c1c1d201d1b1c1d1515200c111b1c1d1b1b211b1b1c1b15110c0c111b1c1b1b2121212121211b1c1b2420211d1d1b1b0f110d0d0f0d0d0907
+0906090606060405040403030302020203070f151b1d1b1b0402020202020202020202020000020203060f1d1d211d1d1b1b2526130202020213020202020202
+020202020202020202020206171d1d1d21211d3233333b33252b252525211c1d15150a0a0d1821252525211c1c2120151c1b1d1d15200c151b1b153b25252515
+1c1b1d211520111c1b2115253c252525201d1c1d202020231b1b15050503030202020202030203030303020202020202030202021305091d1d1b211502020202
+020202020202020200000202020207171d20151b1b1b0f20131303020313030202020202030202020202020202020205121c1d1e1d211d242b33263326263333
+33201c1d15150c0a151c1d333325151b1c1d241d1c1b1d1d1d1d151d1b212533333333251b1b1d1d1d1d1d1c1d3233333333332b241c1b1d202020151b1b0c03
+030202020202020202020202020202020202020202020203131f20211b1b0f05020202020202020202020202000002020202040d112115111b0f15151f130203
+131303021302020202030202020202020202020409121d1d1d2021212b3333262633333333151c1b21150c0a0d1c21332b25151b1c1d241d1b1b1b1c1c1c3a2a
+1c1d253333332b201b1c1c1b1b1b1b1c1b32333333332b2b211b1d1d2020201d1b1505020202020202030202020203030202020202020202020202022220151d
+2112070302020202020202020202020200000202020203290f1c1515151d1d1d151f13030303020213020203130213131302020203030203060f1d1d2120151b
+243333333333332633201c1b1d15200a151c24333325151b1e27241d1b1b1b1b1b1b1b1c1c1b25332b2b2b151b1b1b391b1b1c1c1b1d2b3333332b201d1b1520
+2020211b1b0713131302020202020202020203030203030202130203131302040c1d1d1d0f040302020202020202020202020202000002020202021609171515
+151d1d11151f130413130213131303131313131313131302131313030409111d1d20151b243333333333332633151c1c1d1d1d1d1d2a21333325111c1c21241d
+1b21150a253715151b1b24332b2b20211b21250a3737151b1c1d243333332b201d1d20202020211b1d0a02131302021313020202030302020213130302131313
+13131306111b1d120702020202020202020202020202020200000202020202020514171d20111d1d15201f132213131313130313131303031313130213131303
+13050f1e11202011242b2b26263333261f211b1c1b1b1d1d1c1c242b3325211c1d21271b0f25261326261335151c212b25241d152535262626260a0a0f1b242b
+2b262b211d1d20151d151b1c1d0a02021303021313131313031313020313130313131313220306111b1b0d050202020202020202020202020202020200000202
+0202020203290f1d1515151d21212013131304131313131313131313131313031313131313040d1c2120201121252b332b2b331f2b212a1b1b1b15381b1c1d32
+2b25151c1b1d1b150a2613131313132607181d3232211b202626261326262626251b1d242b2625212121201520211b1d09221313131313131313131313131302
+021313131313131313220d1b1b1b0a020202020202020202020202020202020200000202020202020202060f172115151d1d1d0c222222132213131313221313
+131322041313131313130d1c24250a20112125332b2b2b2521212115250a0a0a150f1d212525151c1e1c1b0a26261313131313130a0f1c1d1b1b152626261313
+1313132626371d1d2526201d15202020201d1c15041313131313131322131313131313041313131313221313220c111d1d150402020202020202020202020202
+02020202000002020202020202020409121520151d1d1b150a1f222222131313132222041313220313221304131307121d200a0a151d201f1f2b1f211b212535
+262613132626151b1d24151b1c1b1d1f26261313131313130a151b1c1b21252626261313131313262626151c242b1d1d20202120201d1b0c2213031313131313
+131313131313131313131313132204130a15211d150a0302020202020202020202020202020202020000020202020202020202050d1120151d1d2111200a1322
+221322131313222213131313132222221313050d1d15200a151d212b2b2b201d1d252613261313131326250f1d24201c1c1c212626261313020202130a0a0f1c
+1c212b262626131313131326260a1d1c21201d1d20201d15111b1b0c2213131322131313131313132213221313220413131322222015211d0904020202020202
+020202020202020202020202000002020202020202020202030f1115151d1d1111202222222222221313222222221313221322221313040d1d1d2020201b1b25
+2b25211d21332613131313131326260a21211d1c361b212626261313130213130a0a111c1c212b262626131313131326261f1b1c21241d15202115201d1d1505
+22221313222222221313132222131313222204222213220c1d1d1d0f050202020202020202020202020202020202020200000202020202020202020202091115
+151d1d1d111d1f1313222222221322132222132222132213221322070f1d1d2420151d202b20211b2126261313130213131326351b1b1d1c1b1c1d2626261313
+131313130a0a111c1c1d3226262613131326262626251b1c1d1d150c201120201d1d20222222132222222222222222222222131322132222221f0c151d1d1507
+030202020202020202020202020202020202020200000202020202020202020202040d1b1d1d1d1d1115201f2222132222221313221322222213131322222205
+0d1b151d0c201b2525201d212526261313130213132626261b1b1d1c1d1c1d1f26262613131313130a0a211b1c1b243333262626262626261f201b1d151d2425
+1d1d201d1d150a22222222222222220522222222132222222213222222201d1b1d1b050302020202020202020202020202020202020202020000020202020202
+02020202020229121d15151b152011201f132222222213221313222222221322222222220f1b15112020152425201d1d3426261313131313132626261d1c1b1c
+1c1b1b2b33262626131326260a2515151b1d1d2b3326262626262626201d1d20202120201d21201d1d152213222222222222222205220a222222222222222222
+0c111d1b150903020202020202020202020202020202020202020202000002020202020202020202020202070f1515111d1515150a1f2222221f22221f1f2213
+22222222132222220d11212024200a1b1d25152132262626261313132626261f1b1c151c1e1d1b3433262626262626260a2121250a0f1d24343326262633332b
+211b1525211d20202124201b1b0a22222222050522222205220a1f2222222222221f040c15151d1b0a0302020202020202020202020202020202020202020202
+00000202020202020202020202020204091d20111d2121151d0a2222221f2222221f22222222221f22222222070f211521200c1b1d25201d2426262626262626
+26262b251d1d151c1c241d1d242b332626262b2b1521240a0a20152124342b332b2524211d1525251d20201d1120211d1d0a2222220504222222222222051f22
+22222222220a05151d151d0f04030202020202020202020202020202020202020202020200000202020202020202020202020202040d0f15151d1d2111200a1f
+1f1f22221f22222222222222221f2222050c1c1d1d21200f1d2525111d2b26262626262626332b201b1d20181d27211b1b2424202b2024272a1c250a1f250a15
+211d1d1d1d1d1d21252525201d20201d20111d1b1d2222222222222222221f2222220a06221f22221f0a0c151511110703030202020202020202020202020202
+02020202020202020000020202020202020202020202020202060d1d15111b152115251f1f1f22221f222222221f222222222222220c1b1b1d2120151b242507
+0f24253333332626332b1d1d1525201b1b242421211d1d21211d241d1c1b2b1f1f1f1f202515151b0f1d150a1f2b251511201115201d1d110c2222221f051f22
+220a1f221f0a0a05221f22220a0a201d151509050202020202020202020202020202020202020202020202020000020202020202020202020202020202020611
+111d0f111d15200a1f1f22221f22221f1f1f1f1f221f1f22220a1211211d150a151d200a151d212432252b2b25241d1d2025201c1d24242424151d211d1d1511
+1c1d2b1f1f0a1f0a2b0a0a0a0a25251f1f2b201d20201115201d1d150a1f22220a0a0a22050a0a05050a0a05221f22221f202121150705030202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202040d0f21151b1d15200a1f1f221f1f1f221f1f1f1f1f221f1f221f0a0911
+211d110a1521201f0a15211d1d1d1d212121200a1f0a0c1b1b24272420202020152020151c212b1f1f2b1f1f1f1f1f1f1f1f1f1f1f2521150a201d151b1d1d0c
+1f1f2222040a0a0a050a2205050a0a05221f1f1f0a1d1d2115030202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020203090f2120151124200a1f1f221f1f1f1f22221f1f1f221f1f221f1f0c0d1b1d2020201b201f0a0a2015151511151515250a0a0a0c1c1c272724
+20202020202020151c1d2b0a1f0a1f0a1f1f1f0a0a1f1f1f1f201d200a1511111b1d150a1f222222220a0a0a1f1f1f221f0a0a061f1f0a0c11120f0905020202
+0202020202020202020202020202020202020202020202020000020202020202020202020202020202020203060d150c1511200a0a1f1f1f1f0a1f22221f1f1f
+1f1f1f221f1f0a091d1d11252515150a0a1f0a0a0a0a0a0a1f2b1f1f1f0a201d1b272424202020202020241d1c151f0a0a0a1f1f1f1f0a1f0a1f1f1f0a111b15
+0c1520151d1d20221f1f1f1f1f0a0a0a221f1f221f0a0a0a1f1f0a1517110f040202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202160911250c151d1515201f1f0a1f1f1f1f1f1f1f1f1f1f221f1f0a091d1d1524201515251f1f25250a251f1f1f2b1f1f
+0a0a201b1c1d2424202020202020211c1c201f1f1f1f1f0a1f1f1f1f0a1f1f1f0c1d150c201520151b210a1f1f1f1f1f1f0a1f050a0a0a0a0a0a0a1f0a0c2015
+150d070202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202050d152015151520200a1f
+0a0a0a1f1f1f1f1f1f1f1f221f1f1f0c151b1115200911201f1f250a0a1f1f1f1f1f0a1f0a0a20151c1d2424202024202024211b1c151f0a1f0a1f0a2b1f1f1f
+0a1f0a0a2021200c0f11111d21110c1f1f1f1f1f1f0a1f220a0a0a0a0a1f1f1f1f0c151515070402020202020202020202020202020202020202020202020202
+0202020200000202020202020202020202020202020202020202050d2015150f1d200a1f0a0a0a1f1f1f1f1f1f0a1f221f1f1f0a151b1515200a1115200a2b1f
+1f1f1f1f1f1f1f1f0a1f0a151c1d2724202024202024211b1c200a0a1f1f0a1f1f1f1f1f0a0a1f0a202120151d15151d1d200c1f1f1f1f1f221f1f1f1f0a0a0a
+0a0a0a0a201515210c04030202020306060403030405040202020202020202020202020202020202000002020202020202020202020202020202020202020206
+0d1507150f150c1f1f1f0a0a1f1f0a1f1f0a1f1f1f1f0a0a070f1111202b151d200a1f1f1f0a1f1f1f1f0a0a0a0a0a0d1b1e27242024242020241e1c1b200a0a
+0a0a1f0a0a0a0a0a0a0a0a201d150a152115111d21201f1f1f1f1f1f221f1f1f1f1f1f1f1f0c0a0c201521210a02020202030d170f09070d170f060603020202
+020202020202020202020202000002020202020202020202020202020202020202020204091115151515200a0a1f0a0a0a0a0a1f0a0a1f0a1f1f1f1f0a0f1d1b
+2125201d201f1f1f0a0a1f0c1f1f1f1f0a0a0a0a121c1d242024242020241d1c1d200a0a0c0a1f1f1f1f0c1f0c0a0a151d200a1515111b1b150a1f1f0a1f0a1f
+1f0a0a1f1f1f1f1f1f1f0a2021152115050202020229171a06040e17180716070703020202020202020202020202020200000202020202020202020202020202
+0202020202020216040f1d15152020200c0a0a1f1f0a0a1f0a1f1f0a0c0c0a1f0a201d1d1d20250d152020202020200c2520200a0c0c0c0a1b30212420242420
+20211b1c1d2020202020202025202520202525151d20151115111d21200a1f1f221f0a1f0c0a0a1f1f0c1f0a0a0a201d1d1d0905020202020229310f05030431
+1806020e0922020202020202020202020202020200000202020202020202020202020202020202020202020202071215200a151d202020202020202020202020
+202020202015211b1d24252f1124212721242115211d1d1d151d24211b1b1d211d1d1d2121211b1c1d21241d21202420242421202124201d1d1d1b11201d1b21
+242020202025202020200a0a0a200c0a1f20151d1d1b0a020202020202032e0f0602022819060203281004020202020202020202020202020000020202020202
+0202020202020202020202020202020202290d1d200a15111d211d1d1d1d1d1d211d151b1d0f1d211b1d1b1d1d1d27201d1d1d1d1d1d1d211d1d1d1d1d1d1d1b
+1b1b1d1d151b211d1b1d1d211b151b1d0f1b211b1d1b1d1d211d1d1b1d1d1d1d1d1b1d1d1d1d1d211d21211d2024152020202020201d1d1b0f06030202020202
+02020e0f0c0302282c06020229140502020202020202020202020202000002020202020202020202020202020202020202020202020329111120201d211d1d1d
+1d211d1515150715152121211d1d211d15151d201c1d1b1d1d1d211d1d1d1d1d1d21211d1d1d1d1d0f1d1d1b1b1d1b211b1d1b1d1d1b211b1d1d1d1b1d1b1b1c
+1d1d1b151b1d1c1d1d1d1d1d1d211515151d1d1d1d2121211d1d21150a03020202020202020202140d0302292c09130203140602020202020202020202020202
+0000020202020202020202020202020202020202020202020202030f1d1d1b211c1d1b1d1b1b1d1515252015211d1d211d1d1d1b0a0a1d1d1b1b1b1d1c1b1d1d
+1d1d1d1d1b1b1d1d1d1b1d1c1d1d1b1b1b1b1b1d1b1b1b211d1c1d1c211b1d1b1d1d1d1d1d1b211d1d1b1b1b1b1d1b1d1d15200a15111d1b1d1b1d0f11151220
+2202020202020202030403280f0402042e0d220203280c1302020202020202020202020200000202020202020202020202020202020202020202020202020312
+111d15111d1d1d1d0f1d1d151d20241d1d1d211d151d1d1120201d111b1d1b1d1b1b1d1d1b1d1b211b1b1c1b1b1c1d1c1d1b1c1b1c1d1c1d1b1d1b1d1d1b1c1b
+1d1b1d1b1d1b15211c1d1b1d1b1d1d1d1d1d1d111d1d1115151d1d1b1d1d211515151515220202020202020205090c0d2c0603032d1a060203140d2202020202
+02020202020202020000020202020202020202020202020202020202020202020202030f1d1520151b1d0f0f1b1b15111515151111151511150f111511211b1d
+0f1d1b1d1b1511151111150f111115111b1c1d1d151d1d1d1d1b1c1b1d1b1b1b1d1d1c151c1d1b1b1c1d201d1d1b1d1c1d1b110f1d2012150f150f111d1b1d1b
+1d1b151d1d20200a1302020202020202030e0d0d0d0904022914050203140d220202020202020202020202020000020202020202020202020202020202020202
+020202020202030d1115151d0f1d21151b2115090a0d0707070a070a0a0a0a070a151b2115211b1d2109150a0d0c150c090d1515171c1d2120202020211b1c15
+150c152007150709091515151b1d201d1d1b1d1b150d07070920090a090a09111d1d1b211b0907111521200a020202020202020202160403020e040202020202
+160e050202020202020202020202020200000202020202020202020202020202020202020202020202020203060606060f111d201b1d200a0a0a0a0a050a0a0a
+1f0a1f0a0a0c0f2115211d1d200a0a1f1f0a1f0a1f0a0a0c1d1c1d211d1d211d1d1c1b21200a0c0c0a0a0c0c0c0a0c071b1d201b151b1d150c0c0a0a0a0c0a0a
+0a0a0c111b1b1b1d0f0404060d111504020202020202020202020202020302020202020202160202020202020202020202020202000002020202020202020202
+0202020202020202020202020202020216020303090f1d1d151b1d251f0a1f1f221f1f1f0a1f0a221f0c151120111d1d1d0a0a1f0a1f0a1f0a0a0a201b1c1d1d
+1d1d1d1d1d1d1b1d211f0a0a1f0a1f0a0a0c0c1511151111151c1d200a0a0a0c1f0a0a1f0a1f20151b171d1d2002020203030302020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020206121d2015111d
+201f1f1f221f1f1f1f1f1f221f1f0c1520151d211d200a1f220a1f0a1f0a201d1b1d20271515202015151d1b1d1f0a1f1f0a1f0a1f0a091120252120111b1d1f
+22050a1f1f1f1f220a0c1d1b111b1d150a0202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+0202020202020202020202020202020202020202020202020202020202040f0f20200d1b211f1f1f22221f22221f1f1f1f0a0a152420111d1d24201f1f1f1f0a
+1f0c111c1d212024202020202020111b1d1f1f1f1f0a1f1f0a0a151d231521151d1b150a220a0a1f0a1f0a220a111b111d1b1d06020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020307111520111d200a1f22221f22221f2222221f0a091d201515151d201f221f1f0a220a0c111d2424202020202020201d1c111f1f1f1f0c1f1f1f0c1d1d
+151d15211b1d151f221f1f1f1f1f1f0a1d0f1515210f090302020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020000020202020202020202020202020202020202020202020202020202020202020202050f1d2415111d201f2222222222221f222222220c1d152520
+151c201f22221f0a221f0a111d272424242020202020211b151f1f1f220a221f0a151d202515201d1b0d0a22221f1f22221f06201b2125211509040202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020409121d20151d201f22222222221322222222220c1221250a151b210a22220a06221f0a0d1c1c1d1d1d1d1d1d1d1d1b1b20221f1f
+222222220c15150a0a0a201b1522222222222222220a151d21202115060302020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020307121115151d150a1f222222222213
+222222070f1d250a151b1d201f222205221f0a0d1c1c1b1d1b1d1d1d1d1c1c1c151f22222222220a201d21200a0c1d1b15221f22222222220a201d1d20241b09
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+02020202020202020202020202020202020202020205140f1124111811251f222222222222222205091121200c0f1d240a222222060a0a151c1d1d1d21111515
+111d1c2a151f1f222222220c1d1d212020151d150722222213220a0c202121242115070402020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020304290d11211d
+1d210a04222222222222220a060f1b200c201b1b200a050422060a121c1d1d242420202020211c2a150a22222205220d1c1d1d2120211d0d0522222204220c11
+1d1d15211b0902020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202160e141d21151b1d200a132222222222222209171d20201b1b150a05040404060f
+1c1d24242420202020151b2a110a220404060d1d212121241d1d150604040404050a151b1d1d241d0d0502020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+0202020203050d1115151d21201f22130404132213060f1d20201b1c1b240a041304220609171d2420202020201d1b1b07222204220c111b211520211b1b0703
+030404220c111d15201d1b0703020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0000020202020202020202020202020202020202020202020202020202020202020202020202020202020528111d24211b24251f131313220404090f1d241d1b
+1b1d0a221313220406171d2724202020271c1b071313032222201d1d1d1127110d0a22030313220c111c112021120d0402020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202020203040d112121151d242b1f13132204040509171d1d1b1c1c201f1303132206171c1d242424201d1c150a130404220a211c1d
+1b111d0d050313032222201d1b112121110603020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202030e0f111d1d1b1d1d251f13
+130322040f1b1d1b1c1c210a220403220c1b1c21242724271b1c152213021f20111c1c1b1d1d0d05030322220c201d1c211d150d090302020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020216090f0f1d1d1d111d201f13131302090f1b1d1c1c1c1d202222111b1c1c1d1d201d1d1b1c150a
+04030c151c1c1c1d1d0d0a0303130a201d1d1c1d0f15060302020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020429
+090f1d21151b1d201f1313132909181e1b1c1c1b210a0c1c1b1c1d1d1d2011151b1b1b1d0a0c1c1b1b1c1e1d1506221f0c0c111d1d1b1b120707020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202160407111d1d1d1d2120201f0a071b1c1d1b1c1b1b201d1d1d1d2121
+2020202015151b1d20111c1d1b1d1d1d07061f20241e1e1d1d1d0904020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020414111b1d1d1d1c1d272525121b1c1c1b1c1b1c1c2127152427202020202020111b1d1b1b1c1c211b150c20201d1b1c1d1b1d0f0402
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020204060d111b1d1d1d1d1d1b1b1c1b1b1b
+1c1c1c24202027272020252020201d1b1c1b1c1e1d1b1b211d1b1d1c1b1b0d0d0906020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020203040d121b1b1b1c1c1c1c1c191c1c1c191c1c1d1d1d1d1d1d1d1d211d1d1b1c1b1b1d1d1c1b1d1c1b1c1b
+1b0f0403020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030506070d
+171b1b1c1c1c1c1b1c1b1c1c1c1c1b1c1b2a1c1b1b1c1c1c1c1c1c1b1c1c1c1c1d12090907050202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202021629090d12171c1c1b1c1c1c1c1c1c1b1c1c1b1b1c1b1b1b1c1c1c1c1c1d
+1b1c1c12150703160202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020203040e090f0f120f12181c1c1c1b1b1b1b1b1b1c1c1b1b1b1b1c1b0f0d0d0604040302020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202021603040304060f181c1b1d20151d1b1b
+1b1b1b1b0f0d0d060504020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202032914121d1d2023111d211d1c1707030302020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020329
+0d1e1d20231d24241d1d090302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020b0f1d24211d1d1d1d15040202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202040d1d21211b1c1c1b0c02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030d11151511181c1b0a02020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202290f2120111b1c0f040202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020209171d1c1c1d07030202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020d181c1c1c150402020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020305111c
+1b1c1c1d201302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202040c181c0f1b1c1c1d1f02020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020204101b1b0609121c1b0a1302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202050f0f0f0304281b1c201302020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202060f1b0d030407181c15130202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020207121d150304071b1b09130202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020307121b1103050c1d1b0c13020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202060f1c111f0c111c
+0f060302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020b0f1c1c201d1c1c12020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+040f1c1c1b1b1c1c1502020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202040d1c1c1c1b1b1b1502020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202030c111c1b1b1c1b1b090202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020307171c0f0d17181d090202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020309171c0d0712181c0c020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202040d171d0a060f1b1c09020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202040f1b1d0a0b0f1b1c0702020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020b0d1b1d0a
+0c171b1b0a0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202050f181b20111c1d1b0a0202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020409181c1b1b1b1d1b05020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020309171c1c1b1b1d1c0a020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020206171c1c1b1b1b1c0a02020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020205171c181c1b1b1c0a13020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020b181b090d0f1c1b0c1302020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020b181b050507181b
+15130202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020b181b05030b171c15220202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0b1c1b0a0306181c1522020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202061b1b0a22071c1c0713020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020205171b1d20151c1b0a0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020204171b1c1e1c1c1d060202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202041a1c1c1c1c1c1b0a020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020205121c1c1c1c1c1d20130202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020206171c1b0f121c1b1522020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020207181b0d
+050d181c1b0a02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202071712060207181b1d0502020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202030d1b15040207171b1d050202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020203111c15220207121b1b040202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202030f1c110a220d181b1504020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202030f1b1d201f121c1b0903020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020f181c1b1d1b1c0f0a0202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020f171c191c1c1c12
+05020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202022211181c1c1c1b1c0d04020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020b
+171c1c181c1b1c152202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020205181c15090f1b1b151302020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020306181b0a0406181115130202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202040c17150c04061715111f0202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020204101c1b0a04071711110a020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020203101c1b0a040c18120f06020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020207181d200c151c11070302020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020206181c1d27
+1d1c1513020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202040f1c1c1e1c1c1504020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202040f181c191c1c1b1f02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020205111c1c1c1c1c1d0a02020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020206171b1b17171c1b201302020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020207171c12090f1c1b151302020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020207171d150409171b1d220202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020207121d0c1309171b1b
+04020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202060f1b15220d171c1b22020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020206
+0f1d210c11181c1b0402020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020209171b1b1d1b1c1b150302020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020d181b1c191c1c1b15020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202022206171c17171c1c1b1b15020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020204101b1c090d12111d1d1d13020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020204101c1704050e0f181c1d13020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020206111c1b1f22050d171c1d2602020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020310171c1c202025
+151b1b1c251302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020204111c1c1b1d1d1d1d1b1b1b241f02020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+061d1c1b1b1b1b1c1c1b1b1b1d200202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020203221f0d1c1c1b1b1b1b1b1b1b1d1b1c151313020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020303221f0c231d1b1b1d1d1b1b1b1b1c1d1d1c1d2420200a1302020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202030c201d1d1b1c1b1b1b1b1b1b1b1b1b1b1b1c1b1b1d1d1d210a02
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202040d111b1b1b1b1b1b1b1d1d1d1b1d1d1b1b1b1b1c1b1b1b1c111f02020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020512171b1b1b1b1b1b1b1b1b1b1b1b1d1b1b1b
+1b1b1b1b1b1c1d0a0302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0202020202020202020202020202020202040f181c1b1b1b1b1b1c1b1b1d1b1b1d1b1b1b1b1b1c1b1d1d1d0c0302020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+0202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020302020202020202040d181c1b1b1b1b1c1b1d
+1c1d1b1c1e1c1b1b1c1b1b1b1b1d1d0c030202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+02020202020404040403040403030302030403030303030404060d1a12121712171717121817171b1718181c1c1b1b1c1c1c1c0d030202030202020202030202
+02020203030202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+0000020202020202020202020202020202020202020202020202020202020202020202020202020202090f0f121117111112121212120f0d0d0d0d0d0d0d0d18
+0f1212121212181218121217171817180f1812171712170f0c090909090607070707060605050505050404040303020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202020d1718181818181818191919181918191919191919191919191818191819181917181818181819181919191919191818181818
+18171818181818181818181817171717121204020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020216070f0f120f0f120f12121712171717
+121712121712121717170f12171718121812171712120f17121717170f0f12121812170f12171718171717181818171718121818181204020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+020202020202020202020202020202020202020216090f09120d120f170f0f120f12120f0d0f0f0f170f120f170f12170f120f12120f0f120f0f0f0f0f0f120f
+11120d120f120f12120f120f0f0d0f0d120d0d120f120d120d0f0402020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202021607090f0d120d0f
+0f0d0d110f0f0d0f0d0f0f0f120f0f120f0f12150d0d0f0d120f0d0d0f0f0f120d0f0d0f0f0f0f0d120d12120f0d0f0f0f11120d0f0d0f120f0f0d0f110d0302
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+0202020202020202020202020202020202020202020202020202020202090d09120f0f0f120f0f120f12150f0d0f0f0d0f0f12120f0f12120f120d0f0f0f0f0f
+0d0d0f0f0d0f0d0d0f0f0d0d0f0f0d120f0d0f0d0d0f120f0d0f0d0d0d0f0d0d0909030202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+02090d0d0f0f0d0f0f0d0d0d120d0f0d0d0d0d0d0f110d0f0d0d0f0f0f0d0f0d120f0d0f0f0d0d120f110d0d0f11120d120d0f0f0d0d0d0f0f0f0f0d0f0d0d0f
+0d12100f150903020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020203090d0d0f0d120f0f0f0d120d0f0f0d0d0f0d0f0f0d090f0f0f0f11
+0d0f0f0f0f0f0d0f0f0f0f0f0d0f0f0f0f110f0d120f0f0f110d0f0f0d0f0d0f0d0f0f110d0d0d0f0d0903020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020309140d0f0d0f0f0f0f0f0f0d0d0f0d0d0f0d0d0d0d0d0d0f0d0d0d0f0f0f0f0f0d0d0f0f0f0f0d0d0d0f0f0f120d120d120d0f0f0d0f0d
+0f0d0d090d090d12090d090f07090302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020000020202020202020202020202020202020202020202020202020202020202020202020202020204060d0d100d0d0d0f0f0d0d0d0f0f0d0d0f0d0d
+0d0d090d0d090d0d0f0f0f0d0f0d0d0d0d0d091109120d090d090f0d0f0d0d0d0f0d0f0d0d0d0d0d0d0d0d0d0f090f0f0d071302020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+0202020202020202020202020202020204090d090f0d0d0d0d0d0d0d0d0f0d0d0d0d0d0d0f0d0d0d0d0f0d0d0d0f0d0d0d0d0d0d0f0d0d0d0d0d0d0d0d0f090f
+0d0d090f0f0d0f0d0d0d0d090d0d090f0d0d0d0f0907030202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202030709090d0d0d0d0d090d0d
+0d0d0d0d0d090d0d0d0d090d09090d0d0d0d0f090f0d0d0d0d0d0d0d0d0d090d0d0d0d090f090f0d0d090d0d0d0d0d090d0f0d0d0d0d0d0d0d07020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+020202020202020202020202020202020202020202020202030e0d0d0f0d0d0d0d0d0d0d090d0d0d0d0d0d0d0f090d0d0d0d0d0f0d0d0d090d0f0d0d0d09090d
+0d0d0d0d0d0d090d0d09090d0d090d0d090d0d090d0d090d090d090d090603020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020203060909
+09090909090d0d0d0d0d0d0d0d0d0d0d0d0d090d0d090d0d0d0d0d0d0d0d0d0d0d0d0d0f0d0f09090d0d0d0d0f0d0d0d0d090d0d0d0d0d0d0d0d090d0d0d0d0d
+090a0302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020307090d0d090d0909090d0d0d0f0d09090d0d09090709090d0d0d090909090d
+0d09090d0d090d0d090d0d0d0d0d09090d0d0d0d090909090d0d09090d09090d0d07090d09060402020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+020202020306070909090909090909090909090909090909090709090909090909090d0d0d07090d0d070d0d09090d0d090d0d090d0d0d09090909090d090909
+0909090d090709090907030202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+000002020202020202020202020202020202020202020202020202020202020202020202020202020307090909090d090d090907090d090d0909070909090d09
+09090d0909090907090d09090909090d0d0d0909090d0d0909070909090909090909090d090d0909090909090707030202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+020202020202020202020202030e0909090909090909090909090907090709090909090909090909070d09070d0d090709090709090909090d0d070909070909
+0d090907070d09070909090707090909070604020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202030607090907090909090909090d0709
+090707090d09070907090909070d09090d0d09070d090909090d090d090d07090909090d09060909090d0909090d090909090909090603020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+0202020202020202020202020202020202020202030607090d0709090d090907070d07090909070709070d070907070709070707090d09070907090707090d07
+09070707070706090707090707070707090909070707070906060402020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020405060707070707
+07070907070707070709070709070709070906090709090709090909090709090709070906090707090707070707070707070907070707090707090607060302
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+020202020202020202020202020202020202020202020202020202020405070709070907070a09060709060706090707070607070d0707060707070709070707
+07070907070707070607060607070707070706070707070609090707060606060606030202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+03050606070706070907060707070707070707070606060907090607060907070907090709070909070707090707060709070907090707070707070609070707
+0a060706090503020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+020202020202020202020202020202020202020202020202020202020202020202020202020b060607060706090606060a090609070706070606070607050705
+0607060607070706070607090707060707070607060706070706090607070c070907060607070606060603020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+020202020202020202050506060706070607060707070707060706060607060707070706070907060707070a0706070707090607060707060906070707070706
+0607070609070606060606060a060302020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020205060507060705060606060607060605060606
+06060606070606060606060606070606070607070709060706070606070707060606070707070507070707060606060606050302020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202030407060705060606060606060606060606060606060606060605060606060607060606060606060606060606070605
+06060706070606060607060609060606050605060505020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202080405050605050505050505
+06060505050606060606060906060507060607060705070605060607060706060606060506050706070605060607060706060606070a06050505030202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202
+02020202020202020202020202020202020202020202020202050605060506050505050506070605050506060505060606060505050607060605060605060606
+06060505060605050506060606050505060607060705050605060507050603020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202040506
+05060505060505050506050506050606050505070506060606060705060606050506050605070506060606050605060605050505060606060606050506050606
+05040202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202
+02020202020202020202020202020202020202020202020202020202020202020204050505050504050405050506050505050505050505050505050505050505
+05060505050505050505050505050506060605050505050505050605050505050505050605040202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202
+02020202020304050505040504050505050505040505050505060505050505050505050506050505040505050405050505060605050506050505050505050505
+06050405050505050404020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+00000202020202020202020202020202020202020202020202020202020202020202020202020202020304040504040404040404050504030404040405040404
+04040404050505050505050404050505040505050505050405060504050505050505040405050505050505050404030202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202
+02020202020202020202020202020304040504050404040404050404040404040504040504050405050505040504050405040404040404040504050504050504
+05050504050504040504040506050505040403020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020000020202020202020202020202020202020202020202020202020202020202020202020202020202030304040404040403040404040403
+04040404040303040404040404040504040404040404040404050404040405040404040505050404040504040404040505040404040402020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202
+02020202020202020202020202020202020202020202030304040404030303030404030303040404040303040403030304040403030303040304040404040404
+04040404040405040404040404040404040404040404040404040202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202030303030303
+03030303030303030303030303030303030303030303040303030303030403030304030404040404030404030404040404030303030404030303030303030202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202
+02020202020202020202020202020202020202020202020202020202020303020303020202020303030302020303020303020303030203020302030303020202
+02030303030203020303030303030303030303030303030303030303030303030303020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020200000202020202020202020202020202020202020202020202020202020202020202020202020202
+02020302030303020202020202020202020202020302020202030202020303030302030203020302020302030303020202020302030202020202020202030203
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020200000202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020000020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202000002020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202000002020202020202020202020202020202020202020202
+02020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202
+020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020000040000002701ffff030000000000}}}{\f1\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843    
+\par }{\b\f1\cf0\ulc0\insrsid13061641 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 32    ( Marks: 5 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 A proton travels with a speed of 3.00 * 10}{\f1\cf0\super\ulc0\insrsid149843 6}{\f1\cf0\ulc0\insrsid149843  m/s at an angle of 37.0\'b0
+ with the direction of a magnetic field of 0.300 T in the + y direction. What are (a) the magnitude of the magnetic force on the proton and (b) its acceleration}{\f1\fs18\cf0\ulc0\insrsid149843 ?}{\f1\fs20\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 33    ( Marks: 5 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 1. Light from the Sun takes approximately 8.3 min to reach the Earth. During this time interval the Earth has continued to rotate on its axis. How far is the actual direction of the Sun from its image in the sky?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid149843 2. Do all current-carrying conductors emit electromagnetic waves? Explain
+\par }{\f1\cf0\ulc0\insrsid3420817 
+\par }{\cf0\ulc0\insrsid149843 2. }{\cf0\ulc0\insrsid3420817 Yes all current carrying conductors emit electromagnetic waves, and these are at the right angle of the current passes t}{\cf0\ulc0\insrsid149843 horough as right hand rule}{\cf0\ulc0\insrsid3420817 
+ of Fleming}{\cf0\ulc0\insrsid149843 \rquote s}{\cf0\ulc0\insrsid3420817  explains it.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\b\f1\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 34    ( Marks: 5 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 Explain solar convection zone. What is its other name?}{\cf0\ulc0\insrsid149843 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid149843     }{\cf0\ulc0\insrsid4291359 
+\par }{\b\f1\cf0\ulc0\insrsid4291359\charrsid4291359 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid149843 Question No: 35    ( Marks: 10 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid10828425 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\cf0\ulc0\insrsid149843  }{
+\f1\cf0\ulc0\insrsid149843 a) Explain why you can't just open your refrigerator to cool your kitchen on a hot day. Why is it that turning on a room air conditioner will cool down the room but opening a refrigerator door will not?
+\par b) On a humid day, water vapor condenses on a cold surface. During condensation, the entropy of the water(a) in-creases, (b) remains constant, (c) decreases, (d) may decreases or remain unchanged. Give its reason.
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\insrsid8001333 
+\par }{\f1\cf0\ulc0\insrsid8001333\charrsid802880 
+\par }}
