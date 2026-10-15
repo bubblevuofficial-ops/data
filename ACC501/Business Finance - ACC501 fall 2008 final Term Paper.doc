@@ -1,0 +1,766 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f40\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}
+{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\chyperlink\ctint255\cshade255\red0\green0\blue255;\cfollowedhyperlink\ctint255\cshade255\red128\green0\blue128;}{\*\defchp \fs22 }
+{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused \sqformat Normal Table;}{\*\cs15 \additive 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf17 \sbasedon10 \sunhideused \styrsid10618315 Hyperlink;}{\*\cs16 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \ul\cf18 \sbasedon10 \ssemihidden \sunhideused \styrsid10712493 FollowedHyperlink;}}{\*\rsidtbl \rsid535088
+\rsid1535240\rsid2253334\rsid4261126\rsid6699602\rsid8723602\rsid8798335\rsid10618315\rsid10712493\rsid10888229}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+{\author hellopdf.com Inc}{\operator Home}{\creatim\yr2007\mo12\dy11\hr12}{\revtim\yr2014\mo9\dy26\hr22\min13}{\version14}{\edmins19}{\nofpages8}{\nofwords2075}{\nofchars11833}{\*\company ibrar}{\nofcharsws13881}{\vern32859}}{\*\xmlnstbl {\xmlns1 http://s
+chemas.microsoft.com/office/word/2003/wordml}}\paperw15225\paperh25920\margl1710\margr0\margt0\margb0\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves1\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\viewnobound1\rsidroot535088 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0
+\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sectrsid4261126\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}
+{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \fi360\li-360\ri0\nowidctlpar
+\tx1170\wrapdefault\faauto\adjustright\rin0\lin-360\itap0\pararsid10618315 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\field{\*\fldinst {\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 
+\b\fs40\kerning2\insrsid10712493  HYPERLINK "http://}{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\fs40\kerning2\insrsid10712493\charrsid10712493 WWW.VUTUBE.EDU.PK}{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\fs40\kerning2\insrsid10712493 " }}{\fldrslt {\rtlch\fcs1 
+\af0\afs40 \ltrch\fcs0 \cs15\b\fs40\ul\cf17\kerning2\insrsid10712493\charrsid590360 WWW.VUTUBE.EDU.PK}}}\sectd \ltrsect\linex0\sectdefaultcl\sectrsid4261126\sftnbj {\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\fs40\kerning2\insrsid4261126\charrsid10618315 
+
+\par }\pard \ltrpar\ql \fi360\li-360\ri0\nowidctlpar\tx1170\wrapdefault\faauto\rin0\lin-360\itap0\pararsid4261126 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 FINALTERM  EXAMINATION}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Fall 2008}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 ACC501- Business Finance (Session - 1)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Marks: 81}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 1      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The accounting definition of income is:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Income = Current Assets   Current Liabilities}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Income = Fixed Assets   Current Assets}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Income = Revenues   Current Liabilities}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Income = Revenues   Expenses}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 2      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh at  wou ld  be th e  cap ital  sp en d in g for  an  o r gan ization  wh o  has  pu r ch ased  fixed}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 assets of Rs. 200,000 and sold fixed assets of Rs. 45,000?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 245,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 200,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 155,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 45,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 3      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Selected information from SNT Company's accounting records is as follows:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 o   Cash paid to retired common shares Rs. 15,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 o   Proceeds from issuance of preferred shares Rs. 20,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 o   Cash dividends paid Rs. 8,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 o   Proceeds from sale of equipment Rs. 25,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 On its cash flow statement for the year, SNT Company should report net cash}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 flow from financing activities as:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 3,000 net cash inflow}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 3,000 net cash outflow}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 8,000 net cash inflow}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 8,000 net cash inflow}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 4      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 SNT  Co mp any  h as  a  cu rr en t  r atio  o f  3 :2 .  Cu rr en t  Liabilities  r epo rted  b y  th e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 com pan y  ar e  Rs.  3 0 ,0 0 0 .  Wh at  wo uld  b e  the  Net  Wo rk in g  Cap ital  for  th e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 company?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 45,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 15,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 ( Rs. 45,000)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 ( Rs. 15,000)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 5      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following would not improve the current ratio?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Borrow short-term to finance additional fixed assets}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Issue long-term debt to buy inventory}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Sell common stock to reduce current liabilities}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Sell fixed assets to reduce accounts payable}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 6      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following are incorporated into the calculation of the Du- Pont}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Identity?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 I.     Return on assets}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 II.   Equity Multiplier}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 III. Total Assets Turnover}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 IV.  Profit Margin}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 I, II, and III only}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 I, III, and IV only}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 II, III and IV only}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 I, II, III, and IV}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 7      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The concepts of present value and future value are:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Directly related to each other}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Not related to each other}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Proportionately related to each other}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Inversely related to each other}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 8      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following is a special case of annuity, where the stream of cash flows}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 continues forever?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Special Annuity}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Ordinary Annuity}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Annuity Due}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Perpetuity}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 9      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh ich  of  th e  followin g  is  an  u n secur ed  bo nd  fo r  wh ich  n o  s pecific  p led ge  of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 property is made?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Mortgage}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Debenture}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Collateral}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Note Payable}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 10      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh ich  of  th e  followin g  typ e  of  retu r n  r efer s  to  th e  per cen tage  ch ange  in  th e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 amount of money you have?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Nominal return}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Real return}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Inflation return}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given option}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 11      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 When real rate is _____, all interest rates will tend to be _____.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Low; higher}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 High; lower}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 High; higher}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 12      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh ich  o f the followin g is  th e extr a  yield  th at in vesto rs  deman d  on  a  taxable b on d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 as a compensation for the unfavorable tax treatment?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Interest rate risk premium}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Inflation risk premium}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Default risk premium}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Taxability premium}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 13      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 In which type of the market, previously issued securities are traded among}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 investors ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Primary Market}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Secondary Market}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Tertiary Market}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 14      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Place the following items in the proper order of completion regarding the capital}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 budgeting process.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (I)    Perform a post-audit for completed projects;}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (II)   Generate project proposals;}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (III) Estimate appropriate cash flows;}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (IV) Select value-maximizing projects;}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (V)  Evaluate projects.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 II, V, III, IV, and I}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 III, II, V, IV, and I}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 II, III, V, IV, and I}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 II, III, IV, V, and I}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 15      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 An in vestmen t  w ill be  ___________ if th e IRR d oesn t exceed s th e r equ ired return}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 and ___________ otherwise.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Accepted; rejected}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Accepted; accepted}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rejected; rejected}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rejected; accepted}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 16      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 IRR and NPV rules always lead to identical decisions as long as :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cash flows are conventional}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cash flows are independent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cash flows are both conventional and independent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 17      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A project whose acceptance does not prevent or require the acceptance of one or}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 more alternative projects is referred to as :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A mutually exclusive project}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 An independent project}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A dependent project}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A contingent project}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 18      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Finding Net Present Value comes under which type of capital budgeting criteria}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Discounted Cash Flow Criteria}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Accounting Criteria}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Payback Criteria}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 19      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 ___________ Cost is an outlay that has already occurred and hence is not affected}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 by the decision under consideration.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Sunk}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Opportunity}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Fixed}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Variable}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 20      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following is the overall return the firm must earn on its existing}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 assets to maintain the value of the stock ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 WACC (Weighted Average Cost of Capital)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 AAR (Average Accounting Return)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 IRR (Internal Rate of Return)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 MIRR (Modified Internal Rate of Return)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 21      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Mr. A, as a financial consultant, has prepared a feasibility report of a project for}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 XYZ Company that the company is planning to undertake. He has suggested that}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 the project is feasible. The consultancy fee paid to Mr. A will be considered as:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Sunk cost}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Opportunity cost}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Both sunk cost and opportunity cost}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Neither sunk cost nor opportunity cost}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 22      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The current price of SNT stock is Rs. 50. Dividends are expected to grow at 7}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 percent indefinitely and the most current dividend was Rs. 1.00. What is the}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 required rate of return on SNT stock?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 9.00 percent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 9.14 percent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 9.33 percent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 10.65 percent}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 23      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following are rights of an owner of a share of common stock for}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 firm which has no preferred share?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The right to vote for directors}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The right to share proportionately in dividend paid}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The right to vote on stockholder matters of great importance}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 All of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 24      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which one of the following typically applies to preferred stock but not to}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 common stock?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Dividend yield}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cumulative dividends}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Voting rights}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Tax deductible dividends}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 25      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 You must own which of the following to vote against a merger proposal from}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 another corporation?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Preferred share}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A debenture}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Common stock}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cumulative dividend stock}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 26      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following strategy belongs to flexible policy regarding size of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 investments in current assets ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain a high ratio of current assets to sales}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain a low ratio of current assets to sales}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain less short-term debt and more long-term debt}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain more short-term debt and less long-term debt}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 27      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following strategy belongs to flexible policy regarding financing of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 current assets ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain a high ratio of current assets to sales}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain a low ratio of current assets to sales}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain less short-term debt and more long-term debt}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 To maintain more short-term debt and less long-term debt}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 28      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Suppose you have Rs. 10,000 on deposit. One day, you write a cheque for Rs.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 2,000 and deposit Rs. 4,000. What is your collection float ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 4,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 + Rs. 2,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 2,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 + Rs. 4,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 29      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Suppose you have Rs. 10,000 on deposit. One day, you write a cheque for Rs.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 2,000 and deposit Rs. 4,000. What is your net float ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 4,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 + Rs. 2,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 2,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 + Rs. 4,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 30      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following is known as the group of assets such as stocks and bonds}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 held by an investor ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Stock Bundle}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Portfolio}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Capital Structure}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 None of the given options}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 31      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Which of the following is referred as the ratio of the standard deviation of a}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 distribution to the mean of that distribution ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Probability distribution}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The expected return}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The standard deviation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Coefficient of variation}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 32      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The MC Inc. purchased a share of common stock exactly one year ago for Rs. 45.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 During the past year the common stock paid an annual dividend of Rs. 2.40. The}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 firm sold the stock today for Rs. 80. What is the rate of return the firm has}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 earned?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 5.3%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 194.2%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 83.11%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 94.2%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 33      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Mr. Sami has bought 50 shares of a corporation one year ago at Rs. 20 per share.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Over the last year, he received a dividend of Rs. 2 per share. At the end of the}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 year, the stock sells for Rs. 25. As per given information, what will be his total}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 percentage return ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 10 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 20 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 35 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 45 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 34      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh ile  p erfo rm in g  the  feasib ility  an alysis  fo r  a  p r oject, an  o p er atin g  cash  flow  of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs.  225,000  h as  b een  calcu lated .  N et  w ork in g  cap ital  h as  d eclin ed  b y  Rs.  40,000.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Th er e  was a  n et  cap ital sp en d in g  of Rs. 100,000 d u r in g  the y ear . What  w ill b e  th e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 total cash flow for the project?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 85,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 165,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 285,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 365,000}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 35      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Th e to tal mar ket  v alu e  of a  comp an y s  stock s  is  calcu lated  as  Rs.  250  millio n  an d}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 th e  total  mar ket  v alu e  of  th e  co mp an y s  d eb t  ar e  calcu lated  as  Rs.  150  million .}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh at  p er cent of th e firm s  fin ancin g is d eb t ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 37.50%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 50.00%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 62.50%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 70.00%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 36      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Su p p ose  a  fir m  b or ro w s  Rs.  800,000 at  7%. Wh at  w ill be th e  after-tax interest  r ate}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 if tax rate is 34%?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 3 . 0 0 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 4 . 6 2 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 5 . 2 0 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 8 . 0 0 %}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 37      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Opportunity losses from having inadequate inventory are termed as:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Carrying costs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Opportunity costs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Restocking costs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Safety reserve costs}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 38      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 What  w ill  be  th e  Eco n omic  O rd er  Qu an tity  (EOQ)  if  to tal  u n it  sales  (T)  =  400,}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 fixed costs (F) = Rs. 30 and carrying costs (CC) = Rs. 5 ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 65 units}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 79 units}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 89 units}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 95 units}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 39      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The cost of common equity for a firm is:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The required rate of return on the company's stock}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The yield to maturity on the bond}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The risk-free rate}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 The market risk premium}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 40      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A  firm  h as  3 million  in  co mmo n  stock , 1  millio n  in  p refer r ed  stock  an d  2  million}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 in  d eb t. Wh at  is  the p ercen tag e o f firm s  fin ancin g th at is  d eb t  ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 20%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 33%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 40%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 67%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 41      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Th e b oo k  valu e  of a  sy stem  is  Rs.  50,350 at  th e  en d  of y ear  3  of its  life. Wh at  will}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 be  th e  total  after-tax  cash  flo w  from  sale  if  w e  sell  th is  system  for  Rs.  30,000  at}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 this time? (Tax rate is 34%)}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 20,350}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 30,919}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 36,919}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Rs. 80,350}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 42      ( Marks: 1 ) - Please choose one}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Wh at  w ill  b e  th e  v ar ian ce  if  stan d ar d  d ev iatio n  for  the  retu rn s  of  an  inv estm en t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 is 0.2829 ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 0.0800}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 0.0892}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 0.5319}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Cannot be estimated without more information}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 43      ( Marks: 3 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Write down the components of total return in terms of dividend growth model.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 44      ( Marks: 3 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 What is the difference between operating cycle and cash cycle?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 45      ( Marks: 3 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Ho w  a fir m s o ver all co st o f cap ital is calcu lated ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 46      ( Marks: 5 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Define the following terms:}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (i)  Dealer}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (ii)  Broker}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (iii)  Bid Price}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (iv)  Strike Price}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 (v)  Spread}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 47      ( Marks: 5 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 A firm has a total value of Rs. 1 million and debt valued at Rs. 400,000. What is}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 the after-tax weighted average cost of capital if the cost of debt is 12%, the cost of}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 equity is 15% and tax rate is 35% ?}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 48      ( Marks: 10 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 SNT & Co. has the following Target capital structure :}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Debentures   =   Rs. 5.00 Billion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Preferred shares   =   Rs. 2.65 Billion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Common shares   =  Rs. 9.35 Billion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Total     =   Rs. 17 Billion}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Bonds carry an interest rate of 11.5%. Common stocks and Preferred stocks have}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 a return of 15.50 % and 12% respectively and corporate tax rate is 40%. Compute}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 the present Weighted Average Cost of Capital (WACC) for SNT & Co.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par 
+\par }{\rtlch\fcs1 \ab\af0\afs27 \ltrch\fcs0 \b\fs27\expnd0\expndtw-1\cf1\insrsid4261126 Question No: 49      ( Marks: 10 )}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Stan d ar d  Man u factu r in g  Com pan y  (SMC)  need s  on e  o f  tw o  m achin es.  Mach in e}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 X costs Rs.  25,000 an d  h as  cash  flow s  o f Rs. 8,000  a  y ear  for  six  y ear s. Mach in e  Y}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 costs  Rs.  30,000  and  h as  cash  flow s  Rs.  7,000  a  y ear  fo r  six  years.  SMC  has  12%}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 cost  of  cap ital.  Calcu late  each  mach in e s  Payb ack  Period  an d  N PV  (N et  Pr esen t}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\rtlch\fcs1 \af0\afs27 \ltrch\fcs0 \fs27\expnd0\expndtw-1\cf1\insrsid4261126 Value) and evaluate the results.}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4261126 
+\par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
+72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
+2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
+44d7a07a83c82f308ac7b0a0f0fbf90c2480980b58abc733615aa2d210c2e02cb04430076a7ee833dfb6ce62e3ed7e14693e8317d8cd0433bf5c60f53fea2fe7
+065bd80facb647e9e25c7fc421fd2ddb526b2e9373fed4bb902e182e97b7b461e6bfad3f010000ffff0300504b030414000600080000002100a5d6a7e7c00000
+00360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb08
+84a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc
+52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353
+bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468
+656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c
+070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f7
+29e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f7468656d65
+312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87615b8116d8
+a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad79482a9c04
+98f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b5d8a314d3c
+94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab999fb7b471
+7509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9699640f671
+9e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd5868b37a088d1
+e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d60cf03ac1a5
+193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f9e7ef3f2d1
+17d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be15c308d3f2
+8acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a99793849c26ae6
+6252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d32a423279a
+668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2af074481847
+bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86e877f0034e
+16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb44f95d843b
+5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a6409fb44d0
+8741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c3d9058edf2
+c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db02565e85f3b966
+0d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276b9f7dec44b
+7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8c33585b5fb
+9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e51440ca2e0
+088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95b21be5ceaf
+8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff6dce591a26
+ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec69ffb9e65d0
+28d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239b75a5bb1e6
+345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a44959d366ad93
+b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e82db8df9f30
+254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f74
+68656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f24
+51eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198
+720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528
+a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100828abc13fa0000001c0200001300000000000000000000000000
+000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000
+002b0100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000140200007468
+656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b000016000000000000000000
+00000000d10200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b010000270000000000
+00000000000000009b0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000960a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e352e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffffec69d9888b8b3d4c859eaf6cd158be0f00000000000000000000000030eb
+df2eadd9cf01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
