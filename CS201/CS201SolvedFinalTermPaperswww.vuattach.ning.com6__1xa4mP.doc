@@ -1,0 +1,1408 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff10\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f37\froman\fcharset0\fprq0{\*\panose 00000000000000000000}TimesNewRoman;}
+{\f38\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f39\froman\fcharset0\fprq0{\*\panose 00000000000000000000}tim{\*\falt Times New Roman};}{\f64\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}
+{\f141\fswiss\fcharset0\fprq0{\*\panose 00000000000000000000}ArialMT{\*\falt Arial};}{\f142\froman\fcharset238\fprq2 Times New Roman CE;}{\f143\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f145\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f146\froman\fcharset162\fprq2 Times New Roman Tur;}{\f147\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f148\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f149\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f150\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f152\fswiss\fcharset238\fprq2 Arial CE;}{\f153\fswiss\fcharset204\fprq2 Arial Cyr;}{\f155\fswiss\fcharset161\fprq2 Arial Greek;}{\f156\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f157\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f158\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f159\fswiss\fcharset186\fprq2 Arial Baltic;}{\f160\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f162\fmodern\fcharset238\fprq1 Courier New CE;}
+{\f163\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f165\fmodern\fcharset161\fprq1 Courier New Greek;}{\f166\fmodern\fcharset162\fprq1 Courier New Tur;}{\f167\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f168\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f169\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f170\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f522\fswiss\fcharset238\fprq2 Arial Black CE;}
+{\f523\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f525\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f526\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f529\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f782\fscript\fcharset238\fprq2 Comic Sans MS CE;}
+{\f783\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f785\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f786\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f789\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green176\blue80;\red51\green51\blue51;\red128\green100\blue162;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\s17\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext17 Normal (Web);}{\*\cs18 \additive \i \sbasedon10 Emphasis;}{\*\cs19 \additive \ul \sbasedon10 Hyperlink;}{\*\cs20 \additive \ul\cf12 \sbasedon10 FollowedHyperlink;}{\*
+\cs21 \additive \b\fs20 Keyboard;}{\s22\ql \li0\ri0\nowidctlpar\tx0\tx959\tx1918\tx2877\tx3836\tx4795\tx5754\tx6713\tx7672\tx8631\tx9590\faauto\rin0\lin0\itap0 \f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Preformatted;}{
+\s23\qc \li0\ri0\nowidctlpar\brdrt\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\rtlgutter\itap0 \v\f1\fs16\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext0 \slink24 \shidden HTML Bottom of Form;}{\*\cs24 \additive 
+\v\f1\fs16\cf1\ulc1 \sbasedon10 \slink23 \slocked \ssemihidden z-Bottom of Form Char;}{\s25\qc \li0\ri0\nowidctlpar\brdrb\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 \v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext0 \slink26 \shidden HTML Top of Form;}{\*\cs26 \additive \v\f1\fs16\cf1\ulc1 \sbasedon10 \slink25 \slocked \ssemihidden z-Top of Form Char;}{\*\cs27 \additive Sample;}{\*\cs28 \additive \b \sbasedon10 Strong;}{\*\cs29 \additive \fs20 
+Typewriter;}{\*\cs30 \additive \i Variable;}{\*\cs31 \additive \v Comment;}{\*\cs32 \additive \b \sbasedon10 \styrsid15534637 input1;}{\*\cs33 \additive \sbasedon10 \styrsid7292377 input;}{\*\ts34\tsrowd\trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrl
+\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrh\brdrs\brdrw10\brdrcf1 \trbrdrv\brdrs\brdrw10\brdrcf1 
+\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon11 \snext34 \styrsid2387776 Table Grid;}{\s35\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 
+\sbasedon0 \snext35 \slink37 \styrsid6559832 header;}{\s36\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext36 \styrsid6559832 footer;}{\*\cs37 
+\additive \f10\fs24\cf1\lang1033\langfe1033\langnp1033\langfenp1033\ulc1 \sbasedon10 \slink35 \slocked \styrsid6559832 Char Char1;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Table Grid;}}
+{\*\listtable{\list\listtemplateid0{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}}{\listname ;}\listid1}{\list\listtemplateid-694277510{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid163976355}{\list\listtemplateid-1683724236{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}
+{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid277763171}{\list\listtemplateid-655833924{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f0\fs24 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid298269552}{\list\listtemplateid1544186722{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname 
+;}\listid483354636}{\list\listtemplateid529008246{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f0\fs24 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid516769056}{\list\listtemplateid-411767290{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid697321166}{\list\listtemplateid-1464797984{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid917208677}{\list\listtemplateid370731674{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1056930789}{\list\listtemplateid1832801648{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname 
+;}\listid1282494713}{\list\listtemplateid-1397430992{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1371489252}{\list\listtemplateid-1704399368{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1447653865}{\list\listtemplateid-1529471360{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1593204386}{\list\listtemplateid1{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b\f37\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname List1214297472_1;}\listid1593204387}{\list\listtemplateid1145626982{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname 
+;}\listid1772436984}{\list\listtemplateid-11517654{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1925601892}{\list\listtemplateid-36805596{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid1993363647}{\list\listtemplateid468727256{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid2127382472}}
+{\*\listoverridetable{\listoverride\listid1993363647\listoverridecount0\ls1}{\listoverride\listid1993363647\listoverridecount9{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}}{\lfolevel
+\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}}{\lfolevel
+\listoverridestartat\listoverrideformat{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}}\ls2}{\listoverride\listid1056930789\listoverridecount0\ls3}
+{\listoverride\listid1056930789\listoverridecount9{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }}
+{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat
+{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'04.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}}{\lfolevel
+\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}}\ls4}{\listoverride\listid1447653865\listoverridecount0\ls5}{\listoverride\listid298269552\listoverridecount0\ls6}{\listoverride\listid516769056\listoverridecount0\ls7}
+{\listoverride\listid1282494713\listoverridecount0\ls8}{\listoverride\listid2127382472\listoverridecount0\ls9}{\listoverride\listid163976355\listoverridecount0\ls10}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid219677\rsid615578
+\rsid1529442\rsid1795721\rsid2296095\rsid2320157\rsid2387776\rsid2652909\rsid2719662\rsid2781704\rsid4206950\rsid4403853\rsid4526576\rsid5078555\rsid5198701\rsid5905606\rsid6035064\rsid6559832\rsid7155549\rsid7292377\rsid7679731\rsid8137013\rsid8807800
+\rsid10493101\rsid10757518\rsid10773752\rsid10840273\rsid11995524\rsid12009863\rsid12213688\rsid12259670\rsid13003604\rsid15336604\rsid15534637\rsid16334622}{\*\generator Microsoft Word 11.0.5604;}{\info{\author Awais}{\operator Awais}
+{\creatim\yr2009\mo6\dy29\hr18\min37}{\revtim\yr2010\mo8\dy1\hr22\min4}{\version26}{\edmins138}{\nofpages14}{\nofwords2162}{\nofchars12327}{\*\company VU}{\nofcharsws14461}{\vern24689}}
+\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot2296095 \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid6559832 
+\chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid6559832 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid6559832 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid6559832 \chftnsepc 
+\par }}\sectd \linex0\sectdefaultcl\sftnbj {\header \trowd \irow0\irowband0\lastrow \ts11\trgaph108\trrh475\trleft-108\trftsWidth2\trwWidth5000\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblrsid6559832\tbllkhdrrows\tbllkhdrcols 
+\clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \clcbpat19\cltxlrtb\clftsWidth2\clwWidth4250\clcbpatraw19 \cellx7420\clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\clcbpat1\cltxlrtb\clftsWidth2\clwWidth750\clcbpatraw1 \cellx8748\pard\plain \s35\ql \li0\ri0\nowidctlpar\intbl\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\caps\f64\cf8\insrsid6559832 
+http://vuattach.ning.com\cell }\pard \s35\qr \li0\ri0\nowidctlpar\intbl\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0 {\cf8\insrsid6559832 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 
+\f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\fs20\cf0\ulc0\insrsid6559832 \trowd \irow0\irowband0\lastrow 
+\ts11\trgaph108\trrh475\trleft-108\trftsWidth2\trwWidth5000\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblrsid6559832\tbllkhdrrows\tbllkhdrcols \clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl 
+\clcbpat19\cltxlrtb\clftsWidth2\clwWidth4250\clcbpatraw19 \cellx7420\clvertalc\clbrdrt\brdrtbl \clbrdrl\brdrtbl \clbrdrb\brdrtbl \clbrdrr\brdrtbl \clcbpat1\cltxlrtb\clftsWidth2\clwWidth750\clcbpatraw1 \cellx8748\row }\pard\plain 
+\s35\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid6559832 
+{\shp{\*\shpinst\shpleft0\shptop0\shpright10875\shpbottom1305\shpfhdr0\shpbxmargin\shpbxignore\shpbymargin\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz0\shplid2049{\sp{\sn shapeType}{\sv 136}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn rotation}{\sv 20643840}}{\sp{\sn gtextUNICODE}{\sv http://vuattach.ning.com/}}{\sp{\sn gtextSize}{\sv 65536}}{\sp{\sn gtextFont}{\sv Calibri}}{\sp{\sn fGtext}{\sv 1}}{\sp{\sn gtextFStretch}{\sv 1}}{\sp{\sn fillColor}{\sv 14857101}}
+{\sp{\sn fillOpacity}{\sv 32768}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn wzName}{\sv PowerPlusWaterMarkObject9331845}}{\sp{\sn posh}{\sv 2}}{\sp{\sn posrelh}{\sv 0}}{\sp{\sn posv}{\sv 2}}{\sp{\sn posrelv}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}
+{\sp{\sn fBehindDocument}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt\par\pard\ql \li0\ri0\widctlpar\phmrg\posxc\posyc\dxfrtext180\dfrmtxtx180\dfrmtxty0\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+{\pict\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw14420\pich14674\picwgoal8175\pichgoal8319\wmetafile8\bliptag-1135104051\blipupi-109{\*\blipuid bc57afcdc5031531fc856a3fac7b248a}
+010009000003de1a000007008c01000000000400000003010800050000000b0200000000050000000c02ca06aa06040000002e011800030000001e0007000000
+fc0200008db3e2000000040000002d0100000c000000400949005a000000000000009800c9002d0600000400000004010900050000000902ffffff002d000000
+4201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00
+000055000000aa00000055000000aa00000055000000040000002d010100040000000601010008000000fa02050000000000ffffff00040000002d0102007e00
+000024033d008a00c40600003b060d002e063e005f063d005a063d0054063d004f063e004b06400046064200420644003e0647003b064c003706500034065500
+31065a00300660003006650030066a003106700033067200350675003606780038067b003b067e003d06810040068500430689004706c8008606bb0093067c00
+54067900510675004e0672004c0670004a066d0048066a004706680046066500460663004506600045065e0046065c004606590047065700480655004a065300
+4c0651004f064f0052064d0056064c005a064c005f064d0063064e00680650006c0652007106560076065b007b06600081069700b7068a00c40608000000fa02
+00000000000000000000040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a000000
+000000009800c9002d06000007000000fc020000ffffff000000040000002d01040004000000f0010100040000002d0100000c000000400949005a0000000000
+00008d009900dc0561000400000004010900050000000902ffffff002d0000004201050000002800000008000000080000000100010000000000200000000000
+000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00000055000000aa000000040000002d0101000400
+000006010100040000002d0102006400000024033000e9004706f9005406f7005806f5005b06f3005d06f1005f06ee006306ea006506e7006706e3006706e000
+6806dd006706d9006706d6006506d4006406d2006306d0006106ce005f06cb005d06c8005a06c4005706c100530687001a067e002306710016067a000c066100
+f4056300e8056400dd05870000069400f305a100000694000d06ce004706d2004a06d4004d06d7004f06d8005006db005106de005106df005006e1005006e200
+4f06e3004d06e5004c06e6004b06e7004906e9004706040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d00
+0c000000400949005a000000000000008d009900dc056100040000002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000
+8d009900b3058a000400000004010900050000000902ffffff002d00000042010500000028000000080000000800000001000100000000002000000000000000
+00000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d01010004000000
+06010100040000002d010200660000002403310011011e0622012b0620012f061e0132061c0134061a01370616013a0613013c060f013e060c013f0609013f06
+05013f0602013e06ff003c06fd003b06fb003a06f9003806f6003606f4003406f0003106ed002e06e9002a06b000f105a700fa059900ed05a300e4058a00cb05
+8c00bf058d00b405b000d705bd00ca05ca00d705bd00e405f7001e06fb002106fd0024060001260601012706030127060401280607012806080127060a012706
+0b0126060c0125060d0123060f0122061001200611011e06040000002d0103000400000006010100040000002d01000005000000090200000000040000000401
+0d000c000000400949005a000000000000008d009900b3058a00040000002d01040004000000f0010100040000002d0100000c000000400949005a0000000000
+0000bb0098008d05c9000400000004010900050000000902ffffff002d0000004201050000002800000008000000080000000100010000000000200000000000
+000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00000055000000aa000000040000002d0101000400
+000006010100040000002d01020000010000380502003b00420053014706c900bd05d500b105e200be05e100b905e000b305e000ae05e000a905e100a505e300
+a105e6009d05e9009905ec009705ee009505f1009305f4009105f7009005fa008f05fd008f0501018e0504018e0508018e050c018f050f019005130191051701
+92051b0194051f01950526019a052e019f053501a5053d01ac054401b4054a01bc055001c4055401cc055601d0055801d4055901d8055a01dc055a01df055b01
+e3055b01e7055b01eb055901f2055701f8055401fd05500102064d010506490107064501090641010a063d010b0638010b0634010a0630010a0660013a065301
+4706530147060801e4050c01e8051101ec051501f0051a01f3051e01f6052201f8052601f9052a01fa052e01fb053101fb053401fb053701fb053a01fa053d01
+f9053f01f7054201f5054301f3054501f0054601ee054701eb054801e7054801e4054701e0054701dd054601d9054401d5054201d0053f01cc053c01c7053801
+c3053401be052f01b9052b01b5052601b1052201ad051d01aa051901a7051501a5051101a4050d01a2050901a2050601a1050201a205ff00a205fc00a305fa00
+a405f700a505f500a705f300aa05f200ac05f100af05f000b205ef00b505ef00b805f000bc05f100c005f200c405f300c805f600cd05f800d105fb00d605ff00
+da050301df050801e4050801e405040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c00000040094900
+5a00000000000000bb0098008d05c900040000002d01040004000000f0010100040000002d0100000c000000400949005a000000000000007400740058051e01
+0400000004010900050000000902ffffff002d000000420105000000280000000800000008000000010001000000000020000000000000000000000000000000
+0000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d010100040000000601010004000000
+2d0102001e000000380502000600060032017b051f0168052d01590541016c0532017b0532017b058201cb056f01b8057e01a9059101bd058201cb058201cb05
+040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a00000000000000740074005805
+1e01040000002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000b9007c00fb0430010400000004010900050000000902
+ffffff002d0000004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff005500
+0000aa00000055000000aa00000055000000aa00000055000000aa000000040000002d0101000400000006010100040000002d0102001a00000024030b00a001
+b2058401870569015c054d013105310105053b01fb0457012605730151058f017d05ab01a805a001b205040000002d0103000400000006010100040000002d01
+0000050000000902000000000400000004010d000c000000400949005a00000000000000b9007c00fb043001040000002d01040004000000f001010004000000
+2d0100000c000000400949005a00000000000000b9007c00d20459010400000004010900050000000902ffffff002d0000004201050000002800000008000000
+080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000
+aa00000055000000040000002d0101000400000006010100040000002d0102001800000024030a00c9018905ad015e0591013305750108055901dd046401d204
+9c012905b8015405d4017f05c9018905040000002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c0000004009
+49005a00000000000000b9007c00d2045901040000002d01040004000000f0010100040000002d0100000c000000400949005a000000000000008e008e00b204
+8d010400000004010900050000000902ffffff002d00000042010500000028000000080000000800000001000100000000002000000000000000000000000000
+00000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d01010004000000060101000400
+00002d0102002c000000240314000f023f05ce011c05ae010a058e01f9049c01eb04c2010105e8011605f4011e0501022505fd012005fa011b05f6011405f201
+0e05dd01e704c701c004d401b304e601d304f701f3041b0233050f023f05040000002d0103000400000006010100040000002d01000005000000090200000000
+0400000004010d000c000000400949005a000000000000008e008e00b2048d01040000002d01040004000000f0010100040000002d0100000c00000040094900
+5a000000000000009600a3006904de010400000004010900050000000902ffffff002d0000004201050000002800000008000000080000000100010000000000
+200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00000055000000aa00000004000000
+2d0101000400000006010100040000002d01020086000000240341007502d9046602ca046802d1046902d7046902dc046802e1046702e6046502eb046202ef04
+5f02f3045b02f7045802f9045402fb044f02fd044a02fe044602fe044202fe043e02fd043a02fb043602fa043202f7042d02f4042a02f2042602ee042202ea04
+1d02e504df01a704ec019b042302d2042602d5042902d8042c02da042e02dd043102df043302e0043402e2043602e3043a02e5043e02e7044202e8044502e804
+4902e8044d02e7045002e5045302e2045602df045802dc045902d8045a02d3045a02cf045a02ca045902c6045702c2045502bf045402bd045202ba045002b804
+4e02b5044b02b2044802af044502ac04100277041d026a048002cd047502d904040000002d0103000400000006010100040000002d0100000500000009020000
+00000400000004010d000c000000400949005a000000000000009600a3006904de01040000002d01040004000000f0010100040000002d0100000c0000004009
+49005a0000000000000090009a0023043e020400000004010900050000000902ffffff002d000000420105000000280000000800000008000000010001000000
+0000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa000000550000000400
+00002d0101000400000006010100040000002d0102006c0100003805020085002e00ba027b04ba028204ba028904b9028f04b8029404b6029904b3029e04b002
+a204ad02a604a902a904a602ab04a302ad04a002af049c02b0049902b1049502b1049102b1048e02b0048a02b0048702ae048302ad048002ab047c02a9047902
+a6047602a30473029f0470029c046d0297046b0293046a028f0469028b04680287046802830469027f0469027b046a0278046c0274046d0271046f026e047202
+6a0475026604780262047b025d047e025a04800256048202520484024f0485024c0486024904850248048302460482024504820245047f0242047d0240047a02
+3e0478023d0476023c0474023b0472023a0470023a046d023a046a023a0468023b0465023c0463023d0460023f045e0240045b02430459024504570247045602
+4a0454024c0453024e04520250045202520452025404520257045202590453025b0454025e045502610457026404580267045a026a044b02740447026e044402
+68044202630440025d043f0258043f02530440024d04410248044402420447023d044a0238044f02330454022e0459022b045d02280462022604660225046b02
+24046f02240472022504760226047a0227047e022a0482022c0485022e04890232048d02360492023b04a9025204ae025704b3025c04b8026104bc026504c002
+6804c3026b04c5026d04c7026f04cb027104cf027304d3027504d7027704c9028504c5028304c2028104be027e04ba027b04ba027b0493025604920259049102
+5c0490025f048e0263048c0266048a026a0485027204820276047f027a047e027e047d0281047c0283047c0286047c0288047d028b047e028e04800290048102
+930483029504870298048b029a048e029c0493029c0495029c0497029c0499029c049b029b049d029a049f029904a1029704a3029504a6029104a9028d04aa02
+8904ab028404ac027f04ac027a04aa027504a8027004a6026b04a30267049f0262049a025d049302560493025604040000002d01030004000000060101000400
+00002d010000050000000902000000000400000004010d000c000000400949005a0000000000000090009a0023043e02040000002d01040004000000f0010100
+040000002d0100000c000000400949005a000000000000008d009900d1036c020400000004010900050000000902ffffff002d00000042010500000028000000
+08000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000
+aa00000055000000aa000000040000002d0101000400000006010100040000002d0102006400000024033000f4023c040403490402034c0400034f04fe025204
+fc025404f9025704f5025a04f2025c04ee025c04eb025d04e8025c04e4025b04e1025a04df025904dd025804db025604d9025404d6025204d3024f04cf024b04
+cc02480492020e04890218047c020b04850201046c02e9036e02dd036f02d2039202f4039f02e703ac02f5039f020204d9023c04dd023f04e0024204e2024304
+e4024404e6024504e9024604ea024504ec024504ed024404ef024204f0024104f1024004f2023e04f4023c04040000002d010300040000000601010004000000
+2d010000050000000902000000000400000004010d000c000000400949005a000000000000008d009900d1036c02040000002d01040004000000f00101000400
+00002d0100000c000000400949005a000000000000008d009900a80395020400000004010900050000000902ffffff002d000000420105000000280000000800
+0000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa0000005500
+0000aa00000055000000040000002d0101000400000006010100040000002d01020066000000240331001c0313042d0320042b03240429032704270329042503
+2b0422032f041e0331041b0333041703340414033404100333040d0333040a0331040803300406032f0404032d0402032b04ff022904fc022604f8022304f502
+1f04bb02e603b202ef03a502e203ae02d8039502c0039702b4039802a903bb02cc03c802bf03d502cc03c802d9030203130406031604080319040b031b040c03
+1c040e031c040f031d0412031d0413031c0415031c0416031b0417031904190318041a0317041b0315041c031304040000002d01030004000000060101000400
+00002d010000050000000902000000000400000004010d000c000000400949005a000000000000008d009900a8039502040000002d01040004000000f0010100
+040000002d0100000c000000400949005a0000000000000090009a008003e1020400000004010900050000000902ffffff002d00000042010500000028000000
+08000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000
+aa00000055000000aa000000040000002d0101000400000006010100040000002d0102006c0100003805020085002e005e03d8035e03df035d03e5035d03eb03
+5b03f1035903f5035703fa035403fe03500302044d0305044a03080446030a0443030b0440030d043c030d0438030e0435030d0431030d042e030c042a030b04
+2703090423030804200305041d0303041a0300041603fc031303f8031103f4030f03f0030d03ec030c03e7030c03e3030c03df030c03dc030d03d8030e03d403
+0f03d1031103ce031303cb031503c7031803c3031c03be031e03ba032103b6032303b2032503af032703ac032903a9032a03a6032803a4032703a3032603a203
+2503a10323039f0320039d031e039b031c03990319039803170397031503970313039603100396030e0397030b039703090398030603990304039b0301039d03
+ff029f03fc02a203fb02a403f902a603f802a803f702aa03f602ad03f602af03f502b103f502b303f602b503f602b803f702bb03f902bd03fa02c003fc02c303
+fe02c603ef02d103eb02cb03e802c503e502bf03e302ba03e202b403e202af03e302aa03e502a403e7029f03ea029a03ee029403f3028f03f7028b03fc028703
+01038503050383030a0381030e03810312038103160381031a0382031e038403210386032503890328038b032c038e0330039203360398034c03ae035203b403
+5703b9035c03bd036003c1036303c4036603c7036903c9036b03cb036e03ce037203d0037603d2037a03d4036d03e1036903df036503dd036103db035e03d803
+5e03d8033703b3033603b6033503b9033303bc033203bf033003c3032d03c6032803ce032503d3032303d7032103da032003dd032003e0032003e2032003e503
+2103e8032203ea032303ed032503ef032703f2032a03f4032e03f7033203f8033603f9033803f9033a03f9033c03f8033e03f7034003f6034203f5034403f403
+4603f2034903ee034c03ea034e03e5034f03e0034f03db034f03d6034e03d1034c03cc034a03c8034603c3034203be033d03b9033703b3033703b30304000000
+2d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a0000000000000090009a008003e1020400
+00002d01040004000000f0010100040000002d0100000c000000400949005a0000000000000085008300320335030400000004010900050000000902ffffff00
+2d0000004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa0000005500
+0000aa00000055000000aa00000055000000aa00000055000000040000002d0101000400000006010100040000002d010200040100002403800097036e03a603
+6303aa036803ad036d03af037103b2037603b3037b03b5037f03b6038403b6038903b6038d03b6039103b5039503b4039903b2039d03b003a103ae03a403ab03
+a703a703ab03a303ae039e03b0039903b2039503b3038f03b4038a03b4038403b3037f03b2037903b0037303ad036d03aa036703a6036103a1035b039c035503
+9603510392034d038e034a038a03460386034403820341037e033c0376033b03720339036e0338036a03370366033603620336035f0336035b03370357033703
+54033803500339034d033b034a033e03440343033f0346033c0349033a034d0338035003360354033403580334035b0333035f03330363033303680334036c03
+3503700337037403380378033b037d033d038103400377034f0371034c036c03490366034703610347035d0347035803480355034a0351034c034f034f034d03
+52034c0355034b0358034a035b034a035e034a0362034b0365034c0369034d036d034f0372035203760355037a0359037f035d0384036103890366038d036b03
+9203700395037403980379039b037d039d0381039f038403a0038803a1038c03a1038f03a1039203a00395039f0398039e039b039c039d039a039f039803a003
+9603a1039303a2039103a3038f03a4038c03a4038a03a4038703a3038403a2038103a1037e03a0037b039e0378039c0374039a03710397036e03040000002d01
+03000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a00000000000000850083003203350304000000
+2d01040004000000f0010100040000002d0100000c000000400949005a000000000000009800c900e30249030400000004010900050000000902ffffff002d00
+00004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa000000
+55000000aa00000055000000aa00000055000000aa000000040000002d0101000400000006010100040000002d0102007e00000024033d00d4037a034a03f102
+5703e402880315038703100387030a0387030503880301038a03fc028c03f8028e03f4029103f1029603ed029a03ea029f03e802a403e602aa03e602af03e602
+b403e702b903e902bc03eb02bf03ed02c203ef02c503f102c803f302cb03f602cf03fa02d203fd0212043c0305044903c6030a03c2030703bf030403bc030203
+ba030003b703fe02b403fd02b103fc02af03fc02ac03fb02aa03fb02a803fc02a503fc02a303fd02a103ff029f0300039d0302039b0305039903080397030c03
+96031003960315039703190398031e039a0322039c032703a0032c03a4033103aa033703e0036d03d4037a03040000002d010300040000000601010004000000
+2d010000050000000902000000000400000004010d000c000000400949005a000000000000009800c900e3024903040000002d01040004000000f00101000400
+00002d0100000c000000400949005a0000000000000023002300020315040400000004010900050000000902ffffff002d000000420105000000280000000800
+0000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00
+000055000000aa000000040000002d0101000400000006010100040000002d0102000e0000002403050029042503160412032404030338041603290425030400
+00002d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a000000000000002300230002031504
+040000002d01040004000000f0010100040000002d0100000c000000400949005a000000000000009600a3006a02ea030400000004010900050000000902ffff
+ff002d0000004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa000000
+55000000aa00000055000000aa00000055000000aa00000055000000040000002d0101000400000006010100040000002d0102007e00000024033d004e040003
+ea039c02f603900204049f02030499020204930202048d02020488020404830206047e0209047a020c047602100473021404700218046e021c046c0220046b02
+25046b0229046b022d046c0231046e02350470023a0472023e0475024104770245047b0249047f024f0484028c04c2027f04cf02430492023e048d0239048902
+35048602320484022e0483022b0482022804810224048102210482021e0483021b048502180487021604890214048c0213048e02120491021104930211049602
+1104990211049c021104a0021204a3021404a7021604ab021904af021c04b3022004b8022504bc025b04f3024e040003040000002d0103000400000006010100
+040000002d010000050000000902000000000400000004010d000c000000400949005a000000000000009600a3006a02ea03040000002d01040004000000f001
+0100040000002d0100000c000000400949005a0000000000000098009800170216040400000004010900050000000902ffffff002d0000004201050000002800
+000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa0000005500
+0000aa00000055000000aa000000040000002d0101000400000006010100040000002d0102001e00000038050200060006002a04380216042402230417023704
+2b022a0438022a043802a004ae023c044a0249043d02ad04a102a004ae02a004ae02040000002d0103000400000006010100040000002d010000050000000902
+000000000400000004010d000c000000400949005a000000000000009800980017021604040000002d01040004000000f0010100040000002d0100000c000000
+400949005a000000000000009700a300f8015c040400000004010900050000000902ffffff002d00000042010500000028000000080000000800000001000100
+00000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000
+040000002d0101000400000006010100040000002d0102008200000024033f00c1048d025d042a0269041e0277042c02750426027404200274041b0275041602
+7604110278040c027b0408027f040302820400028604fe018a04fb018e04fa019304f9019704f9019b04f901a004fa01a404fb01a804fd01ac040002b0040202
+b2040302b3040502b5040602b7040802bc040d02c1041202ff044f02f2045c02b5042002b0041b02ac041702a8041402a4041202a10410029d040f029a040f02
+97040f0293040f02900411028d0412028a041502890417028704190286041c0284041e0284042102830424028304270283042a0284042d028504310286043402
+890438028b043c028f0441029304450297044a02ce048002c1048d02040000002d0103000400000006010100040000002d010000050000000902000000000400
+000004010d000c000000400949005a000000000000009700a300f8015c04040000002d01040004000000f0010100040000002d0100000c000000400949005a00
+000000000000be00aa009901bc040400000004010900050000000902ffffff002d00000042010500000028000000080000000800000001000100000000002000
+00000000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00000055000000aa000000040000002d01
+01000400000006010100040000002d0102008c01000038050200810042001805460227053c022b053f022f0541023305420237054302390542023b0542023e05
+41024005410242053f0244053e0246053c0249053a024b0538024d0536024e0533024f05310250052f0251052c0252052a02520528025105230250051e024e05
+19024b0514024a0512024805100246050e0244050b02410508023e0505023a0501023605fd01370503023805080238050c023705110235051502340519023105
+1c022e051f022a05230226052602210528021d052a0218052b0212052b020d052a020705290201052702fc042502f6042202f0041f02eb041c02e6041702e004
+1302db040e02d4040702ce04ff01c904f801c504f001c304ec01c104e801c004e401bf04e001be04dc01be04d901bd04d501bd04d201be04ce01be04cb01bf04
+c801c104c501c204c201c404bf01c604bc01c904b901cc04b601d004b401d404b201d804b101dd04b001e204b001e704b001ed04b101e104a501ed049a014305
+f0014905f5014e05fb0152050002560505025a0509025c050d025f051102610514026205180263051b0264051e0265052202650525026505280264052f026405
+3202630536026105390260053c025e053f025c054202590545025705480253054b0250054e024c0551024805530244055402410555023d055602390556023505
+5602300555022c055402280552022405500220054d021c054a021805460218054602e7040002ec040402f1040802f5040c02fa040f02fe041202020514020605
+15020a0516020d0517021105170214051702170516021a0515021d0514021f0512022205100224050e0225050b022705090228050602280503022805ff012805
+fc012805f8012705f5012505f1012305ed012105e8011e05e4011a05e0011605db011205d6010d05d2010905ce010405cb010005c801fc04c501f804c301f404
+c201f004c101ec04c001e804c001e504c001e204c101df04c201dc04c301da04c501d704c701d504c901d404cb01d304ce01d204d101d104d401d104d701d104
+db01d204de01d304e201d404e601d604ea01d904ee01dc04f201df04f701e304fb01e7040002e7040002040000002d0103000400000006010100040000002d01
+0000050000000902000000000400000004010d000c000000400949005a00000000000000be00aa009901bc04040000002d01040004000000f001010004000000
+2d0100000c000000400949005a0000000000000023002300c40154050400000004010900050000000902ffffff002d0000004201050000002800000008000000
+080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000
+aa00000055000000040000002d0101000400000006010100040000002d0102000e000000240305006805e6015505d3016305c4017705d7016805e60104000000
+2d0103000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a0000000000000023002300c40154050400
+00002d01040004000000f0010100040000002d0100000c000000400949005a00000000000000850083002f0138050400000004010900050000000902ffffff00
+2d0000004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff0055000000aa00
+000055000000aa00000055000000aa00000055000000aa000000040000002d0101000400000006010100040000002d01020004010000240380009a056b01a905
+6001ad056501b0056a01b2056e01b5057301b6057801b8057c01b9058101b9058601b9058a01b9058e01b8059201b7059601b5059a01b3059e01b105a101ae05
+a401aa05a801a605ab01a105ad019d05af019805b0019205b1018d05b1018705b0018205af017c05ad017605aa017005a7016a05a30164059e015e0599015805
+930154058f0150058b014d0587014a05830147057f0144057b013f0573013e056f013c056b013b0567013a05630139055f0139055c01390558013a0554013a05
+51013b054d013c054a013e0547014105410146053c01490539014c0537015005350153053301570531015b0531015e05300162053001660530016b0531016f05
+320173053401770535017b05380180053a0184053d017a054c01740549016f0546016905440164054401600544015c054501580547015405490152054c015005
+4f014f0552014e0555014d0558014d055b014d055f014e0562014f05660150056a0152056f0155057301580577015c057c01600581016405860169058a016e05
+8f0173059201770595017c05980180059a0184059c0188059d018b059e018f059e0192059e0195059d0198059c019b059b019e059901a0059701a2059501a305
+9301a4059001a5058e01a6058c01a7058901a7058701a7058401a6058101a5057e01a4057b01a3057801a10575019f0571019d056e019a056b01040000002d01
+03000400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a00000000000000850083002f01380504000000
+2d01040004000000f0010100040000002d0100000c000000400949005a0000000000000087008500e30081050400000004010900050000000902ffffff002d00
+00004201050000002800000008000000080000000100010000000000200000000000000000000000000000000000000000000000ffffff00aa00000055000000
+aa00000055000000aa00000055000000aa00000055000000040000002d0101000400000006010100040000002d010200160100003805020046004200a0054a01
+9905430194053d018f0536018b052f01880529018505220184051c01830515018305100183050b0184050701850502018705fe008905fa008c05f6009005f200
+9405ef009805ec009c05e900a105e700a605e600ab05e600b105e600b705e600bd05e700c205e900c805ec00ce05ef00d405f300da05f700e005fc00e6050101
+eb050601ef050b01f3050f01f6051401f9051801fc051c01fe052001000624010106280103062c0104063001040633010506370105063b0105063e0104064201
+0206490100064f01fc055501f8055b01f4055e01ef056101eb056401e6056601e1056701dc056801d6056801d0056701cb056601c5056401bf056101b9055e01
+b3055a01ac055601a6055001a0054a01a0054a01ad053d01b2054201b7054601bb054901c0054c01c4054f01c8055101cc055201d0055301d4055401d8055401
+db055401df055301e2055201e5055101e7054f01ea054d01ec054a01ee054801ef054501f0054201f1053e01f1053b01f1053701f0053301ef052f01ee052b01
+ec052701e9052201e6051e01e2051901de051401d9051001d5050b01d0050701cc050401c8050101c305ff00bf05fd00bb05fb00b705fa00b305f900af05f900
+ac05f900a905fa00a605fb00a305fc00a005fe009e0500019b050301990506019805090197050c0196050f01960512019605160197051a0198051e019a052201
+9c0526019e052b01a1052f01a5053401a9053801ad053d01ad053d01040000002d0103000400000006010100040000002d010000050000000902000000000400
+000004010d000c000000400949005a0000000000000087008500e3008105040000002d01040004000000f0010100040000002d0100000c000000400949005a00
+000000000000c200cd006500c4050400000004010900050000000902ffffff002d00000042010500000028000000080000000800000001000100000000002000
+00000000000000000000000000000000000000000000ffffff00aa00000055000000aa00000055000000aa00000055000000aa00000055000000040000002d01
+01000400000006010100040000002d010200e40000002403700028062601c505c200d005b600de05c400dd05bf00dc05ba00dc05b400dc05af00dd05aa00df05
+a500e205a100e5059d00e9059900ee059600f3059400f8059400fd05940002069500070696000c0699000a06920009068c0009068700090681000a067c000c06
+78000f0674001206700015066d0018066b001b0669001e0668002106670025066600280666002c0667002f0667003306690037066a003b066c003f066f004306
+7200470676004b067a009006be008306cb0044068c003f0688003b0684003706810034067f0031067e002e067d002b067c0028067c0025067d0023067e002006
+7f001e0681001c0683001a0686001906880018068b0018068d001706900017069300170696001806990019069c001b069f001d06a3001f06a6002206aa002506
+ae002906b1006306eb005606f8001506b7001206b5000f06b2000d06b0000a06ae000806ad000506ac000306ab000106aa00ff05a900fd05a900fa05a900f805
+aa00f605aa00f505ab00f305ad00f105ae00ee05b100ec05b500eb05b800eb05bc00ea05c100eb05c500ed05c900ef05ce00f005d000f205d300f405d600f605
+d800f805db00fb05de00fe05e2000206e5003506190128062601040000002d0103000400000006010100040000002d0100000500000009020000000004000000
+04010d000c000000400949005a00000000000000c200cd006500c405040000002d01040004000000f0010100040000002d0100000c000000400949005a000000
+00000000b9007c0000002b060400000004010900050000000902ffffff002d000000420105000000280000000800000008000000010001000000000020000000
+0000000000000000000000000000000000000000ffffff0055000000aa00000055000000aa00000055000000aa00000055000000aa000000040000002d010100
+0400000006010100040000002d01020014000000240308009b06b700640661002c060a003606000052062b006e065600a606ad009b06b700040000002d010300
+0400000006010100040000002d010000050000000902000000000400000004010d000c000000400949005a00000000000000b9007c0000002b06040000002d01
+0400040000002701ffff1c000000fb02ceff0000000000009001000000000440001254696d6573204e657720526f6d616e000000000000000000000000000000
+0000040000002d0105000400000002010100050000000902000000020d000000320a400015000100040015001300bf06d906207d16001c000000fb021000070000000000bc02000000000102022253797374656d00000000000000000000180000000300000060261d00e4040000040000002d010600030000000000}\par}}
+}{\f141\insrsid6559832\charrsid6559832 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f39\insrsid6559832\charrsid12259670 FINALTERM EXAMINATION}{\b\f39\insrsid15336604\charrsid12259670  
+\par Spring 2009
+\par CS201- Introduction to Programming (Session - 1) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\insrsid15336604\charrsid12259670 Time: 120 min 
+\par Marks: 75
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 To access the data members of structure _______ is used.
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\b\f39\cf17\ulc0\insrsid15336604\charrsid2320157        \u9658\'3f }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2320157 dot operator (.)
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 * operator
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 \'e0 operator 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 None of given.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What does 5 ^ 6 , evaluate to in decimal where \lquote ^\rquote  is Exclusive OR operator?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par        \u9658\'3f 1
+\par        \u9658\'3f 2
+\par        }{\b\f39\cf17\ulc0\insrsid15336604\charrsid16334622 \u9658\'3f 3
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f 4
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 If constructor contains a return statement in its body then compiler will give __________ 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2320157 \u9658\'3f }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2320157 No error
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Syntax error
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Logical error 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Run time error
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670  We can use New keyword inside of Class Constructor.
+\par }\pard \ql \li0\ri0\nowidctlpar\tx9000\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid12259670 True}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid2320157 \u9658\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid2320157 False}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 When an operator function is define as member function for a Unary operator then the number of argument it take is/are,
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\tx2160\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Zero
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid7155549 
+One}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Two
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+N arguments
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 The declarator of Plus (+) member operator function is
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\tx660\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx660\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15336604\charrsid10493101 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid10493101 \u-4064
+\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid10493101 Class-Name  operator + (Class-Name  rhs)
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx660\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+operator Class-Name + ( )
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx660\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+operator Class-Name + ( rhs)
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Class-Name  operator + ( )}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Friend function of a class is ______________ .
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Member function
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{
+\b\f39\cf17\ulc0\insrsid15336604\charrsid10493101 Non-member function}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Private function
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Public function}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 We can also create an array of user define data type.
+\par }\pard \ql \li0\ri0\nowidctlpar\tx6120\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid12259670 True}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid10493101 \u9658\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid10493101 False}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What is the sequence of event(s) when deallocating memory using delete operator?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\fs22\cf0\ulc0\insrsid15336604\charrsid12259670 
+Only block of memory is deallocated for objects
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Only destructor is called for objects
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{
+\b\f39\cf17\ulc0\insrsid15336604\charrsid10493101 Memory is deallocated first before calling destructor}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Destructor is called first before deallocating memory
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Deleting an array of objects without specifying [] brackets may lead to memory leak}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid12259670 True}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid10493101 \u9658\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid10493101 False}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid15336604 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f38\fs20\ulc0\insrsid15336604 Which of the following data type(s) can operate on modulus operator \lquote %\rquote ? 
+\par        \u9658\'3f float, int
+\par        \u9658\'3f float, double 
+\par }{\b\f38\fs20\cf17\ulc0\insrsid15336604\charrsid10493101        \u9658\'3f int 
+\par }{\f38\fs20\ulc0\insrsid15336604        \u9658\'3f char
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Array is passed by value to a function by default.}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid10493101 \u9658
+\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid10493101 True
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\f39\cf0\ulc0\insrsid12259670 False}{\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 With template function, the compiler automatically detects the passed data and generates a new copy of function using passed data.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid12213688 \u9658
+\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid12213688 True
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\f39\cf0\ulc0\insrsid12259670 False}{\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What will be the correct syntax to initialize all elements of two-dimensional array to value 0?
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid12213688 \u-4064\'3f
+}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 int arr[2][3] = \{0,0\} ;
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+int arr[2][3] = \{\{0\},\{0\}\} ;
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+int arr[2][3] = \{0\},\{0\} ;
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 int arr[2][3] = \{0\} ; }{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 When an operator function is define as member function then operand on the left side of operator must be an object.}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid12213688 \u9658
+\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid12213688 True
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\f39\cf0\ulc0\insrsid12259670 False}{\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 break statement can be used outside a loop or switch statement.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid12213688 \u9658
+\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid12213688 True
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\f39\cf0\ulc0\insrsid12259670 False}{\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 The keyword_______ is used to return some value from a function.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 return}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 break}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 continue}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 goto}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\ulc0\insrsid15336604\charrsid12259670 Every data member or function inside the structure is ___ by default whereas everything declared inside a class is ____ by default.
+\par 
+\par }\pard \qj \li360\ri0\widctlpar\tx720\faauto\rin0\lin360\itap0 {\f39\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\ulc0\insrsid15336604\charrsid12259670 private, public}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid12213688 \u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+public, private}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\ulc0\insrsid15336604\charrsid12259670 private, protected}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\ulc0\insrsid15336604\charrsid12259670 public, protected}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Which of the following is true for the C++ statement given below?
+\par }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  int &ref = val ;
+\par  
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 It creates a synonym for variable \lquote val\rquote }{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 It creates an alias for variable \lquote val\rquote }{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 It\rquote s a new name for variable \lquote val\rquote }{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid12213688 \u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+All of the given options }{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx6480\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 If overloaded plus operator is implemented as non-member function then which of the following statement will be true for the statement given below?
+\par }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 obj3 = obj1 + obj2 ;
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\tx6480\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670  
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+obj2 will be passed as an argument to + operator  whereas obj2 will drive the + operator}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+obj1 will drive the + operator whereas obj2 will be passed as an argument to + operator}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid12213688 \u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+Both objects (obj1, obj2) will be passed as arguments to the + operator}{\b\f39\cf17\ulc0\insrsid15336604\charrsid12213688 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Any of the objects (obj1, obj2) can drive the + operator}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx6480\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Unary operator implemented as member function takes ____ arguments whereas non-member function takes _____ arguments.
+\par 
+\par }\pard \ql \li360\ri0\widctlpar\tx720\tx6480\faauto\rin0\lin360\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 One, zero
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid10757518 \u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid10757518 
+Zero, one}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 One, two
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Two, one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 The input/output streams cin and cout are ________ therefore have _______.
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Structures, function}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Objects, member functions}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Functions, objects}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par        }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662 \u9658\'3f }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662 None of the given options}{\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 If a symbolic constant has been defined, it will be an error to define it again.}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662        \u9658\'3f True
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f False
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Every class contains _______________.
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662        \u9658\'3f }{\b\f39\cf17\ulc0\insrsid15336604\charrsid2719662 Constructor
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Destructor
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Both a constructor and a destructor
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 None of the given options
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 new and delete keywords are _____________ in C++ language.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Built-in- Function
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Operators
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        }{\b\f39\cf17\ulc0\insrsid15336604\charrsid1529442 \u9658\'3f }{\b\f39\cf17\ulc0\insrsid15336604\charrsid1529442 Memory Allocation Function
+
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670        \u9658\'3f }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 None of  the given options
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\insrsid15336604\charrsid12259670 Consider the following code segment. 
+\par 
+\par class M \{
+\par public:
+\par    M &operator+(const M &);
+\par ...
+\par \};
+\par 
+\par }{\b\f39\insrsid15336604\charrsid12259670 p + }{\b\f39\cf6\insrsid15336604\charrsid1529442 q                 }{\b\f39\cf6\highlight1\insrsid15336604\charrsid1529442 //code of line implies that   p.operator+(q)}{
+\b\f39\cf6\highlight8\insrsid15336604\charrsid1529442 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\insrsid15336604\charrsid12259670 ...
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\insrsid15336604\charrsid12259670 Let assume if p and q are class objects then function is implemented as _______}{\b\f39\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx960\faauto\rin0\lin0\itap0 {\f39\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx960\faauto\rin0\lin0\itap0 {\f0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid1529442 
+Member function}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx960\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Non-member function
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx960\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Friend function
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 None of the given options}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\fs20\cf0\ulc0\insrsid15336604\charrsid12259670 A}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 ssignment operator is -------------------------associative.}{
+\f39\fs20\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+right
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+left
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid1529442 \u9658\'3f\u-4064\'3f
+}{\b\f39\cf17\ulc0\insrsid15336604\charrsid1529442 binary
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx1080\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+unary
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid15336604 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid15336604  Static variable which is defined in a function is initialized __________.
+\par        }{\b\f39\cf17\ulc0\insrsid15336604\charrsid6035064 \u9658\'3f Only once during its life time 
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid15336604        \u9658\'3f Every time the function call
+\par        \u9658\'3f Compile time of the program
+\par        \u9658\'3f None of the above
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 We}{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+can not define a variable of user-defined data type in the class.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12259670 {\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid12259670 True}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid12259670\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f}{\b\f0\cf17\ulc0\insrsid12259670\charrsid5078555 \u9658\'3f}{\b\f39\cf17\ulc0\insrsid12259670\charrsid5078555 False}{
+\f39\cf0\ulc0\insrsid12259670\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 A constructor that will create a new object with a full copy of the other object, is copy is known as ___________}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f}{\b\f0\cf17\ulc0\insrsid15336604\charrsid5078555 \u-4064\'3f}{\b\f39\cf17\ulc0\insrsid15336604\charrsid5078555 
+deep copy}{\b\f39\cf17\ulc0\insrsid15336604\charrsid5078555 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 shallow copy}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 constructor copy}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f0\cf0\ulc0\insrsid15336604\charrsid12259670 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 none of the options}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 31    ( Marks: 1 ) 
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\fs22\cf0\ulc0\insrsid15336604\charrsid12259670 What is the use of reference data type?}{\f39\fs22\cf0\ulc0\insrsid15336604 
+\par }{\f39\fs22\cf0\ulc0\insrsid5078555 
+\par }{\f39\cf0\ulc0\insrsid5078555\charrsid5078555 
+A reference data type is a variable that can contain an address. The reference data types in Java are arrays, classes and interfaces. You'll hear often say that Java does not have pointers. Yet, you could consider a reference data type to be a pointer
+
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 32    ( Marks: 1 ) 
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\fs22\cf0\ulc0\insrsid15336604\charrsid12259670 What are the main types of operators in terms of number of arguments they take?}{\f39\fs22\cf0\ulc0\insrsid15336604 
+\par }{\f39\fs22\cf0\ulc0\insrsid4206950 
+\par }{\f0\insrsid4206950\charrsid4206950 The difference is in the number of arguments used by the function. In the case of binary operator overloadin
+g, when the function is a member function then the number of arguments used by the operator member function is one (see below example). When the function defined for the binary operator overloading is a friend function, then it uses two arguments.}{
+\f0\cf0\ulc0\insrsid4206950\charrsid4206950 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 33    ( Marks: 2 ) 
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What is the }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 this }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 pointer? Give an example of its use}{
+\f39\cf0\ulc0\insrsid615578 
+\par }{\f0\cf18\insrsid615578\charrsid615578 In a C++ program, if you create object A of class X, you can then obtain the address of A by using the "this" pointer. The address is ava
+ilable as a local variable in the non-static member functions of X, and its type is const X*. The "this" pointer works because C++ creates instances of its data members, and it keeps one copy of each member function}{
+\f0\cf0\ulc0\insrsid15336604\charrsid615578 .
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 34    ( Marks: 2 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What are manipulators? Give one example.}{\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid219677 
+\par }{\f0\insrsid4403853\charrsid4403853 Manipulators are operators used in C++ for formatting output. The data is manipulated by the programmer\rquote s choice of displaye}{\f0\insrsid4403853 d endl manipulator.}{\f0\insrsid4403853\charrsid4403853 
+ This manipulator has the same functionality as the \lquote \\n\rquote  newline character.}{\b\f0\cf0\ulc0\insrsid4403853\charrsid4403853 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 35    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 What will be the output of following functions if we call these functions three times?
+\par 
+\par }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 1)
+\par }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 void func1()\{
+\par int x = 0;
+\par x++;
+\par cout << x << endl;
+\par \}}{\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid1795721 
+\par }{\b\f39\cf17\ulc0\insrsid1795721\charrsid1795721 Output will be:
+\par 1\line 1\line 1
+\par }{\f39\cf0\ulc0\insrsid1795721\charrsid12259670 
+\par }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 2)}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670  
+\par void func2()\{
+\par static int x = 0 ;
+\par x++;
+\par cout << x << endl ;
+\par \}  }{\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid1795721 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid1795721 {\b\f39\cf17\ulc0\insrsid1795721\charrsid1795721 Output will be:
+\par }{\b\f39\cf17\ulc0\insrsid1795721 1\line 2\line 3}{\b\f39\cf17\ulc0\insrsid1795721\charrsid1795721 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid1795721\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 36    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 If the requested memory is not available in the system then what does }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 calloc/malloc}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670  and }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 new}{\f39\cf0\ulc0\insrsid15336604\charrsid12259670  operator return?}{\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid15534637 
+\par }{\cs32\f0\insrsid15534637\charrsid15534637 malloc}{\f0\insrsid15534637\charrsid15534637  returns a void pointer to the allocated space or }{\cs32\f0\insrsid15534637\charrsid15534637 NULL}{\f0\insrsid15534637\charrsid15534637 
+ if there is insufficient memory available. To return a pointer to a type other than }{\cs32\f0\insrsid15534637\charrsid15534637 void}{\f0\insrsid15534637\charrsid15534637 
+, use a type cast on the return value. The storage space pointed to by the return value is guaranteed to be suitably aligned for storage of any type of object. If size is 0, }{\cs32\f0\insrsid15534637\charrsid15534637 malloc}{
+\f0\insrsid15534637\charrsid15534637  allocates a zero-length item in the heap and returns a valid pointer to that item.}{\f0\insrsid15534637 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7292377 {\f0\insrsid7292377\charrsid7292377 
+By default, malloc does not call the new handler routine on failure to allocate memory. You can override this default behavior so that, when malloc fails to allocate memory, malloc calls the new handler routine in the same way that the new oper
+ator does when it fails for the same reason}{\f0\insrsid7292377 .}{\f0\insrsid7292377\charrsid7292377 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 37    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 If we want to send the data by reference and don\rquote t want that original data should be affected then what can we do to prevent any change?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 38    ( Marks: 5 ) 
+\par }{\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Write down the disadvantages of the templates.}{\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid13003604 
+\par The disadvantages of templates are:
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid13003604 {\f37\cf0\ulc0\insrsid13003604\charrsid13003604 \bullet  Templates can make code difficult to read and follow depending upon coding style.
+\par \bullet  They can present seriously confusing syntactical problems esp. when the code is large and spread over several header and source files.
+\par \bullet  Then, there are times, when templates can "excellently" produce nearly meaningless compiler errors thus requiring extra care to enforce syntactical and other design constraints. A common mistake is the angle bracket problem}{
+\f37\fs21\cf0\ulc0\insrsid13003604 .}{\f37\fs21\cf0\ulc0\insrsid13003604\charrsid13003604 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 39    ( Marks: 5 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\ulc0\insrsid15336604\charrsid12259670 The following code segment has errors. Locate as many as you can and explain briefly.
+\par 
+\par }{\f39\ulc0\insrsid10840273 class Circle}{\f39\ulc0\insrsid15336604\charrsid12259670  }{\f39\ulc0\insrsid10840273 /}{\f39\cf6\ulc0\insrsid10840273\charrsid10840273 / no need to enter colon here , so I removed it}{
+\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f39\ulc0\insrsid15336604\charrsid12259670 \{
+\par private }{\f39\cf6\ulc0\insrsid10840273\charrsid10840273 :}{\f39\cf6\ulc0\insrsid10840273  //colon missing}{\f39\cf8\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f39\ulc0\insrsid15336604\charrsid12259670 double centerX;
+\par double centerY;
+\par double radius;
+\par public}{\f39\cf6\ulc0\insrsid10840273\charrsid10840273 :}{\f39\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf6\ulc0\insrsid10840273 //colon missing}{\f39\cf8\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f39\ulc0\insrsid5198701 void }{\f39\ulc0\insrsid15336604\charrsid12259670 setCenter(double, double);
+\par }{\f39\ulc0\insrsid4526576 void }{\f39\ulc0\insrsid15336604\charrsid12259670 setRadius(int); }{\f39\cf8\ulc0\insrsid15336604\charrsid12259670 
+\par }{\f39\cf6\ulc0\insrsid15336604\charrsid10840273 \}}{\f39\cf6\ulc0\insrsid10840273\charrsid10840273 ;//semi colon missing}{\f39\cf6\ulc0\insrsid15336604\charrsid10840273 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 40    ( Marks: 10 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\ulc0\insrsid15336604\charrsid12259670 Write a program which consists of two classes, }{\b\f39\ulc0\insrsid15336604\charrsid12259670 Date}{\f39\ulc0\insrsid15336604\charrsid12259670  and }{
+\b\f39\ulc0\insrsid15336604\charrsid12259670 Person. 
+\par }{\f39\ulc0\insrsid15336604\charrsid12259670 Date class should contain three data members }{\b\f39\ulc0\insrsid15336604\charrsid12259670 day}{\f39\ulc0\insrsid15336604\charrsid12259670 , }{\b\f39\ulc0\insrsid15336604\charrsid12259670 month}{
+\f39\ulc0\insrsid15336604\charrsid12259670 , }{\b\f39\ulc0\insrsid15336604\charrsid12259670 year}{\f39\ulc0\insrsid15336604\charrsid12259670  and setter and getter function for these data members. Date class should also contain }{
+\b\f39\ulc0\insrsid15336604\charrsid12259670 showdate()}{\f39\ulc0\insrsid15336604\charrsid12259670  member function to display date.
+\par 
+\par Person class should contain three data members }{\b\f39\ulc0\insrsid15336604\charrsid12259670 Name, Address, }{\f39\ulc0\insrsid15336604\charrsid12259670 and}{\b\f39\ulc0\insrsid15336604\charrsid12259670  Bday}{\f39\ulc0\insrsid15336604\charrsid12259670 
+, where Name and Address are char pointer while Bday(Date of birth) is of type Date, Person class should further contain two member functions }{\b\f39\ulc0\insrsid15336604\charrsid12259670 Display()}{\f39\ulc0\insrsid15336604\charrsid12259670  and }{
+\b\f39\ulc0\insrsid15336604\charrsid12259670 setdate().
+\par }{\f39\ulc0\insrsid15336604\charrsid12259670 
+\par In main program Create an object of Class person and call the member functions with it.}{\f39\ulc0\insrsid15336604 
+\par }{\f39\ulc0\insrsid2387776 
+\par }{\b\f39\cf17\ulc0\insrsid2387776\charrsid2387776 Please find the Answer in following Box
+\par }{\f39\ulc0\insrsid2387776 
+\par }\trowd \irow0\irowband0\lastrow \ts34\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrh\brdrs\brdrw10\brdrcf1 \trbrdrv\brdrs\brdrw10\brdrcf1 
+\trftsWidth1\trftsWidthB3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllkhdrcols \clvertalt\clbrdrt\brdrs\brdrw10\brdrcf1 \clbrdrl\brdrs\brdrw10\brdrcf1 \clbrdrb\brdrs\brdrw10\brdrcf1 \clbrdrr
+\brdrs\brdrw10\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth8856\clshdrawnil \cellx8748\pard\plain \ql \li0\ri0\widctlpar\intbl\faauto\rin0\lin0\pararsid2387776\yts34 \f10\fs22\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {
+\f1\fs20\cf0\ulc0\insrsid2387776\charrsid2387776 #include <stdio.h>
+\par #include <iostream>
+\par #include <cstring>
+\par using namespace std;
+\par 
+\par class Date
+\par \{
+\par public:
+\par \tab int day;
+\par \tab int month;
+\par \tab int year;
+\par 
+\par public:
+\par \tab Date()
+\par \tab \tab \{
+\par \tab \tab \tab day=0;
+\par \tab \tab \tab month=0;
+\par \tab \tab \tab year=0;
+\par 
+\par \tab \tab \}
+\par 
+\par \tab void setDay(int);
+\par \tab void setMonth (int);
+\par \tab void setYear(int);
+\par 
+\par \tab int getDay();
+\par \tab int getMonth();
+\par \tab int getYear();
+\par 
+\par \tab void showDate();
+\par \};
+\par void Date: :setDay(int d)
+\par \{
+\par \tab if\{d<1 | | d>31)
+\par \tab cout<<"Invalid month Renter it";
+\par \tab cin>>d;
+\par \}
+\par \tab day=d;
+\par \}
+\par 
+\par void Date: :setMonth (int m)
+\par \{
+\par \tab if(m<1 | | m>12)
+\par \{
+\par \tab cout<<"Invalid month Renter it";
+\par \tab cin>>m;
+\par \}
+\par \tab month=m;
+\par \}
+\par \tab void Date: :setYear (int y)
+\par \{
+\par \tab year=y;
+\par 
+\par \tab int Date: :getDay()
+\par \{
+\par \tab return day;
+\par \}
+\par \tab int Date: :getMonth()
+\par \{
+\par \tab return month:
+\par \}
+\par \tab int Date: :getYear()
+\par \{
+\par \tab return year;
+\par \}
+\par \tab void Date: :showDate()
+\par \{
+\par \tab cout<<day<<"-"<<month<<"-"<<year<<end1;
+\par \}
+\par Class Person
+\par \{
+\par public:
+\par 
+\par \tab char *Name;
+\par    char *Address
+\par \tab Date Bday;
+\par 
+\par public:
+\par \tab Student()
+\par \tab \{
+\par \tab Name=new char[20];
+\par \tab Address=new char[10];
+\par \tab cin.getline(Name,20);
+\par \tab cout<<"Enter Address:";
+\par \tab cin.getline(Address,10);
+\par \tab \}
+\par 
+\par void setDate()
+\par \{
+\par \tab cout<<"Enter Day:";
+\par \tab cin>>Ad_date.day;
+\par \tab cout<<"Enter month:";
+\par \tab cin>>Ad_date.month;
+\par \tab cout<<"Enter Year:";
+\par \tab cin>>Ad_date.year;
+\par \tab \}
+\par void Display()
+\par \tab \{
+\par \tab cout<<"Name: "<<end1;
+\par \tab cout<<"Address: "<<Address<<end1;
+\par \tab cout<<"Date of Birth: ";
+\par \tab Ad-date.showDate();
+\par \tab \}
+\par \};
+\par void main()
+\par \{
+\par \tab Person object;
+\par \tab object.setDate();
+\par 
+\par \tab object.Display();
+\par 
+\par \tab system("pause");
+\par \}
+\par }\pard \qj \li0\ri0\widctlpar\intbl\faauto\rin0\lin0\yts34 {\f39\ulc0\insrsid2387776 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {
+\f39\ulc0\insrsid2387776 \trowd \irow0\irowband0\lastrow \ts34\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrh\brdrs\brdrw10\brdrcf1 \trbrdrv
+\brdrs\brdrw10\brdrcf1 \trftsWidth1\trftsWidthB3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllkhdrcols \clvertalt\clbrdrt\brdrs\brdrw10\brdrcf1 \clbrdrl\brdrs\brdrw10\brdrcf1 \clbrdrb\brdrs\brdrw10\brdrcf1 
+\clbrdrr\brdrs\brdrw10\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth8856\clshdrawnil \cellx8748\row }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\ulc0\insrsid2387776 
+\par }{\f39\ulc0\insrsid8807800 
+\par }{\f39\ulc0\insrsid8807800\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670     }{\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Question No: 41    ( Marks: 10 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f39\cf0\ulc0\insrsid11995524\charrsid12259670 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f39\cf0\ulc0\insrsid15336604\charrsid12259670  }{\f39\cf0\ulc0\insrsid15336604\charrsid12259670 Write a C++ program that contains a class \lquote myClass\rquote  having two data members of type int.
+\par The class must have
+\par {\listtext\pard\plain\f10\insrsid15336604\charrsid12259670 \loch\af10\dbch\af0\hich\f10 \'b7\tab}}\pard \ql \fi-360\li792\ri0\widctlpar\tx792\faauto\ls4\rin0\lin792\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+A default constructor which must initialize all the data members to their meaningful values.
+\par {\listtext\pard\plain\f10\insrsid15336604\charrsid12259670 \loch\af10\dbch\af0\hich\f10 \'b7\tab}A destructor with no implementation.
+\par {\listtext\pard\plain\f10\insrsid15336604\charrsid12259670 \loch\af10\dbch\af0\hich\f10 \'b7\tab}Setter member functions to set all data members of class
+\par {\listtext\pard\plain\f10\insrsid15336604\charrsid12259670 \loch\af10\dbch\af0\hich\f10 \'b7\tab}Getter member functions to get all data members of class
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\tx6525\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 In main function of the program
+\par \tab 
+\par {\listtext\pard\plain\f39\insrsid15336604\charrsid12259670 \hich\af39\dbch\af0\loch\f39 5.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\tx720\tx6525\faauto\ls3\rin0\lin720\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+Prompt the user to enter the number of objects to be created.
+\par {\listtext\pard\plain\f39\insrsid15336604\charrsid12259670 \hich\af39\dbch\af0\loch\f39 6.\tab}Dynamically allocate memory to objects according to the size entered by user.
+\par {\listtext\pard\plain\f39\insrsid15336604\charrsid12259670 \hich\af39\dbch\af0\loch\f39 7.\tab}De-allocate memory that was allocated to objects }{\f39\ul\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604 
+\par }{\f39\cf0\ulc0\insrsid10773752 Find solution in following box:
+\par 
+\par }\pard\plain \ql \li0\ri0\widctlpar\intbl\faauto\rin0\lin0\pararsid10773752\yts34 \f10\fs22\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\f1\fs20\cf0\ulc0\insrsid10773752\charrsid10773752 #include <stdio.h>
+\par #include <iostream>
+\par #include <cstring>
+\par using namespace std;
+\par 
+\par class myclass
+\par 
+\par \{
+\par 
+\par public:
+\par int a;
+\par int b;
+\par int *iptr, *sptr;
+\par 
+\par construct\{int,int.int\}
+\par 
+\par \tab void seta(int);
+\par \tab void setb(int);
+\par \tab void setc(int);
+\par 
+\par \tab int geta();
+\par \tab int getb();
+\par \tab int getc();
+\par 
+\par 
+\par 
+\par \};
+\par 
+\par void Person: :seta(int aa)
+\par \{
+\par 
+\par \tab a=aa;
+\par \}
+\par 
+\par void Person: :setb (int bb)
+\par \{
+\par 
+\par \tab b=bb;
+\par \}
+\par \tab void Person: :setc (int cc)
+\par \{
+\par \tab c=cc;
+\par \}
+\par 
+\par main()
+\par 
+\par \{
+\par 
+\par int num;
+\par 
+\par cout<<"Enter the number of objects to be created";
+\par 
+\par cin>>num;
+\par 
+\par for (int i =1;i==num;i++)
+\par \{
+\par 
+\par Person i_
+\par 
+\par \}
+\par 
+\par 
+\par 
+\par \}
+\par }\pard \ql \li0\ri0\widctlpar\intbl\faauto\rin0\lin0\yts34 {\f39\cf0\ulc0\insrsid10773752 \cell }\pard\plain \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {
+\f39\cf0\ulc0\insrsid10773752 \trowd \irow0\irowband0\lastrow \ts34\trgaph108\trleft-108\trbrdrt\brdrs\brdrw10\brdrcf1 \trbrdrl\brdrs\brdrw10\brdrcf1 \trbrdrb\brdrs\brdrw10\brdrcf1 \trbrdrr\brdrs\brdrw10\brdrcf1 \trbrdrh\brdrs\brdrw10\brdrcf1 \trbrdrv
+\brdrs\brdrw10\brdrcf1 \trftsWidth1\trftsWidthB3\trautofit1\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tbllkhdrrows\tbllkhdrcols \clvertalt\clbrdrt\brdrs\brdrw10\brdrcf1 \clbrdrl\brdrs\brdrw10\brdrcf1 \clbrdrb\brdrs\brdrw10\brdrcf1 
+\clbrdrr\brdrs\brdrw10\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth8856\clshdrawnil \cellx8748\row }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid10773752 
+\par 
+\par }{\f39\cf0\ulc0\insrsid10773752\charrsid12259670 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f39\cf0\ulc0\insrsid15336604\charrsid12259670 
+\par }}
