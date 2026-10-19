@@ -1,0 +1,731 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff10\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f56\froman\fcharset238\fprq2 Times New Roman CE;}{\f57\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f59\froman\fcharset161\fprq2 Times New Roman Greek;}{\f60\froman\fcharset162\fprq2 Times New Roman Tur;}{\f61\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f62\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f63\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f64\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f66\fswiss\fcharset238\fprq2 Arial CE;}{\f67\fswiss\fcharset204\fprq2 Arial Cyr;}{\f69\fswiss\fcharset161\fprq2 Arial Greek;}
+{\f70\fswiss\fcharset162\fprq2 Arial Tur;}{\f71\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f72\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f73\fswiss\fcharset186\fprq2 Arial Baltic;}{\f74\fswiss\fcharset163\fprq2 Arial (Vietnamese);}
+{\f76\fmodern\fcharset238\fprq1 Courier New CE;}{\f77\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f79\fmodern\fcharset161\fprq1 Courier New Greek;}{\f80\fmodern\fcharset162\fprq1 Courier New Tur;}{\f81\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f82\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f83\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f84\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}
+{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\*\cs17 \additive \fs20 CODE;}{\*\cs18 \additive \i 
+\sbasedon10 Emphasis;}{\*\cs19 \additive \ul \sbasedon10 Hyperlink;}{\*\cs20 \additive \ul\cf8 \sbasedon10 FollowedHyperlink;}{\*\cs21 \additive \b\fs20 Keyboard;}{\s22\ql \li0\ri0\nowidctlpar
+\tx0\tx959\tx1918\tx2877\tx3836\tx4795\tx5754\tx6713\tx7672\tx8631\tx9590\faauto\rin0\lin0\itap0 \f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Preformatted;}{\s23\qc \li0\ri0\nowidctlpar\brdrt\brdrdb\brdrw15\brdrcf1 
+\faauto\rin0\lin0\itap0 \v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Bottom of Form;}{\s24\qc \li0\ri0\nowidctlpar\brdrb\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 
+\v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Top of Form;}{\*\cs25 \additive Sample;}{\*\cs26 \additive \b \sbasedon10 Strong;}{\*\cs27 \additive \fs20 Typewriter;}{\*\cs28 \additive \i Variable;}{\*\cs29 
+\additive \v\cf1 HTML Markup;}{\*\cs30 \additive \v Comment;}}{\*\listtable{\list\listtemplateid0{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}}{\listname ;}\listid1}{\list\listtemplateid774536244{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers
+;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid927883113}}{\*\listoverridetable{\listoverride\listid927883113\listoverridecount0\ls1}}{\*\rsidtbl \rsid924514\rsid992307\rsid1067114\rsid1526220
+\rsid1838330\rsid1921194\rsid2115640\rsid3692982\rsid4068414\rsid4418334\rsid5972774\rsid5982137\rsid6556701\rsid7020375\rsid7274857\rsid7341883\rsid7412883\rsid7625991\rsid7694701\rsid8195627\rsid8268966\rsid8480655\rsid8929592\rsid9076628\rsid9268215
+\rsid9324924\rsid9400980\rsid9509698\rsid9703083\rsid9792244\rsid9899110\rsid10043839\rsid10318730\rsid10375515\rsid10682598\rsid10836757\rsid11037827\rsid11168587\rsid11350930\rsid11480240\rsid11558263\rsid12069709\rsid12346067\rsid12347139\rsid12795994
+\rsid13506938\rsid13858310\rsid13979589\rsid14418234\rsid14616633\rsid14704487\rsid14836807\rsid15470387\rsid15756712\rsid15873725}{\*\generator Microsoft Word 10.0.2627;}{\info{\upr{\author ????}
+{\*\ud\uc0{\author {\uc1\u-4011 ?\u-3981 ?\u-3995 ?\u-3982 ?}}}}{\operator M.Tariq Malik}{\creatim\yr2009\mo11\dy25\hr15\min48}{\revtim\yr2009\mo12\dy12\hr1\min23}{\version52}{\edmins54}{\nofpages9}{\nofwords1664}{\nofchars9488}
+{\upr{\*\company ?????????????}{\*\ud\uc0{\*\company {\uc1\u-4031 ?\u-3996 ?\u-3987 ?\u-3991 ?\u-3986 ?\u-3991 ?\u-3981 ?\u-3980 ?\u-3982 ?\u-3999 ?\u-3980 ?\u-3985 ?\u-3982 ?}}}}{\nofcharsws11130}{\vern16437}}
+\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot10682598 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta ?}}
+{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ?}
+{\pntxta ?}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}\pard\plain 
+\qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f0\insrsid9899110\charrsid9899110 MIDTERM  EXAMINATION 
+\par Fall 2009
+\par MGT602}{\b\f0\insrsid9076628 - Entrepreneurship}{\b\f0\insrsid9899110\charrsid9899110  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Being one\rquote s own boss is a need of:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid6556701 \u9658\'3f Independence
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Achievement
+\par        \u9658\'3f Affiliation
+\par        \u9658\'3f Authority 
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 With a commercial history of only 300 years, which country was a new comer to the international arena?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Japan
+\par        \u9658\'3f U.S
+\par        \u9658\'3f }{\b\f0\cf0\ulc0\insrsid9899110\charrsid992307 China}{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par        \u9658\'3f U.K
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following is a obstacle to going in international business?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Mergers
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid992307 \u9658\'3f Trade barriers
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Rivalry
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9509698        \u9658\'3f }{\f0\cf0\ulc0\insrsid9899110\charrsid992307 Protectionist attitudes}{\b\f0\cf0\ulc0\insrsid9899110\charrsid9509698 
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is an important source of idea generation due to their familiarity with the needs of market?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Existing products and services
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid3692982 \u9658\'3f Distribution channels
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Federal government
+\par        \u9658\'3f Consumers
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the followings is NOT followed in brainstorming?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid924514 \u9658\'3f Criticism is done by the group members
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f The wilder idea is better
+\par        \u9658\'3f Quantity of ideas is required
+\par        \u9658\'3f The session should be fun, with no on dominating the discussion
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 A/an ______ is an online connection between the company and its customers.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Internet advertising
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9400980        \u9658\'3f Website
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f E-Commerce
+\par        \u9658\'3f World Wide Web
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is the next stage to the Concept Stage of Product Planning and Development Process?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Idea Stage
+\par        \u9658\'3f Product Planning Stage
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid13858310        \u9658\'3f Product Development Stage
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Test Marketing Stage
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 All of the following are essentials to maintain secrecy, EXCEPT:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Train employees to refer sensitive questions to one person
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid7020375 \u9658\'3f Discuss business in public places
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Provide escorts for all office visitors
+\par        \u9658\'3f Use simple security such as locked file cabinets
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Licensing is a significant marketing strategy to:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid15470387 \u9658\'3f Use intellectual property of others
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Pirate others\rquote  patents
+\par        \u9658\'3f Grow the business in new markets
+\par        \u9658\'3f Control the costs
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is the main problem for the entrepreneur in the beginning stages of creating a new venture?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Lack of experience
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid12069709 \u9658\'3f Limited resources
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Lack of education
+\par        \u9658\'3f None of the given options
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 How many perspectives should be considered while preparing business plan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f One 
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid5972774        \u9658\'3f Three
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Four
+\par        \u9658\'3f Not specific
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 SBA stands for:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Small business accountants
+\par        \u9658\'3f Small business administration
+\par        \u9658\'3f Small business adequacy
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid10836757        \u9658\'3f Small business advisors
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is NOT an environmental factor?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Economy
+\par        \u9658\'3f Culture
+\par        \u9658\'3f Technology
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid12346067 \u9658\'3f Competition
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following guide the firm through the long term decision making?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid10836757 \u9658\'3f Mission statement
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Product forecast
+\par        \u9658\'3f Industry analysis
+\par        \u9658\'3f None of the given options
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is NOT included in four C\rquote s evaluation by lender?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Character
+\par        \u9658\'3f Cost
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid14616633        \u9658\'3f Continuity
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Contribution 
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 For which of the following copy right acquisition is desirable?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid2115640 \u9658\'3f }{\f0\cf0\ulc0\insrsid9899110\charrsid2115640 Songs}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid2115640 
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Poems
+\par        \u9658\'3f Models
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid2115640 \u9658\'3f All of the given options
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 A utility patent has a term of:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f 10 years
+\par        \u9658\'3f 40 years
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid15756712 \u9658\'3f 20 years
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f 80 years
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following body issues patents?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f GATT
+\par        \u9658\'3f NAFTA
+\par        \u9658\'3f FTA
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid7274857        \u9658\'3f PTO
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following is a idea generation method that focuses on parameters?
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Brainstorming
+\par        \u9658\'3f Reverse brainstorming
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9268215 \u9658\'3f Creative problem solving
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Synectics
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Developing a new idea through inquiry and testing is called:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Heuristics
+\par        \u9658\'3f Forced relationship
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid14704487 \u9658\'3f Scientific method
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Value analysis
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Trade barriers cause:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid15873725 \u9658\'3f Increase in cost
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Decrease in cost 
+\par        \u9658\'3f Increase in profit
+\par        \u9658\'3f None of the given options
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Having less than 50 percent of equity share in an international venture is called:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid11350930 \u9658\'3f Minority interest
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Joint venture
+\par        \u9658\'3f Majority interest
+\par        \u9658\'3f Exporting
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Having more than 50% ownership position that provides the entrepreneur with managerial control is called:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Joint venture
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid1067114 \u9658\'3f Majority interest
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Horizontal merger
+\par        \u9658\'3f Diversified activity merger
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following is a method of selling goods to another country by taking care of transactions?
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Indirect exporting
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid12795994 \u9658\'3f Direct exporting
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Importing
+\par        \u9658\'3f Management contract
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following two work environments should be good for spawning the new enterprises?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9703083 \u9658\'3f Finance and marketing
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Finance and R&D
+\par        \u9658\'3f Marketing and R&D
+\par        \u9658\'3f Marketing and IT
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Gazelles are the firms with:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid13979589 \u9658\'3f High growth rate
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Moderate growth rate
+\par        \u9658\'3f Zero growth rate
+\par        \u9658\'3f Low growth rate
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following are the Fast-growth young companies?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Gazelles 
+\par        \u9658\'3f Life style
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid14836807 \u9658\'3f }{\b\f0\insrsid9899110\charrsid14836807 Foundation Company
+\par }{\f0\insrsid9899110\charrsid9899110        \u9658\'3f }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 None of the given options
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is used to identify opportunity?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Input from customers
+\par        \u9658\'3f Input from channel members
+\par        \u9658\'3f Input from business associates
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid7625991 \u9658\'3f All of the given options
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 In some countries, point of purchase displays are not allowed in retail stores. Such differences are
+ studied by international entrepreneurs under which of the following type of environment?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Economic
+\par        \u9658\'3f Political
+\par        \u9658\'3f Cultural
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid1838330 \u9658\'3f Technological
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following factor has allowed small companies to act like they are big ones?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid11168587        \u9658\'3f Technology
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Customers
+\par        \u9658\'3f Economic development
+\par        \u9658\'3f Competition
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following is alternatively called corporate venturing?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid1921194        \u9658\'3f Entrepreneurship
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Intrapreneurship
+\par        \u9658\'3f Act of stating a new venture
+\par        \u9658\'3f Offering new products by an existing company
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which one of the following is not the intrapreneurial leadership characteristic?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Understands environment
+\par        \u9658\'3f Encourage the team work
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid4418334 \u9658\'3f Not flexible
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Persistent
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following system is necessary for expansion or elimination of intrapreneurial units?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid7694701        \u9658\'3f Management
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Evaluation
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Reward
+\par        \u9658\'3f Training
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following typical culture has a climate and reward system that favors conservative decision making?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Entrepreneurial
+\par        \u9658\'3f Intrapreneurial 
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid13506938        \u9658\'3f Corporate
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f None of the given options
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following makes the formation of new venture difficult within a corporate culture?
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Lack of intrapreneurial talent
+\par        \u9658\'3f Lack of freedom to make autonomous decisions
+\par        \u9658\'3f Lack of market opportunity
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid1526220        \u9658\'3f All of the given options
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following are known as barriers to new product creation and development?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Trial and error
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid8268966 \u9658\'3f Opportunity parameters
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Opportunity cost
+\par        \u9658\'3f Intrapreneurship culture
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following factor does not affect a person for being an entrepreneur?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Family background
+\par        \u9658\'3f Education
+\par        \u9658\'3f Personal values
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid10375515        \u9658\'3f Gender
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\insrsid9899110\charrsid9899110 Degree of influence and control on other people is called:
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\insrsid9899110\charrsid9899110        }{\b\f0\insrsid9899110\charrsid8480655 \u9658\'3f }{\b\f0\cf0\ulc0\insrsid9899110\charrsid8480655 Locus of control
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Locomotion of control 
+\par        \u9658\'3f Locust of control 
+\par        \u9658\'3f Loss of control
+\par     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Which of the following plan describes market conditions and strategy related to products?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Production plan
+\par        \u9658\'3f Operational plan
+\par        \u9658\'3f Financial plan
+\par }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9792244        \u9658\'3f Marketing plan
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Individuals who give psychological support to an entrepreneur are called:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Role models
+\par        }{\b\f0\cf0\ulc0\insrsid9899110\charrsid10043839 \u9658\'3f Moral support networks
+\par }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Professional support networks
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110        \u9658\'3f Informal networks
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110     }{\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110 Question No: 41    ( Marks: 10 ) 
+\par }{\b\f0\cf0\ulc0\insrsid9324924\charrsid9899110 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid9899110\charrsid9899110  }{\f0\cf0\ulc0\insrsid9899110\charrsid9899110 In the given situations what types of merger is suitable for each situation and  why?
+\par {\listtext\pard\plain\f1\insrsid9899110\charrsid9899110 \loch\af1\dbch\af0\hich\f1 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\tx720\faauto\ls1\rin0\lin720\itap0 {\f0\cf0\ulc0\insrsid9899110\charrsid9899110 McDonald\rquote s with KFC
+\par {\listtext\pard\plain\f1\insrsid9899110\charrsid9899110 \loch\af1\dbch\af0\hich\f1 \'b7\tab}One steel mill with another steel mill
+\par {\listtext\pard\plain\f1\insrsid9899110\charrsid9899110 \loch\af1\dbch\af0\hich\f1 \'b7\tab}ABN AMRO with Royal bank of Scotland 
+\par {\listtext\pard\plain\f1\insrsid9899110\charrsid9899110 \loch\af1\dbch\af0\hich\f1 \'b7\tab}Steel mill with a fertilizer producing firm
+\par {\listtext\pard\plain\f1\insrsid9899110\charrsid9899110 \loch\af1\dbch\af0\hich\f1 \'b7\tab}An oil cooking producing company with Desi Ghee producing company}{\f0\cf0\ulc0\insrsid9899110 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid8929592 {\f0\cf0\ulc0\insrsid8929592 
+\par }{\b\f0\ul\cf0\ulc0\insrsid8929592\charrsid8929592 Answer:
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid9899110 
+\par }{\b\f0\cf0\ulc0\insrsid8929592 McDonald\rquote s with KFC: }{\f0\cf0\ulc0\insrsid8929592 The merger in this case will be a }{\b\f0\cf0\ulc0\insrsid8929592\charrsid11037827 horizontal merger}{\f0\cf0\ulc0\insrsid8929592  because they both }{
+\f0\cf0\ulc0\insrsid14418234 produce related products, which is the condition of horizontal merger.}{\f0\cf0\ulc0\insrsid8929592 
+\par 
+\par }{\b\f0\cf0\ulc0\insrsid8929592 One Steel Mill with other Steel Mill: }{\f0\cf0\ulc0\insrsid8929592 The two steel mills will }{\b\f0\cf0\ulc0\insrsid8929592\charrsid11037827 merge horizontally}{\f0\cf0\ulc0\insrsid8929592 
+ because both the mills are producing similar product.
+\par 
+\par }{\b\f0\cf0\ulc0\insrsid8929592\charrsid8929592 ABN AMRO with Royal Bank of Scotland:}{\b\f0\cf0\ulc0\insrsid8929592  }{\f0\cf0\ulc0\insrsid8929592 Both the banks will }{\b\f0\cf0\ulc0\insrsid8929592\charrsid11037827 merge horizontally}{
+\f0\cf0\ulc0\insrsid8929592  because both are providing similar type of services.
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid8929592 {\f0\cf0\ulc0\insrsid8929592 
+\par }{\b\f0\cf0\ulc0\insrsid8929592\charrsid8929592 Steel mill with a fertilizer producing firm}{\b\f0\cf0\ulc0\insrsid8929592 : }{\f0\cf0\ulc0\insrsid11037827 Since both the firms are non-}{\f0\cf0\ulc0\insrsid8929592 interrelated so this merger will be a }{
+\b\f0\cf0\ulc0\insrsid8929592\charrsid11037827 diversified merger.}{\f0\cf0\ulc0\insrsid8929592 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid10318730 {\f0\cf0\ulc0\insrsid10318730 
+\par }{\b\f0\cf0\ulc0\insrsid10318730\charrsid10318730 An oil cooking producing company with Desi Ghee producing company}{\b\f0\cf0\ulc0\insrsid14418234 : }{\f0\cf0\ulc0\insrsid11037827 The merger in this situation will be a }{
+\b\f0\cf0\ulc0\insrsid11037827\charrsid11037827 production merger}{\b\f0\cf0\ulc0\insrsid11037827  }{\f0\cf0\ulc0\insrsid11037827 because production of both products is related but the products themselves are not competing.}{
+\f0\cf0\ulc0\insrsid10318730\charrsid11037827 
+\par }\pard \ql \li0\ri0\widctlpar\tx720\faauto\rin0\lin0\itap0\pararsid8929592 {\f0\cf0\ulc0\insrsid10318730 
+\par }{\f0\cf0\ulc0\insrsid10318730\charrsid8929592 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid8929592\charrsid8929592 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid5982137 {\field\flddirty{\*\fldinst {\b\f0\fs44\cf0\ulc0\insrsid5982137\charrsid5982137  HYPERLINK "http://vustudents.ning.com" }{\b\f0\fs44\cf0\ulc0\insrsid5982137\charrsid5982137 
+{\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001b00000068007400740070003a002f002f0076007500730074007500640065006e00740073002e006e0069006e0067002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b5000000068007400740070003a002f002f0076007500730074007500
+640065006e00740073002e006e0069006e0067002e0063006f006d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000}}}{\fldrslt {\cs19\b\f0\fs44\ul\ulc0\insrsid5982137\charrsid5982137 http://vustudents.ning.com}}}{
+\b\f0\fs44\cf0\ulc0\insrsid5982137\charrsid5982137 
+\par }{\f0\fs36\cf0\ulc0\insrsid5982137\charrsid5982137 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid5982137\charrsid5982137 
+\par }}

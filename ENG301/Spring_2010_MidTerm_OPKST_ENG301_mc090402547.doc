@@ -1,0 +1,410 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f47\fswiss\fcharset238\fprq2 Arial CE;}
+{\f48\fswiss\fcharset204\fprq2 Arial Cyr;}{\f50\fswiss\fcharset161\fprq2 Arial Greek;}{\f51\fswiss\fcharset162\fprq2 Arial Tur;}{\f52\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f53\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f54\fswiss\fcharset186\fprq2 Arial Baltic;}{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid1449060314{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'01-;}{\levelnumbers\'01;}\rtlch\fcs1 \ab\af1\afs24 \ltrch\fcs0 \b\f1\fs24 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listname ;}\listid2090076292}{\list\listtemplateid147733202{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'00-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f0\fs20 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01-;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers
+\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listname 
+;}\listid2122407803}}{\*\listoverridetable}{\*\rsidtbl \rsid2063318\rsid2715680\rsid4925064\rsid4940896\rsid4995461\rsid5664066\rsid6104264\rsid7668349\rsid8276455\rsid8286426\rsid8727803\rsid8739319\rsid9395254\rsid10516886\rsid11294155\rsid12602795
+\rsid14615553\rsid15996985}{\*\generator Microsoft Word 11.0.0000;}{\info{\author VU}{\operator Toqir}{\creatim\yr2010\mo5\dy27\hr19\min18}{\revtim\yr2010\mo5\dy28\hr18\min12}{\version19}{\edmins55}{\nofpages5}{\nofwords588}{\nofchars3355}{\*\company VU}
+{\nofcharsws3936}{\vern24615}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aendnotes\donotembedsysfont0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb
+\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot2063318 \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar 
+\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
+\af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 MIDTERM  EXAMINATION 
+\par Spring 2010
+\par ENG301- Business Communication (Session - 6) 
+\par }\pard \ltrpar\qr \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 Ref No: 1390553 
+\par Time: 60 min 
+\par Marks: 35
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 Student Info\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 \trowd \irow0\irowband0\ltrrow
+\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row \ltrrow}\trowd \irow1\irowband1\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155  StudentID:\cell   MC090402547\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 \trowd \irow1\irowband1\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 
+\clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6104264\charrsid11294155  Center:\cell   OPKST\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 
+\trowd \irow2\irowband2\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155  ExamDate:\cell   5/28/2010 12:00:00 AM\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 \trowd \irow3\irowband3\lastrow \ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\insrsid6104264\charrsid11294155 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 For Teacher's Use Only\cell 
+}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6104264\charrsid11294155 \trowd \irow0\irowband0\ltrrow
+\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row \ltrrow}\trowd \irow1\irowband1\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6104264\charrsid11294155   }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155   Q No.\cell 1\cell 2\cell 3\cell 4\cell 5\cell 6\cell 7\cell 8\cell Total\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow1\irowband1\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow2\irowband2\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Q No.\cell 9\cell 10\cell 11\cell 12\cell 13\cell 14\cell 15\cell 16\cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow3\irowband3\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow4\irowband4\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Q No.\cell 17\cell  \cell  \cell  \cell  \cell  \cell  \cell  \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow5\irowband5\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 \trowd \irow6\irowband6\lastrow \ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \ltrpar
+\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 \page      }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 - ---------------- is standard part of a letter. 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Copy notation   
+\par        \u9658\'3f Attention line
+\par        \u9658\'3f Salutation 
+\par        \u9658\'3f  }{\rtlch\fcs1 \af0\afs22 \ltrch\fcs0 \f0\fs22\cf0\ulc0\insrsid6104264\charrsid11294155  Postscript}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 In business communication, whenever someone gives you a favour or when an action deserves praise, which letter is written?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155   
+\par        \u9658\'3f Letter of}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 congratulation
+\par        \u9658\'3f Letter of condolence
+\par        \u9658\'3f  Letter of Invitation
+\par        \u9658\'3f  Letter of appreciation
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li225\ri0\widctlpar\wrapdefault\faauto\rin0\lin225\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Personal Nonverbal communication involves kind of nonverbal behavior that is unique to:
+\par                                     
+\par                   
+\par        \u9658\'3f Four persons      
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f  One person   
+\par        \u9658\'3f Six persons 
+\par        \u9658\'3f Three person
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Stroking, hitting, holding or guiding the movement of another person are examples of:
+\par                         
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Touching behavior
+\par        \u9658\'3f Body movement
+\par        \u9658\'3f Physical characteristics
+\par        \u9658\'3f Duplicators 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li360\ri0\widctlpar\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Which one is not the component of communication process from the followings?
+\par  
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f  Sender/encoder,
+\par        \u9658\'3f  Message, medium,
+\par        \u9658\'3f Receiver/decoder, feedbacks.
+\par        \u9658\'3f Audio-visual and technological
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par Before writing a message, which of the following steps are necessary for effective communication?
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f Define the purpose of the message.
+\par        \u9658\'3f Analyze your audience \endash  readers or listeners, outline \endash  organize \endash  your message.
+\par        \u9658\'3f Choose the ideas to include, collect all the facts to back up these ideas.
+\par        \u9658\'3f All of the above
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par How many punctuation styles are usually used in business communication?
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f One
+\par        \u9658\'3f Two
+\par        \u9658\'3f Three
+\par        \u9658\'3f Four
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 In which situation do we write acknowledging an order letter?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Welcome the customer
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Discourage the customer
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Apologize
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f Sympathies
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 When your message contains all the facts, the reader or the listener need}{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 s}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 , it is called:}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155                                        
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 Complete}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 Considerate}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155 Courteous}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6104264\charrsid11294155  Clear}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 What is business communication?
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155        \u9658\'3f To send your message in the business world.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par        \u9658\'3f To achieve good will among the customers.
+\par        \u9658\'3f To win angry customers.
+\par        \u9658\'3f All of the above.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 11    ( Marks: 2 ) 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 What details are included in request for reservations?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid5664066\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 12    ( Marks: 2 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Name some individual cultural variables mentioned in intercultural communication model.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid9395254\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 13    ( Marks: 3 ) 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Write a note on working of an e-mail.      }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid9395254\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 14    ( Marks: 3 ) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Describe miscellaneous formal and informal salutations used in a letter.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid10516886\charrsid11294155 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 15    ( Marks: 5 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 What }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid14615553\charrsid11294155 are different}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f0\cf0\ulc0\insrsid6104264\charrsid11294155  Punctuation styles, write each briefly?}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid8276455\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 16    ( Marks: 5 ) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Write notes on the following and explain it with examples.
+\par 
+\par }\pard \ltrpar\ql \li600\ri0\widctlpar\wrapdefault\faauto\rin0\lin600\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 1-Personal non-verbal communication 2- Universal non-verbal communication
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6104264\charrsid11294155 Question No: 17    ( Marks: 5 ) 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8727803\charrsid11294155 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid6104264\charrsid11294155  }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid6104264\charrsid11294155 Explain three National Variables present in intercultural communication model.
+\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid2715680\charrsid11294155 
+\par 
+\par }}
