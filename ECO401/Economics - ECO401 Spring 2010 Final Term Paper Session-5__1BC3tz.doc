@@ -1,0 +1,1175 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff10\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f10\fbidi \fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\f40\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\f49\fbidi \fswiss\fcharset238\fprq2 Arial CE{\*\falt Arial};}{\f50\fbidi \fswiss\fcharset204\fprq2 Arial Cyr{\*\falt Arial};}
+{\f52\fbidi \fswiss\fcharset161\fprq2 Arial Greek{\*\falt Arial};}{\f53\fbidi \fswiss\fcharset162\fprq2 Arial Tur{\*\falt Arial};}{\f54\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew){\*\falt Arial};}
+{\f55\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic){\*\falt Arial};}{\f56\fbidi \fswiss\fcharset186\fprq2 Arial Baltic{\*\falt Arial};}{\f57\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese){\*\falt Arial};}
+{\f59\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}{\f60\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f62\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f63\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f64\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f65\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f66\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f67\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}
+{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}
+{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}
+{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhimajor\f31529\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}
+{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\fhimajor\f31536\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}
+{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}
+{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}
+{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}
+{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp \fs22 }
+{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af10\afs24\alang1025 \ltrch\fcs0 
+\f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused \sqformat Normal Table;}{
+\s15\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\*\cs17 \additive \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b \sbasedon10 \sqformat Strong;}{\*\ts18\tsrowd\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trbrdrh\brdrs\brdrw10 \trbrdrv\brdrs\brdrw10 
+\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype0\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af10\afs20\alang1025 \ltrch\fcs0 \f10\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon11 \snext18 \styrsid8000712 Table Grid;}{\*\cs19 \additive \rtlch\fcs1 \af0 
+\ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid6558770 Hyperlink;}}{\*\listtable{\list\listtemplateid465719248{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid82799493}{\list\listtemplateid1898091288\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid-188042984\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \jclisttab\tx0 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid136606862}{\list\listtemplateid321947882{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid971523223}{\list\listtemplateid236766720\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-188042984\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \li240\jclisttab\tx240\lin240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1680\jclisttab\tx1680\lin1680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2400\jclisttab\tx2400\lin2400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li3120\jclisttab\tx3120\lin3120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3840\jclisttab\tx3840\lin3840 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4560\jclisttab\tx4560\lin4560 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5280\jclisttab\tx5280\lin5280 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li6000\jclisttab\tx6000\lin6000 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6720\jclisttab\tx6720\lin6720 }{\listname ;}\listid988634681}{\list\listtemplateid690418410{\listlevel\levelnfc1\levelnfcn1\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid1069890013}{\list\listtemplateid1642242778\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-188042984\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \jclisttab\tx0 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1148208750}{\list\listtemplateid704539030{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid1501582178}{\list\listtemplateid1833574092\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-188042984\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \jclisttab\tx0 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1515681267}{\list\listtemplateid-2091454470{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}\rtlch\fcs1 \ab\af10\afs24 \ltrch\fcs0 \b\f10\fs24\hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc2\levelnfcn2
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid1515805429}{\list\listtemplateid-514684216\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid-188042984\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \jclisttab\tx0 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1585338052}}{\*\listoverridetable{\listoverride\listid1069890013\listoverridecount0\ls1}{\listoverride\listid971523223
+\listoverridecount0\ls2}{\listoverride\listid1515805429\listoverridecount0\ls3}{\listoverride\listid1501582178\listoverridecount0\ls4}{\listoverride\listid1148208750\listoverridecount0\ls5}{\listoverride\listid136606862\listoverridecount0\ls6}
+{\listoverride\listid988634681\listoverridecount0\ls7}{\listoverride\listid1585338052\listoverridecount0\ls8}{\listoverride\listid1515681267\listoverridecount0\ls9}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}
+{\*\rsidtbl \rsid25731\rsid529090\rsid684769\rsid1128552\rsid1518945\rsid2125857\rsid2325961\rsid2638949\rsid2708026\rsid3955963\rsid4409104\rsid4467527\rsid4595587\rsid5006247\rsid5188382\rsid6558770\rsid6573051\rsid6884028\rsid7107496\rsid7282810
+\rsid7303240\rsid7360365\rsid7883595\rsid8000712\rsid8665113\rsid9192778\rsid9649961\rsid9772005\rsid9844848\rsid10963978\rsid11340601\rsid11630256\rsid11751073\rsid12142480\rsid12781640\rsid13310942\rsid13915371\rsid13990859\rsid14814678\rsid15030553
+\rsid15091670\rsid15152176\rsid15468311\rsid16017967\rsid16086667\rsid16267172\rsid16282127}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\upr{\author ?????????}
+{\*\ud\uc0{\author {\uc1\u-3997 ?\u-3992 ?\u-3985 ?\u-3997 ?\u-3985 ?\u-3988 ?\u-3999 ?\u-3980 ?\u-3995 ?}}}}{\operator Home}{\creatim\yr2010\mo8\dy5\hr15\min14}{\revtim\yr2014\mo9\dy28\hr23\min1}{\version87}{\edmins178}{\nofpages11}{\nofwords2711}
+{\nofchars15457}{\upr{\*\company ??????}{\*\ud\uc0{\*\company {\uc1\u-4013 ?\u-3999 ?\u-3988 ?\u-3987 ?\u-3999 ?\u-3986 ?}}}}{\nofcharsws18132}{\vern32859}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aendnotes\trackmoves1\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0
+\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\viewnobound1\rsidroot4467527 
+\fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl3
+\pndec\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}
+{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}\pard\plain \ltrpar
+\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 \rtlch\fcs1 \af10\afs24\alang1025 \ltrch\fcs0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770 
+FINALTERM  EXAMINATION 
+\par Spring 2010
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid9192778 www.vutube.edu.pk
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770 ECO401- Economics (Session - 5) 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 {\*\bkmkstart OLE_LINK1}Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026   As more of a good is consumed, then total utility typically: 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid1518945 
+\u9658\'3f Increases at a decreasing rate.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid1518945 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Decreases as long as marginal utility is negative. 
+\par        \u9658\'3f Decreases as long as marginal utility is positive.
+\par        \u9658\'3f Is negative as long as marginal utility is decreasing. 
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  A production function:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid7883595 \u9658\'3f
+ Relates inputs with output.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Generates a curve that is upward sloping.
+\par        \u9658\'3f Shows diminishing marginal product of an input, since it gets flatter as output rises.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7883595 \u9658\'3f All of the given options.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+ _______________ arises when an increase in all inputs leads to a more-than-proportional increase in the level of output. _____________ means that as inputs are added to the production process, output increases proportionally. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f Economies of scale; constant returns to scale.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Constant returns to scale; decreasing returns to scale.
+\par        \u9658\'3f Decreasing returns to scale; economies of scale.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Economies of scale; decreasing returns to scale.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Total costs are the sum of:  
+\par        \u9658\'3f Marginal costs and variable costs.  
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f Fixed costs and variable costs.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026   
+\par        \u9658\'3f Fixed costs and marginal costs.  
+\par        \u9658\'3f Average variable costs and marginal costs.  
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  As compared to existing firms, a new firm entering in monopolist market has: 
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f High costs.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Low costs.
+\par        \u9658\'3f Equal costs.
+\par        \u9658\'3f None of the given options.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid11630256\charrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The maximum price that a consumer is willing to pay for a good is called:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f The reservation price.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f The market price.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f The first-degree price.
+\par        \u9658\'3f The block price.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\sa120\keepn\widctlpar\tqdec\tx1260\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 
+{\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The market structure in which strategic considerations are most important is:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\keepn\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Monopolistic competition.}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
+\b\f0\fs20\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f Oligopoly.}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
+\b\f0\fs20\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Pure competition.}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\f0\fs20\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Pure monopoly.}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\f0\fs20\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Price exceeds marginal revenue in which of the following market structure(s)? 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Differentiated oligopoly and monopoly only.
+\par        \u9658\'3f Standardized oligopoly and pure competition only.
+\par        \u9658\'3f Monopolistic competition and monopoly only.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f Monopolistic competition, oligopoly and monopoly.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\ulc0\insrsid11630256\charrsid2708026 For a firm buying labor competitively, the marginal input cost is equal to the: 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 
+\u9658\'3f Wage.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Interest rate.
+\par        \u9658\'3f Price of output.
+\par        \u9658\'3f Cost of raw materials.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Unlike the classical economists, Keynes believed that the economy could get stuck in the short run for a significant period of time because of: 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Insufficient aggregate supply.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid8665113 \u9658\'3f Insufficient aggregate demand.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Quick self correcting mechanism.
+\par        \u9658\'3f Government purchases of too many goods and services.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  According to Keynes, the economy does not self correct quickly because: 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f With less consumption and more savings the interest rate will drop.
+
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f
+ In the short run workers are fully employed and cannot produce enough to get to long run equilibrium.
+\par }\pard \ltrpar\ql \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Wages and prices are flexible in the short run.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f Wages and prices are sticky in the short run.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  An assumption of classical economics is:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Prices and wages are inflexible.
+\par        \u9658\'3f Self-correction takes a long time.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f Supply creates its own demand.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Investment and saving are seldom equal.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The real interest rate will increase: 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f If there is an excess supply of loanable funds in the financial markets.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f If there is an excess demand for loanable funds in the financial markets.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f If there is an excess supply of loanable funds in the foreign exchange markets.
+\par        \u9658\'3f If there is an excess demand for loanable funds in the foreign exchange markets.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following is a less important component of the balance of payments? 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 
+\u9658\'3f The capital account.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f The current account.
+\par        \u9658\'3f The financial account.
+\par        \u9658\'3f All three components are equally important.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Endogenous growth theory was developed in:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f 1980.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f 1965.
+\par        \u9658\'3f 1970.
+\par        \u9658\'3f 1950.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\ulc0\insrsid11630256\charrsid2708026 Per capita income is obtained by dividing national income by:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Total labor force in the country.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Unemployed youth in the country.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f None of the given options.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f Total population of that country.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following is deducted from Gross National Product to get Net National Product?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Indirect taxes.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f Depreciation.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Direct taxes.
+\par        \u9658\'3f Transfer payments.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  In the Keynesian cross model, the 45-degree line has a slope of:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f 45.
+\par        \u9658\'3f Infinity.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 
+\u9658\'3f 1.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f 0.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The principle economic difference between a competitive and a non-competitive market is:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f The number of firms in the market.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f The extent to which any firm can influence the price of the product.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f The size of the firms in the market.
+\par }\pard \ltrpar\qj \li60\ri0\widctlpar\wrapdefault\faauto\rin0\lin60\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f The annual sales made by the largest firms in the market.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Those who hold the classical view of the labour market are likely to believe that:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Monetary but not fiscal policy will have an effect on output and employment.
+\par        \u9658\'3f Fiscal but not monetary policy will have an effect on output and employment.
+\par        \u9658\'3f Both monetary and fiscal policy will have an effect on output and employment.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 \u9658\'3f Neither monetary nor fiscal policy will have an effect on output and employment.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following statements is TRUE about the Classical and Keynesian approaches to achieve a macroeconomic equilibrium in an economy?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid9649961 
+\u9658\'3f Keynesian economists actively promote the use of fiscal policy while the classical economists do not.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Keynesian economists actively promote the use of monetary policy to improve aggregate economic performance while the classical economists do not.
+\par        \u9658\'3f Classical economists believe that monetary policy will certainly affect the level of output while the Keynesians believe that money growth affects only prices.
+\par        \u9658\'3f Classical economists believe that fiscal policy is an effective tool for achieving economic stability while the Keynesians do not.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  What will be the primary result of inflation in an economy?
+\par        \u9658\'3f A rise in personal wealth.
+\par        \u9658\'3f A rise in wages.
+\par        \u9658\'3f A decline in prices.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f A decline in the value of money}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 .
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+ Suppose in an economy, a war destroys a large portion of a country's capital stock but the saving rate is unchanged. In this situation, the exogenous model predicts that output will grow and the new steady state will approach towards:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f A higher output level than before.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f The same output level as before.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f A lower output level than before.
+\par        \u9658\'3f The Golden Rule output level.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+ Firm A produces cotton worth Rs. 1000 and sells it to firm B. From this, firm B makes yarn worth Rs. 1500 and sells to firm C. Firm C manufactures cloth worth Rs. 2500 and sells to consumers. The value added is:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f 1000+1500+2500 = Rs. 5000
+\par        \u9658\'3f 1000+500+2500 = Rs. 4000
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f 1000+500+1000 = Rs. 2500}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f 1000+1500+1000 =Rs. 3500
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following is NOT an item of public consumption?
+\par        \u9658\'3f Expenditure on health.
+\par        \u9658\'3f Expenditure on education.
+\par        \u9658\'3f Expenditure on general administration.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f Expenditure for transfer payments.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\tx540\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Changes in aggregate demand can be caused by changes in:
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 I.\tab}}\pard \ltrpar\ql \fi-180\li810\ri0\nowidctlpar\tx360\tx450\tx540\tx810\wrapdefault\faauto\ls1\rin0\lin810\itap0 {
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Wages. \tab 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 II.\tab}Raw materials costs.    
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 III.\tab}Government spending. 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 IV.\tab}Government regulations that increase the cost of doing business. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\tx450\tx540\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid4409104 \u9658\'3f I, II, III, and IV.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f I and III only.
+\par        \u9658\'3f I, III, and IV.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid4409104 \u9658\'3f III only.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following is equal to the number of people unemployed?
+\par        \u9658\'3f The number of people employed minus the labor force.
+\par        \u9658\'3f The labor force plus the number of people employed.
+\par        \u9658\'3f The number of people employed divided by the labor force.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f The labor force minus the number of people employed.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Rising inflation means:
+\par        \u9658\'3f That the price level is increasing by a given percentage rate.
+\par        \u9658\'3f That the prices of all goods and services increase from year to year.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f That the price level is rising at an increasing rate}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 .
+\par        \u9658\'3f That the price level is rising at a variable rate.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  If net exports are positive, this implies that the country has: 
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f Trade surplus.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Trade deficit.
+\par        \u9658\'3f Government budget surplus.
+\par        \u9658\'3f Government budget deficit.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The rapid population growth in today\rquote s developing nations is due to the:
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f High birth rates only.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Low death rates only.
+\par        \u9658\'3f High birth rate and low death rate.
+\par        \u9658\'3f Higher standard of living.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  A tax on the accounting profits of corporations is known as:
+\par        \u9658\'3f Sales tax.
+\par        \u9658\'3f Excise tax.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f Corporate income tax.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Personal income tax.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Suppose you keep Rs. 35 in your pocket to purchase a movie CD when it will come out next month in the market.  What is the function of money in this context?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Medium of exchange.
+\par        \u9658\'3f Unit of account.
+\par        \u9658\'3f Standard of deferred payment.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid2638949 \u9658\'3f Store of value.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  What will be the impact of an increase in the money supply?
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f It will shift the IS curve to the left and decrease both the i
+nterest rate and the level of income.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid13990859 \u9658\'3f It will shift the LM curve downward (to the right) and increase both the interest rate and the level of income.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f It will shift the IS curve to the right and increase the level of income but decrease the interest rate.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid13990859 \u9658\'3f It will shift the LM curve downward (to the right) and increase the level of income but decrease the interest rate.}{\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  IS curve shows the equilibrium in:
+\par        \u9658\'3f Money Market.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid16267172 \u9658\'3f Goods Market.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Labor Market.
+\par        \u9658\'3f Financial Market.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  International finance is the study of economics that deals with:
+\par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid16267172 \u9658\'3f The balance of trade.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f The macroeconomic consequences of financial flows associated with international trade.
+\par        \u9658\'3f International investment opportunities for American multinational corporations.
+\par        \u9658\'3f The relationships among world currency dealers.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  In which of the following conditions, a current account deficit exists?
+\par        \u9658\'3f When net exports are positive.
+\par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 \u9658\'3f When financial flows out of a country for goods and services are less than financial flows into the country for its goods and services.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx360\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f When a country has a trade deficit.
+\par        \u9658\'3f When an economy buys less from foreigners than it sells to them.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Economists define economic growth as:
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f
+ Changes in real GDP from year to year that occur as aggregate demand and short-run aggregate supply change.
+\par        \u9658\'3f An increase in the standard of living of a nation.
+\par        \u9658\'3f An increase in nominal GDP combined with price stability.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 \u9658\'3f The process through which the economy\rquote s potential output is increased.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  What will be the impact if agriculture sector is neglected in the development process?
+\par        \u9658\'3f It can lead to insufficient savings.
+\par        \u9658\'3f It can lead to shortage of foreign exchange.
+\par        \u9658\'3f It can lead to lower levels of production.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 \u9658\'3f All of the given conditions can happen.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 
+{\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  In which of the following situations, a monopoly occurs?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f When each firm produces a product that is slightly different from the other firms.
+
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 \u9658\'3f When one firm sells a good that has no close substitutes and a barrier blocks entry for other firms.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f When there are many firms producing the same product.
+\par        \u9658\'3f In all of the given situations.
+\par     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Which of the following is not the property of production function?
+\par        \u9658\'3f Generates a curve that is upward sloping.
+\par        \u9658\'3f Shows diminishing marginal product of an input, since it gets flatter as output rises.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 \u9658\'3f Marginal product at all levels is increasing.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Relates inputs with output.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 41    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  As long as all prices remain constant, a decrease in money income results in:
+\par        \u9658\'3f An increase in the slope of the budget line
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 \u9658\'3f A decrease in the slope of the budget line}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f An increase in the intercept of the budget line
+\par        \u9658\'3f A decrease in the intercept of the budget line
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 42    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  What will happen to the isocost line if the price of both goods decreases proportionality?
+\par        \u9658\'3f It shifts farther away from the origin of the graph.
+\par        \u9658\'3f It shift inward.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 \u9658\'3f It shifts outward.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f {\*\bkmkstart OLE_LINK7}{\*\bkmkstart OLE_LINK8}{\*\bkmkend OLE_LINK7}
+{\*\bkmkend OLE_LINK8}None of the given options.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 43    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1067{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Monopoly profits can be invested in
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Advertisement.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 
+\u9658\'3f Research and development.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Human resource development.
+\par        \u9658\'3f Expansion of the market.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 44    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1068{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The characteristics of a monopolistically competitive market are almost the same as in 
+\par        \u9658\'3f Monopoly.
+\par        \u9658\'3f Oligopoly.
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid12781640 
+\u9658\'3f Perfect competition.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Duopoly.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 45    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1069{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  The multiplier is a related concept which formalizes the output response to:
+\par        \u9658\'3f Saving.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 \u9658\'3f Investment.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Taxes.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Inflation.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 46    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1070{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Factor income from abroad like worker remittances, dividends and interest has positive impact on:
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 \u9658\'3f Current account balance.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Capital account balance.
+\par        \u9658\'3f Trade balance.
+\par        \u9658\'3f Unemployment.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 47    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1071{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Continuous technology progress is a necessary condition for the high rate of:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        \u9658\'3f Inflation reduction.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 
+\u9658\'3f Economic growth.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Population growth.
+\par        \u9658\'3f Employment.
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026     }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 48    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1072{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Expansionary fiscal policy includes:
+\par        \u9658\'3f Increasing taxes and increasing government purchases.
+\par        \u9658\'3f Raising interest rates, increasing taxes, and decreasing transfer payments.
+\par        }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\highlight7\ulc0\insrsid11630256\charrsid7107496 \u9658\'3f Decreasing taxes and increasing government expenditures.}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 
+\par        \u9658\'3f Raising interest rates, decreasing taxes, and decreasing government spending.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 {\*\bkmkend OLE_LINK1}    
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 49    ( Marks: 3 ) 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 
+{\pict{\*\picprop\shplid1073{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Differentiate between real exchange rate and nominal exchange rate.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6573051 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6573051\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 50    ( Marks: 3 ) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1074{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Discuss the basic functions of money.
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid15030553\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 51    ( Marks: 5 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1075{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  What will be the impact of following factors on Marginal Propensity to Consume?
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af10 \ltrch\fcs0 \b\f10\insrsid11630256\charrsid2708026 \hich\af10\dbch\af0\loch\f10 a)\tab}}\pard \ltrpar\ql \fi-360\li1080\ri0\widctlpar\tx360\tx1080\wrapdefault\faauto\ls3\rin0\lin1080\itap0 {\rtlch\fcs1 
+\ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 A fall in the rate of income tax.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af10 \ltrch\fcs0 \b\f10\insrsid11630256\charrsid2708026 \hich\af10\dbch\af0\loch\f10 b)\tab}People anticipate that the rate of inflation is about to rise.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af10 \ltrch\fcs0 \b\f10\insrsid11630256\charrsid2708026 \hich\af10\dbch\af0\loch\f10 c)\tab}The government redistributes income from the rich to the poor.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af10 \ltrch\fcs0 \b\f10\insrsid11630256\charrsid2708026 \hich\af10\dbch\af0\loch\f10 d)\tab}The government gives the subsidies.
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af10 \ltrch\fcs0 \b\f10\insrsid11630256\charrsid2708026 \hich\af10\dbch\af0\loch\f10 e)\tab}If the assets of the people increase.
+\par }\pard \ltrpar\qr \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 (Marks: 1 for each)
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af3 \ltrch\fcs0 \f3\insrsid1128552\charrsid2708026 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ltrpar\ql \li240\ri0\widctlpar\jclisttab\tx240\wrapdefault\faauto\ls7\rin0\lin240\itap0\pararsid1128552 {
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid1128552\charrsid2708026 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af3 \ltrch\fcs0 \f3\insrsid1128552\charrsid2708026 \loch\af3\dbch\af0\hich\f3 \'b7\tab}
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 52    ( Marks: 5 ) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1076{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Explain the difference between current account and capital account.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid9844848 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid9844848\charrsid2708026 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 Question No: 53    ( Marks: 5 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid13310942\charrsid2708026 {\pict{\*\picprop\shplid1077{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid11630256\charrsid2708026  Assume that the reserve requirement ratio (rr) of United Bank Limited (UBL) is 15% and bank\rquote s initial deposit is $2500. 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 a.\tab}}\pard \ltrpar\qj \fi-360\li1620\ri0\widctlpar\tx1620\wrapdefault\faauto\ls2\rin0\lin1620\itap0 {\rtlch\fcs1 \ab\af0 
+\ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 By using this information, make initial balance sheet of MCB. 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\insrsid11630256\charrsid2708026 \hich\af0\dbch\af0\loch\f0 b.\tab}Calculate money multiplier. 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8000712 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid8000712\charrsid2708026 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256\charrsid2708026 (Marks: 3+2)}{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid11630256 
+\par }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6558770 
+\par }\pard \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid6558770 {\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab0000bd}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }{\field\flddirty{\*\fldinst {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid6558770  HYPERLINK "http://www.vuaskari.com" }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\insrsid13310942\charrsid15091670 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e0076007500610073006b006100720069002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b4a00000068007400740070003a002f002f007700770077002e0076007500610073006b006100720069002e0063006f00
+6d002f000000795881f43b1d7f48af2c825dc485276300000000a5ab000000}}}{\fldrslt {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \cs19\b\f0\ul\cf2\insrsid6558770\charrsid15091670 www.vuaskari.com}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\insrsid6558770 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid8000712 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid6558770\charrsid2708026 
+\par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
+72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
+2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
+44d7a07a83c82f308ac7b0a0f0fbf90c2480980b58abc733615aa2d210c2e02cb04430076a7ee833dfb6ce62e3ed7e14693e8317d8cd0433bf5c60f53fea2fe7
+065bd80facb647e9e25c7fc421fd2ddb526b2e9373fed4bb902e182e97b7b461e6bfad3f010000ffff0300504b030414000600080000002100a5d6a7e7c00000
+00360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb08
+84a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc
+52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353
+bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468
+656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c
+070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f7
+29e245eb2b260a0238fd010000ffff0300504b03041400060008000000210096b5ade296060000501b0000160000007468656d652f7468656d652f7468656d65
+312e786d6cec594f6fdb3614bf0fd87720746f6327761a07758ad8b19b2d4d1bc46e871e698996d850a240d2497d1bdae38001c3ba618715d86d87615b8116d8
+a5fb34d93a6c1dd0afb0475292c5585e9236d88aad3e2412f9e3fbff1e1fa9abd7eec70c1d1221294fda5efd72cd4324f1794093b0eddd1ef62fad79482a9c04
+98f184b4bd2991deb58df7dfbb8ad755446282607d22d771db8b944ad79796a40fc3585ee62949606ecc458c15bc8a702910f808e8c66c69b9565b5d8a314d3c
+94e018c8de1a8fa94fd05093f43672e23d06af89927ac06762a049136785c10607758d9053d965021d62d6f6804fc08f86e4bef210c352c144dbab999fb7b471
+7509af678b985ab0b6b4ae6f7ed9ba6c4170b06c788a705430adf71bad2b5b057d03606a1ed7ebf5babd7a41cf00b0ef83a6569632cd467faddec9699640f671
+9e76b7d6ac355c7c89feca9cccad4ea7d36c65b258a206641f1b73f8b5da6a6373d9c11b90c537e7f08dce66b7bbeae00dc8e257e7f0fd2badd5868b37a088d1
+e4600ead1ddaef67d40bc898b3ed4af81ac0d76a197c86826828a24bb318f3442d8ab518dfe3a20f000d6458d104a9694ac6d88728eee2782428d60cf03ac1a5
+193be4cbb921cd0b495fd054b5bd0f530c1931a3f7eaf9f7af9e3f45c70f9e1d3ff8e9f8e1c3e3073f5a42ceaa6d9c84e5552fbffdeccfc71fa33f9e7ef3f2d1
+17d57859c6fffac327bffcfc793510d26726ce8b2f9ffcf6ecc98baf3efdfdbb4715f04d814765f890c644a29be408edf3181433567125272371be15c308d3f2
+8acd249438c19a4b05fd9e8a1cf4cd296699771c393ac4b5e01d01e5a30a787d72cf1178108989a2159c77a2d801ee72ce3a5c545a6147f32a99793849c26ae6
+6252c6ed637c58c5bb8b13c7bfbd490a75330f4b47f16e441c31f7184e140e494214d273fc80900aedee52ead87597fa824b3e56e82e451d4c2b4d32a423279a
+668bb6690c7e9956e90cfe766cb37b077538abd27a8b1cba48c80acc2a841f12e698f13a9e281c57911ce298950d7e03aba84ac8c154f8655c4f2af074481847
+bd804859b5e696007d4b4edfc150b12addbecba6b18b148a1e54d1bc81392f23b7f84137c2715a851dd0242a633f900710a218ed715505dfe56e86e877f0034e
+16bafb0e258ebb4faf06b769e888340b103d3311da9750aa9d0a1cd3e4efca31a3508f6d0c5c5c398602f8e2ebc71591f5b616e24dd893aa3261fb44f95d843b
+5974bb5c04f4edafb95b7892ec1108f3f98de75dc97d5772bdff7cc95d94cf672db4b3da0a6557f70db629362d72bcb0431e53c6066acac80d699a6409fb44d0
+8741bdce9c0e4971624a2378cceaba830b05366b90e0ea23aaa241845368b0eb9e2612ca8c742851ca251ceccc70256d8d87265dd96361531f186c3d9058edf2
+c00eafe8e1fc5c509031bb4d680e9f39a3154de0accc56ae644441edd76156d7429d995bdd88664a9dc3ad50197c38af1a0c16d684060441db02565e85f3b966
+0d0713cc48a0ed6ef7dedc2dc60b17e92219e180643ed27acffba86e9c94c78ab90980d8a9f0913ee49d62b512b79626fb06dccee2a432bbc60276b9f7dec44b
+7904cfbca4f3f6443ab2a49c9c2c41476dafd55c6e7ac8c769db1bc399161ee314bc2e75cf8759081743be1236ec4f4d6693e5336fb672c5dc24a8c33585b5fb
+9cc24e1d4885545b58463634cc5416022cd19cacfccb4d30eb45296023fd35a458598360f8d7a4003bbaae25e331f155d9d9a5116d3bfb9a95523e51440ca2e0
+088dd844ec6370bf0e55d027a012ae264c45d02f708fa6ad6da6dce29c255df9f6cae0ec38666984b372ab5334cf640b37795cc860de4ae2816e95b21be5ceaf
+8a49f90b52a51cc6ff3355f47e0237052b81f6800fd7b802239daf6d8f0b1571a8426944fdbe80c6c1d40e8816b88b8569082ab84c36ff0539d4ff6dce591a26
+ade1c0a7f669880485fd484582903d284b26fa4e2156cff62e4b9265844c4495c495a9157b440e091bea1ab8aaf7760f4510eaa69a6465c0e04ec69ffb9e65d0
+28d44d4e39df9c1a52ecbd3607fee9cec7263328e5d661d3d0e4f62f44acd855ed7ab33cdf7bcb8ae889599bd5c8b3029895b6825696f6af29c239b75a5bb1e6
+345e6ee6c28117e73586c1a2214ae1be07e93fb0ff51e133fb65426fa843be0fb515c187064d0cc206a2fa926d3c902e907670048d931db4c1a44959d366ad93
+b65abe595f70a75bf03d616c2dd959fc7d4e6317cd99cbcec9c58b34766661c7d6766ca1a9c1b327531486c6f941c638c67cd22a7f75e2a37be0e82db8df9f30
+254d30c1372581a1f51c983c80e4b71ccdd28dbf000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f74
+68656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f24
+51eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198
+720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528
+a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100828abc13fa0000001c0200001300000000000000000000000000
+000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000000000000000000000
+002b0100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000000000140200007468
+656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210096b5ade296060000501b000016000000000000000000
+00000000d10200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b010000270000000000
+00000000000000009b0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000960a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdunhideused0 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdunhideused0 \lsdlocked0 Hyperlink;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdlocked0 Strong;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;
+\lsdunhideused0 \lsdlocked0 Revision;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;
+\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 0105000002000000180000004d73786d6c322e534158584d4c5265616465722e352e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffffec69d9888b8b3d4c859eaf6cd158be0f000000000000000000000000f0f8
+054b46dbcf01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
