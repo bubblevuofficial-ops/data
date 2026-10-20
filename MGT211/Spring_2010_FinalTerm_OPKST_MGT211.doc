@@ -1,0 +1,881 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch37\stshfhich37\stshfbi1\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f34\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Arial Unicode MS{\*\falt Arial};}{\f37\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri{\*\falt Arial};}
+{\f38\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f62\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\f63\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}
+{\f65\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}{\f66\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\f67\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\f68\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\f69\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\f70\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}
+{\f72\fswiss\fcharset238\fprq2 Arial CE{\*\falt Arial};}{\f73\fswiss\fcharset204\fprq2 Arial Cyr{\*\falt Arial};}{\f75\fswiss\fcharset161\fprq2 Arial Greek{\*\falt Arial};}{\f76\fswiss\fcharset162\fprq2 Arial Tur{\*\falt Arial};}
+{\f77\fswiss\fcharset177\fprq2 Arial (Hebrew){\*\falt Arial};}{\f78\fswiss\fcharset178\fprq2 Arial (Arabic){\*\falt Arial};}{\f79\fswiss\fcharset186\fprq2 Arial Baltic{\*\falt Arial};}{\f80\fswiss\fcharset163\fprq2 Arial (Vietnamese){\*\falt Arial};}
+{\f82\fmodern\fcharset238\fprq1 Courier New CE;}{\f83\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f85\fmodern\fcharset161\fprq1 Courier New Greek;}{\f86\fmodern\fcharset162\fprq1 Courier New Tur;}{\f87\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f88\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f89\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f90\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f442\fswiss\fcharset238\fprq2 Verdana CE;}{\f443\fswiss\fcharset204\fprq2 Verdana Cyr;}
+{\f445\fswiss\fcharset161\fprq2 Verdana Greek;}{\f446\fswiss\fcharset162\fprq2 Verdana Tur;}{\f449\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f450\fswiss\fcharset163\fprq2 Verdana (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{
+\s4\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\faauto\outlinelevel3\rin0\lin0\itap0 \b\f37\fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext0 \slink33 heading 4;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f37\fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\s17\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 \ssemihidden Normal (Web);}{\*\cs18 \additive \i \sbasedon10 Emphasis;}{\*\cs19 \additive \ul \sbasedon10 Hyperlink;}{\*\cs20 \additive \ul\cf12 \sbasedon10 \ssemihidden 
+FollowedHyperlink;}{\*\cs21 \additive \b\fs20 Keyboard;}{\s22\ql \li0\ri0\nowidctlpar\tx0\tx959\tx1918\tx2877\tx3836\tx4795\tx5754\tx6713\tx7672\tx8631\tx9590\faauto\rin0\lin0\itap0 \f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 
+Preformatted;}{\s23\qc \li0\ri0\nowidctlpar\brdrt\brdrs\brdrw15\brsp20 \faauto\rin0\lin0\rtlgutter\itap0 \v\f1\fs16\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext0 \slink24 \shidden \ssemihidden HTML Bottom of Form;}{\*\cs24 
+\additive \v\f1\fs16\cf1\ulc1 \sbasedon10 \slink23 \ssemihidden z-Bottom of Form Char;}{\s25\qc \li0\ri0\nowidctlpar\brdrb\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 \v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext0 \slink26 \shidden HTML Top of Form;}{\*\cs26 \additive \v\f1\fs16\cf1\ulc1 \sbasedon10 \slink25 \ssemihidden z-Top of Form Char;}{\*\cs27 \additive Sample;}{\*\cs28 \additive \b \sbasedon10 Strong;}{\*\cs29 \additive \i Variable;}{\*
+\cs30 \additive \v Comment;}{\s31\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \f2\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext31 \slink32 \ssemihidden Body Text;}{\*\cs32 \additive \f2\fs24\cf1\ulc1 
+\sbasedon10 \slink31 \ssemihidden Body Text Char;}{\*\cs33 \additive \b\fs28\cf1\ulc1 \sbasedon10 \slink4 \ssemihidden Heading 4 Char;}}{\*\listtable{\list\listtemplateid0{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}}{\listname ;}\listid1}
+{\list\listtemplateid110496382{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fs20\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fs20\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 
+\fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fs20\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid1361394621}}{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid1361394621
+\listoverridecount0\ls2}}{\*\pgptbl {\pgp\ipgp23\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp11\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp13\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp8\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0
+\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp21\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp1\itap0\li2475\ri0\sb0\sa0}{\pgp\ipgp7\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp12\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp19\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp18\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp17\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp3\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp22\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp15\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp6\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp9\itap0\li0\ri0\sb75\sa0}{\pgp\ipgp5\itap0\li0\ri0\sb0\sa0}
+{\pgp\ipgp14\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid463556\rsid609085\rsid942375\rsid994628\rsid1794708\rsid1838180\rsid2359642\rsid2380463\rsid3015880\rsid3281410\rsid3544821\rsid3825618\rsid4004266\rsid4332287
+\rsid4342075\rsid4399934\rsid4470219\rsid4789252\rsid5921881\rsid6765553\rsid6954796\rsid7105075\rsid7109234\rsid7552854\rsid8411495\rsid8480678\rsid8674939\rsid9336430\rsid10361488\rsid10513445\rsid10904663\rsid11422712\rsid12131158\rsid12283364
+\rsid12463023\rsid12540706\rsid12746500\rsid12792142\rsid12803285\rsid12868990\rsid13448671\rsid13777544\rsid14167081\rsid14174661\rsid14309646\rsid15295941\rsid15600127\rsid15747925\rsid15805862\rsid16154198}{\*\generator Microsoft Word 10.0.2627;}{\info
+{\title FINALTERM  EXAMINATION }{\author Mudassar}{\operator prince}{\creatim\yr2010\mo8\dy15\hr15\min37}{\revtim\yr2010\mo8\dy15\hr15\min37}{\version2}{\edmins0}{\nofpages11}{\nofwords3137}{\nofchars17883}{\*\company Classic Media}{\nofcharsws20979}
+{\vern16437}}\margt270\margb270 \widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale95\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot6954796 \fet0\sectd \linex0\sectdefaultcl\sectrsid7105075\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\cf0\insrsid15600127\charrsid463556 
+FINALTERM  EXAMINATION 
+\par Spring 2010
+\par MGT211- Introduction To Business (Session - 3) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\insrsid15600127\charrsid463556 Time: 90 min 
+\par Marks: 69
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following is/are the component/s of business?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Industry
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Commerce
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Both industry and commerce
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Trade and aids to trade
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid16154198\charrsid463556 Ans1) trade and aid to trade}{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\b\cf0\ulc0\insrsid16154198\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid12803285\charrsid463556 
+\par }\pard \ql \li0\ri-900\widctlpar\faauto\rin-900\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 The notice calling the annual general meeting must be given to all its members at least _______________ days before the date of the meeting.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri-900\widctlpar\faauto\rin-900\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f 21 days
+\par        \u9658\'3f 30 days
+\par        \u9658\'3f 45 days
+\par        \u9658\'3f 51 days
+\par }{\cf0\ulc0\insrsid1794708\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid1794708\charrsid463556 Ans 2) 21 days}{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\b\cf0\ulc0\insrsid1794708\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri-900\widctlpar\faauto\rin-900\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 The portion of capital kept at the winding up of a company for the payment of debts is known as:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri-900\widctlpar\faauto\rin-900\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Reserve capital
+\par        \u9658\'3f Issued capital
+\par        \u9658\'3f Subscribed capital
+\par        \u9658\'3f Authorized capital
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\cf0\ulc0\insrsid7109234\charrsid463556 Ans3) }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following statements is false? 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Franchising is very common. 
+\par        \u9658\'3f A franchise enables one to use a larger company's trade name.
+\par        \u9658\'3f A franchisee never has to pay the franchiser a percentage of sales revenues. 
+\par        \u9658\'3f A franchise may constrain the franchisee's independence. 
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Business success can be attributed to: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Luck. 
+\par        \u9658\'3f Hard work, drive and dedication. 
+\par        \u9658\'3f A high demand for the good or service produced. 
+\par        \u9658\'3f All of the given options
+\par }{\cf0\ulc0\insrsid10904663\charrsid463556 
+\par }{\b\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid10904663\charrsid463556 Ans 5) All of the given options}{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\b\cf0\ulc0\insrsid10904663\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556 
+A concept that implies that the firm should consider issues such as protecting the consumer, paying fair wages, maintaining fair hiring practices, supporting education, and considering environmental issues is:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556        \u9658\'3f }{\cf0\ulc0\insrsid15600127\charrsid463556 Financial management
+\par        \u9658\'3f Profit maximization
+\par        \u9658\'3f Social responsibility
+\par        \u9658\'3f Agency theory
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid12283364 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\insrsid15600127\charrsid463556 The MBTI is a personality test that has been used to select 
+candidates who will more likely engage in organizational citizenship behaviors at work. However, critics of this test suggest that the results can change over time as a person's personality develops. Therefore the MBTI personality test may be:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556        \u9658\'3f }{\cf0\ulc0\insrsid15600127\charrsid463556 Legal but not valid
+\par        \u9658\'3f Valid but not reliable
+\par        \u9658\'3f Reliable but not valid
+\par        \u9658\'3f Reliable but not legal
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid15600127\charrsid463556 __________ is the process used by organizations to attract a qualified pool of job applicants. 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Socialization
+\par        \u9658\'3f Human resource planning 
+\par        \u9658\'3f }{\cf0\insrsid15600127\charrsid463556 Recruitment
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556        \u9658\'3f }{\cf0\ulc0\insrsid15600127\charrsid463556 Affirmation action
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Profit sharing, gain sharing and pay-for-knowledge plans are examples of:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Individual incentives
+\par        \u9658\'3f Company-wide incentives
+\par        \u9658\'3f Cafeteria benefit plans
+\par        \u9658\'3f Merit salary systems
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following statements is NOT true about services?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f They are experienced, used or consumed.
+\par        \u9658\'3f They are often sold first, then consumed.
+\par        \u9658\'3f They are perishable.
+\par        \u9658\'3f They are tangible.
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Possession utility is provided when:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f A good or service is obtained and there is a right to use or consume it.
+\par        \u9658\'3f A product is available where someone wants it.
+\par        \u9658\'3f Someone performs a task for someone else
+\par        \u9658\'3f Someone produces something tangible
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \fi-180\li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 ___________ includes all of the activities managers engage in to forecast their current and future human resource needs. 
+\par  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \fi-180\li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f RRecruitment and selection 
+\par        \u9658\'3f    Job analysis and job design 
+\par 
+\par        \u9658\'3f    Selection and job design 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Human resource planning 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }{\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Specifications of a product relate to the: 
+\par        \u9658\'3f Physical characteristics and level of quality 
+\par        \u9658\'3f Types of service that are provided along with the product 
+\par        \u9658\'3f Financing available with the product 
+\par        \u9658\'3f Types of competitors offering a similar product 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Communicating information between sellers and potential buyers or others in the channel to influence attitudes and behavior is called _________________. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f Advertising 
+\par        \u9658\'3f Promotion 
+\par        \u9658\'3f Publicity 
+\par        \u9658\'3f Marketing 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 A product can be:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Tangible
+\par        \u9658\'3f Intangible
+\par        \u9658\'3f Something that is offered for sale
+\par        \u9658\'3f All of the given options}{\cf0\ulc0\insrsid14309646\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par     }{\cf0\ulc0\insrsid14309646\charrsid463556 Ans ) All of the given options }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\b\cf0\ulc0\insrsid14309646\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Consumer goods are classified as convenience, shopping, and: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Durable. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Nondurable.
+\par        \u9658\'3f Consumer. 
+\par        \u9658\'3f Specialty.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid942375 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The stage of the Product life cycle where competitors appear is: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f Introduction 
+\par        \u9658\'3f Decline 
+\par        \u9658\'3f Maturity 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Growth 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Expectations that specify the role of price in a firm's marketing and strategic plans are: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f Pricing considerations 
+\par        \u9658\'3f Pricing guidelines 
+\par        \u9658\'3f }{\cf0\ulc0\insrsid942375\charrsid463556 pricing}{\cf0\ulc0\insrsid15600127\charrsid463556  objectives}{\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Pricing policies 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Setting the highest initial price is called price: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f Penetration 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Gouging 
+\par        \u9658\'3f Parity 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Skimming 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which type of sales promotion is used when a manufacturer places one small bottle of shampoo in a clear bag and hangs it from the door of each house in a neighborhood? 
+
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f A sample}{\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f A deal 
+\par        \u9658\'3f A premium 
+\par        \u9658\'3f An introductory offer 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The activities and processes used in making both tangible and intangible products is known as _____________.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f Operations.}{\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f None of the given options
+\par        \u9658\'3f Making
+\par        \u9658\'3f Production. 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Under which cost flow assumption is the ending inventory composed of the earliest purchased merchandise? 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f FIFO
+\par        \u9658\'3f LIFO 
+\par        \u9658\'3f Average cost 
+\par        \u9658\'3f Specific identification 
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The preferred method for achieving total quality in process output is to:  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Rely on a team of highly trained and dedicated inspectors. 
+\par        \u9658\'3f Rely on operator self-inspection and self-correction.
+\par        \u9658\'3f Build and install an error-proof process and maintain it.
+\par        \u9658\'3f Perform inspection at the next process.
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 What is data? 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f All of the facts that are collected, stored, and processed by an information system.
+\par        \u9658\'3f All of the debit and credit information about each transaction.
+\par        \u9658\'3f The same thing as information.
+\par        \u9658\'3f All of the given options.
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following is defined as large scale information system used for organizing and managing a firm\rquote 
+s processes across product lines, departments and geographic locations?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Expert System
+\par        \u9658\'3f Decision Support System 
+\par        \u9658\'3f Enterprise Resource Planning
+\par        \u9658\'3f Electronic Data Interchange
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The financial statement which shows cash activity (receipts and disbursements) during the accounting period is called a(n): 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f Bank statement. 
+\par        \u9658\'3f Income statement. 
+\par        \u9658\'3f Statement of cash flows. 
+\par        \u9658\'3f Bank reconciliation. 
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following regarding GAAP is true?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f GAAP is the body of accounting knowledge followed by all countries in the world. 
+\par        \u9658\'3f GAAP is the abbreviation for generally accepted auditing procedures. 
+\par        \u9658\'3f Changes to GAAP must be approved by the Senate Finance Commission.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f All of the given options.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The inventory cost flow assumption where the oldest cost of inventory items is likely to remain on the balance sheet is______________
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f All of the given options.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f FIFO    
+\par        \u9658\'3f LIFO   
+\par        \u9658\'3f Average  
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\insrsid15600127\charrsid463556 Which of the following would generally have }{\i\cf0\insrsid15600127\charrsid463556 unlimited}{\cf0\insrsid15600127\charrsid463556  liability?
+\par }{\b\cf0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556        \u9658\'3f }{\cf0\ulc0\insrsid15600127\charrsid463556 A limited partner in a partnership
+\par }\pard \ql \li0\ri0\widctlpar\tqc\tx4320\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f A shareholder in a corporation
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f The owner of a sole proprietorship
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f A member in a limited liability company (LLC)
+\par     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx1620\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\insrsid15600127\charrsid463556 The situation when a country imports more than its exports is:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\tx1620\faauto\rin0\lin0\itap0 {\cf0\insrsid15600127\charrsid463556        \u9658\'3f A trade surplus.
+\par        \u9658\'3f }{\cf0\ulc0\insrsid15600127\charrsid463556 A recession.
+\par        \u9658\'3f A trade deficit.
+\par        \u9658\'3f An expansion.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The marketing environment is BEST described as being
+\par        \u9658\'3f Composed of controllable variables.
+\par        \u9658\'3f Composed of variables independent of one another.
+\par        \u9658\'3f An indirect influence on marketing activity. 
+\par        \u9658\'3f Dynamic and changing.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Which one of the following statements by a company chairman best reflects the marketing concept?
+\par        \u9658\'3f We believe that the marketing department must organise to sell what we produce.
+\par        \u9658\'3f We try to produce only high quality, technically efficient products.
+\par        \u9658\'3f We try to encourage company growth.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f We have organised our business to make certain that we satisfy customer needs.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 When Nayer Carpets develops new carpets that are highly stain resistant and durable, it must educate consumers about the product's benefits. This calls for activity
+ in which of the following marketing mix variables?
+\par        \u9658\'3f Price
+\par        \u9658\'3f Promotion
+\par        \u9658\'3f Product 
+\par        \u9658\'3f Packaging
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 The three major categories of influences that are believed to influence the consumer buying decision process are personal, psychological, and: 
+\par        \u9658\'3f Person-specific 
+\par        \u9658\'3f Social 
+\par        \u9658\'3f Demographic 
+\par        \u9658\'3f Situational 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 Nestle yoghurt represents which type of product for most consumers?
+\par        \u9658\'3f Convenience
+\par        \u9658\'3f Shopping 
+\par        \u9658\'3f Speciality 
+\par        \u9658\'3f Unsought
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\ulc0\insrsid15600127\charrsid463556 As the production manager of an engineering firm, you went out and bought a metal cutting machine. What you have purchased can best be classified as 
+\par        \u9658\'3f a processed component.
+\par        \u9658\'3f a component part. 
+\par        \u9658\'3f raw material. 
+\par        \u9658\'3f an industrial product.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Physical distribution functions influence }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard\plain \s15\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 
+primarily pricing and product decisions. }{\f2\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 primarily promotion and pricing decisions. }{\f2\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 all elements of the marketing mix.}{\f2\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 primarily pricing decisions. }{\f2\insrsid15600127\charrsid463556 
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 
+All elements of the marketing mix are influenced by physical distribution functions. For this reason, it is important for marketers to remember that}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard\plain \s15\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 
+physical distribution decisions must be made prior to any other marketing strategy consideration. }{\f2\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 physical distribution costs often rise as customer service requirements decrease. }{
+\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 over 75 percent of all marketing costs are associated with physical distribution expenditures.}{
+\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\f0\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 no single distribution system is ideal for all situations and target markets.}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb240\sa120\keepn\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\b\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 
+A fruit and vegetable wholesaler buys a loaded truck of strawberries from a local farmer and then divides them into 10 kg baskets to sell to grocery stores. This sorting function is called:}{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard\plain \s15\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\loch\af34\hich\af37\insrsid15600127\charrsid463556 \hich\af37\dbch\af0\loch\f34        }{
+\loch\af34\hich\af37\insrsid15600127\charrsid463556 \loch\af34\dbch\af0\hich\f37 \u9658\'3f}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 \hich\af37\dbch\af0\loch\f34  }{\lang1023\langfe1033\langnp1023\insrsid3544821\charrsid463556 Allocation}{
+\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 .}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 assorting.}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 accumulation.}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }{\insrsid15600127\charrsid463556        \u9658\'3f }{\lang1023\langfe1033\langnp1023\insrsid15600127\charrsid463556 sorting out.}{\loch\af34\hich\af37\insrsid15600127\charrsid463556 
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 A product's ability that it cannot be used for various purposes in different capacities and under different conditions is termed as__________
+\par }{\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Flexibility of a  product }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Inflexibility of a product }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Availability of  a product }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 All of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 41    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following statements is most suitable for Quality assurance?
+\par }{\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 It refers to the prevention of product defects}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 It is an auditing function that provides feedback to the project team and client about the quality of output being produced}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 It is the technical process that includes the construction of control charts }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 42    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Which of the following is considered as the pillar of quality? 
+\par }{\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Quality is free}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Doing it right the first time}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Process improvement }{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 43    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 A person needs to buy a medicine in midnight and gets it from a pharmacy, the availability of medicine in the midnight represents following}{
+\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Time utility}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Form utility}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Place utility}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 44    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Flow of communication from top to bottom is known as_______}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Downward communication}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Upward communication}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Combination of Downward and upward communication}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 45    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Auditors who are working within the organization are known as_______}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Internal auditors}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 External auditors}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Both internal auditors and external auditors}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 46    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Assets which can not be physically touched are termed as___________}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Intangible assets}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Tangible assets}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 Good will}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\lang1023\langfe1033\langnp1023\ulc0\insrsid15600127\charrsid463556 None of the given options}{\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\cf0\ulc0\insrsid12803285\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\fs28\cf0\ulc0\insrsid12803285\charrsid463556 Ans 46) Intangible assets}{\fs28\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }{\b\f1\fs28\cf0\ulc0\insrsid12803285\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 47    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1067{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Profit and loss account is also termed as ___________}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Income statement}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Balance sheet}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Trial Balance}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 48    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1068{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 A plan or an estimate for future expenses and revenues is termed as_________}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Budgeting}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Balance sheet}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 Income statement}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid15600127\charrsid463556 None of the given options}{\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 49    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1069{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  Explain the nature and general purpose of financial statements.
+\par }\pard \ql \li0\ri0\sl396\slmult0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12746500 {\fs28\cf0\insrsid12746500\charrsid463556 Ans 49) statement prepared to meet the needs of all financial stateme
+nt users as opposed to meeting the needs of only a particular group such as investors, creditors, management, or regulatory bodies. This is the purpose of financial statements based on GAAP.}{
+\fs28\cf0\lang9\langfe1033\langnp9\insrsid12746500\charrsid463556  Financial statements are written records of business finances, in
+cluding balance sheets and profit and loss statements. They stand as one of the most essential components of business information, and as the principal method of communicating financial information about an entity to outside parties. In a technical sense,
+ 
+financial statements are a summation of the financial position of an entity at a given point in time. General purpose financial statements are designed to meet the needs of many diverse users, particularly present and potential owners and creditors. Finan
+cial statements result from simplifying, condensing, and aggregating masses of data obtained primarily from a company's (or individual's) accounting system\line \line 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 50    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1070{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  What is meant by the term \lquote Just-in-Time\rquote  Inventory system?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\sb100\sa120\sbauto1\sl360\slmult0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid1838180 \cbpat8 {\fs28\cf0\ulc0\insrsid12540706\charrsid463556 Ans 50)}{\fs28\cf0\ulc0\insrsid1838180\charrsid463556 
+ Pull driven inventory system in which materials, parts, sub-assemblies, and support items are delivered just when needed and neither sooner nor later. Its objective is to eliminate product inventories from the suppl
+y. As much a managerial philosophy as an inventory system, JIT encompasses all activities required to make a final product from design engineering onwards to the last manufacturing operation. JIT systems are fundamentals to time based competition and rely
+ on waste reduction, process simplification, setup time and batch size reduction, parallel processing, and shop floor layout redesign. Under JIT management, shipments are made within rigidly enforced 'time windows\rquote 
+ and all items must be within the specification with very little or no inspection. It was developed and perfected by Taiichi Ohno of Toyota corporation during 1960s.
+\par }\pard \ql \li0\ri0\sb100\sa120\sbauto1\sl360\slmult0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid12540706 \cbpat8 {\f38\fs21\cf0\ulc0\insrsid12540706\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid12540706\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 51    ( Marks: 5 ) 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1071{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  }{\b\f1\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15600127\charrsid463556 Differentiate between push and pull strategies for promotion.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid5921881 {\fs28\cf0\ulc0\insrsid5921881\charrsid463556 Ans 51) }{\fs28\cf0\insrsid5921881\charrsid463556 
+A push strategy is when a company proactively and aggressively markets or promotes a product or product line to the market place or a market segment. This can be through cold calling, di
+rect mail, sending email blasts, advertising, etc. in which the company explicitly asks a prospective consumer to take action such as: \line "Buy Now!" "Call Today" Sign Up Now" "For More Info Visit..."\line 
+Some times push strategy is accompanied by a sense of urgency and limited time offers and one-time incentives to prompt consumers' immediate action.
+\par  
+\par On the other hand a pull strategy is more passive than aggressive. In this case companies may have longer term strategy in mind. A company may look to instill top 
+of mind awareness in the marketplace or build its Brand equity. Another twist to pull offers, is FREE Offers, this is when prospects are offered free trials, free information passively. The purpose behind this is to generate leads to which marketers can l
+a
+ter promote back-end offers, in fact sometimes marketers will lose money upfront because they know they'll make up their money in the back-end. Good examples are: Coke Commercials (Enjoy Coca, Polar, Polar Bears) Lexus Commercials, Free Offers on the inte
+rnet or ON TV.
+\par  To summarize a push strategy is aggressive, direct and calls prospects to action. A pull strategy is passive, instills a message for top of mind awareness or to build Brand equity.}{\fs28\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 52    ( Marks: 5 ) 
+\par }\pard \ql \li0\ri0\widctlpar\tx1125\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1072{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  Define the term \'93Material Management\'94. What are the problems faced by materials managers in today\rquote s world?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid4399934 {\fs28\cf0\ulc0\insrsid4399934\charrsid463556 Ans 52) }{\fs28\cf0\insrsid4399934\charrsid463556 
+Material Management is concerned with control of materials in such a manner which ensures maximum return on working control. Mate
+rial management is concerned with the location & purchase of needed their storage & movement. It also arranges to keep an account for them. It is also responsible for planning their movement through manufacturing processes, store rooms and distribution ch
+a
+nnels. It is the branch of logistics that deals with the tangible components of a supply chain which covers the acquisition of spare parts/replacements, quality control of purchasing and ordering such parts/replacements, and the standards involved in orde
+ring, shipping, and warehousing}{\cf0\insrsid4399934\charrsid463556 .}{\fs28\cf0\ulc0\insrsid4399934\charrsid463556 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid15600127\charrsid463556     }{\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid15600127\charrsid463556 Question No: 53    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid15295941\charrsid463556 {\pict{\*\picprop\shplid1073{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid15600127\charrsid463556  Define channel of communication, discuss different types of channels of business communication.
+\par }{\b\f1\cf0\ulc0\insrsid7109234\charrsid463556 
+\par Ans 53) }{\fs28\cf0\insrsid7109234\charrsid463556 
+Various sources used by marketers to send marketing messages to potential consumers. Communication channels may be personal, involving two or more persons communicating directly with each other, such as a customer/salesperson relationship, or impersonal s
+uch as bill boards etc.
+\par  Types of communications:
+\par 
+\par {\listtext\pard\plain\f3\fs20\insrsid7109234\charrsid463556 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li450\ri0\sb100\sa240\sbauto1\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin450\itap0\pararsid7109234 {
+\b\fs28\cf0\ulc0\insrsid7109234\charrsid463556 Verbal Communication}{\fs28\cf0\ulc0\insrsid7109234\charrsid463556 \line \line 
+Verbal communication is further divided into written and oral communication. The oral communication refers to the spoken words in the communication process. Oral communication can ei
+ther be face-to-face communication or a conversation over the phone or on the voice chat over the Internet. Spoken conversations or dialogs are influenced by voice modulation, pitch, volume and even the speed and clarity of speaking. The other type of ver
+bal communication is written communication. Written communication can be either via snail mail, or email. The effectiveness of written communication depends on the style of writing, vocabulary used, grammar, clarity and precision of language. 
+\par {\listtext\pard\plain\f3\fs20\insrsid7109234\charrsid463556 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li450\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin450\itap0\pararsid7109234 {
+\b\fs28\cf0\ulc0\insrsid7109234\charrsid463556 Nonverbal Communication}{\fs28\cf0\ulc0\insrsid7109234\charrsid463556  \line \line 
+Non-verbal communication includes the overall body language of the person who is speaking, which will include the body posture, the hand gestures, and overall body movements. The facial expressions also play a major role while communication 
+since the expressions on a person\rquote 
+s face say a lot about his/her mood. On the other hand gestures like a handshake, a smile or a hug can independently convey emotions. Non verbal communication can also be in the form of pictorial representations, signboards, or even photographs}{
+\f1\fs20\cf0\ulc0\insrsid7109234\charrsid463556 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\cf0\ulc0\insrsid7109234\charrsid463556 
+\par }}
