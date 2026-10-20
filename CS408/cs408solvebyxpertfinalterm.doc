@@ -1,0 +1,826 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff69\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f69\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri{\*\falt Century Gothic};}{\f70\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f71\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f73\froman\fcharset161\fprq2 Times New Roman Greek;}{\f74\froman\fcharset162\fprq2 Times New Roman Tur;}{\f75\froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f76\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f77\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f78\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f80\fswiss\fcharset238\fprq2 Arial CE;}
+{\f81\fswiss\fcharset204\fprq2 Arial Cyr;}{\f83\fswiss\fcharset161\fprq2 Arial Greek;}{\f84\fswiss\fcharset162\fprq2 Arial Tur;}{\f85\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f86\fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f87\fswiss\fcharset186\fprq2 Arial Baltic;}{\f88\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f90\fmodern\fcharset238\fprq1 Courier New CE;}{\f91\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f93\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f94\fmodern\fcharset162\fprq1 Courier New Tur;}{\f95\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f96\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f97\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f98\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red52\green52\blue52;}{\stylesheet{
+\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\s3\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\faauto\outlinelevel2\rin0\lin0\itap0 
+\b\f1\fs26\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext0 heading 3;}{\s4\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\faauto\outlinelevel3\rin0\lin0\itap0 \b\f69\fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 
+\sbasedon0 \snext0 heading 4;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\s17\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f2\fs20\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext17 Plain Text;}{\s18\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 
+\sbasedon0 \snext18 \styrsid2570722 header;}{\s19\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 \f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext19 \styrsid2570722 footer;}{\*\cs20 \additive 
+\ul\cf2 \sbasedon10 \styrsid2570722 Hyperlink;}}{\*\listtable{\list\listtemplateid-857569488{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}}{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid56441728}{\list\listtemplateid-87530744{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid913316211}}{\*\listoverridetable{\listoverride\listid913316211\listoverridecount0\ls1}{\listoverride\listid56441728\listoverridecount0\ls2}}
+{\*\rsidtbl \rsid353743\rsid666256\rsid996260\rsid1206529\rsid1640654\rsid1797940\rsid1849126\rsid1928455\rsid2570415\rsid2570722\rsid2642536\rsid3945097\rsid4007981\rsid4019849\rsid4142807\rsid4400064\rsid4423500\rsid5256250\rsid5455662\rsid6257974
+\rsid6492237\rsid6502609\rsid6558294\rsid6906047\rsid7014121\rsid7080186\rsid7144358\rsid7363671\rsid7544741\rsid7930127\rsid7949521\rsid8722121\rsid9181809\rsid9260180\rsid9461563\rsid9839867\rsid9990052\rsid10166695\rsid10619104\rsid10834393
+\rsid11040795\rsid11093529\rsid11415071\rsid11953741\rsid12862360\rsid12931969\rsid13045407\rsid13323608\rsid13375915\rsid13723559\rsid13769298\rsid14249197\rsid14292024\rsid14294774\rsid15032340\rsid15216590\rsid15926043}
+{\*\generator Microsoft Word 10.0.2627;}{\info{\author Muneer}{\operator M.Tariq Malik}{\creatim\yr2009\mo1\dy31\hr16\min22}{\revtim\yr2011\mo10\dy10\hr10\min47}{\version44}{\edmins-32766}{\nofpages11}{\nofwords2356}{\nofchars13430}{\*\company vu}
+{\nofcharsws15755}{\vern16437}}\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot2570415 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\header \pard\plain \s18\ql \li0\ri0\nowidctlpar\tqc\tx4320\tqr\tx8640\faauto\rin0\lin0\itap0 
+\f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\field{\*\fldinst {\insrsid2570722  HYPERLINK "http://www.vustudents.net" }{\insrsid2570722 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000130000007700770077002e0076007500730074007500640065006e00740073002e006e00650074000000e0c9ea79f9bace118c8200aa004ba90b3600000068007400740070003a002f002f007700770077002e0076007500730074007500640065006e007400
+73002e006e00650074002f000000}}}{\fldrslt {\cs20\ul\cf2\insrsid2570722\charrsid1272959 www.vustudents.net}}}{\insrsid2570722  
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f0\insrsid15926043\charrsid15926043 FINALTERM  EXAMINATION 
+\par Fall 2008
+\par CS408- Human Computer Interaction (Session - 2) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\insrsid15926043\charrsid15926043 Ref No: 318487 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13323608 {\b\f0\insrsid15926043\charrsid15926043 Time: 120 min }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043      }{\b\f0\insrsid15926043\charrsid13323608 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 _____________ is like the building name for a website.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10166695 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid10834393 \u9658\'3f Site ID}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+
+\par        \u9658\'3f Navigation
+\par        \u9658\'3f Section
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of the given}{\f0\cf0\ulc0\insrsid15926043 
+\par }{\f0\cf0\ulc0\insrsid10166695\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\f0\fs23\cf0\ulc0\insrsid10166695 Site ID, a link to Home, and any Utilities that might help me fill out the form.(page 287)}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+____________ is particularly useful early in design. It is excellent technique to use with the prototype, because it provides a wealth of diagnostic information.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10166695 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Co-discovery
+\par        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid9839867 \u9658\'3f Active intervention}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f Splendid research
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of the given}{\f0\cf0\ulc0\insrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10166695 {\f0\fs23\cf0\ulc0\insrsid10166695 Active intervention is particularly useful early in design. It is an excellent technique to
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10166695 {\f0\fs23\cf0\ulc0\insrsid10166695 use with prototypes, because it provides a wealth of diagnostic information.(page:276)}{\f0\cf0\ulc0\insrsid10166695\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 __________ is the extra work that satisfies the needs to achieve our objective.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Evaluation
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid6502609 \u9658\'3f Excise}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Testing
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f None of the given
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Panes, frames and other containers on screen is a kind of _____________
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid5455662 \u9658\'3f Functional and data elements}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f View
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Input method
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f None of the given
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Which of the following is least likely to be revealed by a paper prototype? 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid1928455 Your users don\rquote t know the term algorithm}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Toolbar buttons are too small to press. 
+\par        \u9658\'3f The Help menu isn\rquote t in the right place.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of the given
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  _____________is the least technical way of collecting data, but it can be difficult and tiring to write and observe at the same time.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Audio recording. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid6906047 Taking notes}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 .
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f Observation
+\par        \u9658\'3f Video
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Every page within a site should contain a brief _________ that accurately describes the content of the page}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 .
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid5256250 Site ID.}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f Header
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid5256250 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\ulc0\insrsid15926043\charrsid5256250 \u9658\'3f Local Navigation.}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Search button
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  ______________ applications are great platforms for creating an environment rich, in visual feedback for the user.}{\b\f0\fs28\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid11953741 \u9658\'3f Sovereign}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f Transient
+\par        \u9658\'3f Auxiliary
+\par        \u9658\'3f Daemonic
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  What is the fifth step in defining the requirements with respect to persona-based design?}{\b\f0\fs28\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Brainstorming.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Identifying persona expectations.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Constructing the context scenario.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid12931969 \u9658\'3f Identifying needs}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 You can load a VCR tape the right way because of _____________. }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid7144358 \u9658\'3f }{
+\f0\cf0\lang2057\langfe1033\highlight7\langnp2057\ulc0\insrsid15926043\charrsid7144358 Physical constraints}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Logical constraints }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Cultural constraints }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of these
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 ____________ are unintentional while _____________ occur through conscious deliberation.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid6558294 \u9658\'3f }{
+\f0\cf0\lang2057\langfe1033\highlight7\langnp2057\ulc0\insrsid15926043\charrsid6558294 Slips, mistakes}{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid6558294 (page:100)}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Errors, slips}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Mistakes, errors
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\ulc0\insrsid15926043\charrsid6558294 \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid6558294 
+Mistakes, slips}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 What is the main strength of the Problem Space Framework as a model of human problem solving?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid7144358 \u9658\'3f }{
+\f0\cf0\lang2057\langfe1033\highlight7\langnp2057\ulc0\insrsid15926043\charrsid7144358 It operates within the constraints of the human processing system}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 It explains what is involved in insight}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 It allows ill-defined problems to be solved}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of these
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 ___________ is the process of selecting things to concentrate on, at a point in time, from the range of possibilities available.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Perception and recognition
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid1797940 \u9658\'3f Attention}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Learning
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f None of these
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Over a short period of time, we find it easier to remember the string of numbers "404 894 6743" because
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Numbers are easier to remember than arbitrary characters.}
+{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid7544741 \u9658\'3f }{\f0\cf0\lang2057\langfe1033\highlight7\langnp2057\ulc0\insrsid15926043\charrsid7544741 The grouping of the numbers is significant}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+
+\par        \u9658\'3f }{\f0\cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid15926043\charrsid15926043 Ten numbers is not that many to have to remember from working memory.}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f None of these
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15926043\charrsid15926043 ___________environments are environments that are user and context aware.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f }{\f0\cf0\lang9\langfe1033\highlight7\langnp9\ulc0\insrsid15926043\charrsid14294774 Attentive}{
+\f0\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f }{\f0\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15926043\charrsid15926043 Non-attentive
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f }{\f0\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15926043\charrsid15926043 Visual
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f Sensing
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 ___________ involves watching and listening to users.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid11093529 \u9658\'3f Observation}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Evaluation
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Qualitative research
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Interaction
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 The name of the document should be shown on the application's__________.
+\par 
+\par A. Menu bar
+\par B. Title bar
+\par C. Title bar and menu bar
+\par D. Not Title bar and not menu bar
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid13045407 \u9658\'3f Only B}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Only D
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f A and B
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f A and D
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\expnd-1\expndtw-5\cf0\ulc0\insrsid15926043\charrsid15926043 The established standard suite of _________ for most applications consists of the Save As }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+dialog, the Save Changes dialog, and the Open File dialog.}{\b\f0\fs28\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f OS management
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid11040795 \u9658\'3f File management}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Data management
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Application management
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 _________ is the remarkable facility that lets us reverse a previous action.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Redo
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid11040795 \u9658\'3f Undo}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Repeat
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Delete}{\b\f0\fs28\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Explanatory undo is, generally, a much more pleasant feature than ___________. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Single Undo
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Multiple undo
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid1849126 \u9658\'3f Blind undo}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Incremental Undo
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Browser Title always contains the word \lquote _______\rquote .
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid11415071 \u9658\'3f Home}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Default
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Error
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Browser
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Interpretation inquiry, according to Beyer and Holtzblatt, is based on a master-apprentice model of learning.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f True
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid666256 \u9658\'3f False}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Roughly _____________ percent of the male population has some degree of color blindness.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid7930127 \u9658\'3f 10}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par        \u9658\'3f 20
+\par        \u9658\'3f 30
+\par        \u9658\'3f 40
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 The _____________ is a concrete expression of the more abstract structure of the site.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid4423500 \u9658\'3f Skeleton}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Scope
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Strategy
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Structure
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 ____________ are the street signs of the web.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Site IDs
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Home pages
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid15216590 \u9658\'3f Page Names}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Sections
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 ______________ is not like other pages; it has different burdens to bear, different promises to keep.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid7080186 \u9658\'3f Homepage}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Form
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Navigation bar
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Sections
+\par     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 The ___________ suggests identifying goals and questions first before selecting techniques for the study
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f RVM model
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid13769298 \u9658\'3f DECIDE framework}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Usability testing
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Field study
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Number of keystrokes is ____________ work.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Logical
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Mnemonic
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid8722121 \u9658\'3f Physical}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Structural
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Recalling password is ____________ work.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Logical
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid4007981 \u9658\'3f Mnemonic}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Physical
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Structural
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 The persona is not an actual user of the product, but is indirectly affected by it and its use refers to _______ persona
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Primary
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Secondary
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        }{\f0\cf0\highlight7\ulc0\insrsid15926043\charrsid9990052 \u9658\'3f Served}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043  
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043        \u9658\'3f Negative
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid1206529 {\f0\fs23\cf0\ulc0\insrsid1206529 the persona is not an actual user of the product, but is indirectly affected by it and its use(page:159)}{
+\f0\fs23\cf0\ulc0\insrsid15926043\charrsid1206529 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 31    ( Marks: 1 ) 
+\par }\pard\plain \s15\qj \li0\ri0\sb240\sa60\keepn\widctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f0\insrsid2642536\charrsid15926043 
+{\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\f0\insrsid15926043\charrsid15926043 
+ Define reliability in term of evaluation technique. [1]
+\par }\pard\plain \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\f0\cf0\ulc0\insrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid10619104 {\b\f0\fs26\cf0\ulc0\insrsid10619104 Reliability
+\par }{\f0\fs23\cf0\ulc0\insrsid10619104 The reliability or consistency of a technique is how well it produces the }{\i\f0\fs23\cf0\ulc0\insrsid10619104 same }{\f0\fs23\cf0\ulc0\insrsid10619104 results on
+\par separate occasions under the }{\i\f0\fs23\cf0\ulc0\insrsid10619104 same }{\f0\fs23\cf0\ulc0\insrsid10619104 circumstances. Different evaluation processes have
+\par different degrees of reliability. For example, a carefully controlled experiment will have
+\par high reliability. Another evaluator or researcher who follows exactly the same procedure
+\par should get similar results. In contrast, an informal, unstructured interview will have low
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid10619104 {\f0\fs23\cf0\ulc0\insrsid10619104 reliability: it would be difficult if not impossible to repeat exactly the same discussion}{\f0\fs20\cf0\ulc0\insrsid10619104 .}{
+\f0\cf0\ulc0\insrsid10619104\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 32    ( Marks: 1 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  What is the first step which describes the process of defining the interaction framework? [1]
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\fs23\cf0\ulc0\insrsid7949521 1. Defining form factor and input methods}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 33    ( Marks: 2 ) 
+\par }\pard \qj \li0\ri0\sa120\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  What is meant by term \'93Color shows relationships\'94 with respect to misuse of colors in visual interface? [2]
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6492237 {\b\f0\fs26\cf0\ulc0\insrsid6492237 The use of color
+\par }{\f0\fs23\cf0\ulc0\insrsid6492237 Ergonomics has a close relationship to human psychology in that it is also concerned with
+\par the perceptual limitations of humans. For example, the use of color in displays is an
+\par ergonomics issue. The human visual system has some limitations with regard to color,
+\par including the number of colors that are distinguishable and the relatively low blue acuity.
+\par Color used in display should be as distinct as possible and the distinction should not be
+\par affected by changes in contrast. The colors used should also correspond to common
+\par conventions and user expectation. However, we should remember that color conventions
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6492237 {\f0\fs23\cf0\ulc0\insrsid6492237 are culturally determined.}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 34    ( Marks: 2 ) 
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Explain any four disadvantages of Low-fidelity prototyping. }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6492237 {\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 Limited error checking.
+\par }{\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 Poor detail}{\f0\cf17\ulc0\insrsid6492237 ed specification }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 to code to.
+\par }{\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 Facilitator-driven.
+\par }{\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237 Limited utility after }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 requirements established.
+\par }{\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237 Limited usefulness for }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 usability tests.
+\par }{\f0\ulc0\insrsid6492237\charrsid6492237 \bullet  }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 Navigational and flow}{\f0\cf17\ulc0\insrsid6492237  }{\f0\cf17\ulc0\insrsid6492237\charrsid6492237 limitations.}{
+\f0\cf0\ulc0\insrsid15926043\charrsid6492237     }{\f0\cf17\ulc0\insrsid15926043\charrsid6492237 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 35    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Explain any two necessary conditions regarding \'93Page Names\'94?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid7014121 {\f0\fs23\cf0\ulc0\insrsid7014121 Every page needs a name. Just as every corner should have a street sign, every page should  have a name.}{
+\f0\fs23\cf0\ulc0\insrsid15926043\charrsid7014121 
+\par }{\b\f0\fs23\cf0\ulc0\insrsid7014121 The name needs to be in the right place. }{\f0\fs23\cf0\ulc0\insrsid7014121 
+In the visual hierarchy of the page, the page name should appear to be framing the content that is unique to this page. (After all, that's what it's naming\emdash not the navigation or the ads, which are just the infrastructure.)}{
+\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\f0\fs23\cf0\ulc0\insrsid15926043\charrsid7014121 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 36    ( Marks: 3 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  }{\b\f0\cf0\lang9\langfe1033\langnp9\ulc0\insrsid15926043\charrsid15926043 How can we make computers "see" and "feel"?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 37    ( Marks: 3 ) 
+\par }{\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  What are the steps which describes the process of defining the interaction framework?}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid13375915 {\f0\fs23\cf0\ulc0\insrsid13375915 1. Defining form factor and input methods
+\par 2. Defining views
+\par 3. Defining functional and data elements
+\par 4. Determining functional groups and hierarchy
+\par 5. Sketching the interaction framework
+\par 6. Constructing key path scenarios}{\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 38    ( Marks: 5 ) 
+\par }\pard\plain \s15\qj \li0\ri0\sb240\sa60\sl276\slmult1\keepn\widctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f0\insrsid2642536\charrsid15926043 
+{\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\b\f0\insrsid15926043\charrsid15926043 
+ Describe quantitative data analysis.}{\b\f0\insrsid15926043 
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid13375915 \f69\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f0\cf0\ulc0\insrsid13375915 Quantitative data analysis
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 Video data collected in usability laboratories is usually }{\f0\fs23\cf0\ulc0\insrsid3945097 explain}{\f0\fs23\cf0\ulc0\insrsid13375915  as it is observed Small
+\par teams of evaluator\rquote s watch monitors showing what is being recorded in a control room
+\par out of the users' sight. As they see errors or unusual behavior, one of the evaluators
+\par marks the video and records a brief remark. When the test is finished evaluators can use
+\par the annotated recording to calculate performance times so they can compared users'
+\par performance on different prototypes. The data stream iron: the interaction log is used in
+\par a similar way to calculate performance times. Typically this data is further analyzed using
+\par simple statistics such as means, standard deviations, T-tests, etc. Categorized data may also
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13375915 {\f0\fs23\cf0\ulc0\insrsid13375915 be quantified and analyzed statistically, as we have said.}{\insrsid13375915\charrsid13375915 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 39    ( Marks: 5 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Explain the following in context of problems with the web experience:
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\faauto\ls1\rin0\lin720\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 No sense of scale. 
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 b)\tab}No sense of location. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 40    ( Marks: 10 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Explain the following planes of Conceptual Framework for developing an interactive product.
+\par }{\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \qj \fi-360\li720\ri0\widctlpar\faauto\ls2\rin0\lin720\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 The Structure Plane
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 b)\tab}The Scope Plane
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 c)\tab}The Surface Plane
+\par {\listtext\pard\plain\b\insrsid15926043\charrsid15926043 \hich\af0\dbch\af0\loch\f0 d)\tab}The Strategy Plane
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid13375915 {\f0\cf0\ulc0\insrsid15926043\charrsid15926043     }{\b\f0\fs23\cf0\ulc0\insrsid13375915 The Surface Plane
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 On the surface you see a series of Web pages, made up of images and text. Some of these
+\par images are things you can click on, performing some sort of function such as taking you
+\par to a shopping cart. Some of these images are just illustrations, such as a photograph of a
+\par book cover or the logo of the site itself.
+\par }{\b\f0\fs23\cf0\ulc0\insrsid13375915 The Skeleton Plane
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 Beneath that surface is the skeleton of the site: the placement of buttons, tabs, photos, and
+\par blocks of text. The skeleton is designed to optimize the arrangement of these elements for
+\par maximum effect and efficiency-so that you remember the logo and can find that shopping
+\par cart button when you need it.
+\par }{\b\f0\fs23\cf0\ulc0\insrsid13375915 The Structure Plane
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 The skeleton is a }{\f0\fs23\cf0\ulc0\insrsid14292024 real}{\f0\fs23\cf0\ulc0\insrsid13375915  expression of the more abstract structure of the site. The
+\par skeleton might define the placement of the interface elements on our checkout page; the
+\par structure would define how users got to that page and where they could go when they
+\par were finished there. The skeleton might define the arrangement of navigational items
+\par allowing the users to browse categories of books; the structure would define what those
+\par categories actually were.
+\par }{\b\f0\fs23\cf0\ulc0\insrsid13375915 The Scope Plane
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 The structure defines the way in which the various features and functions of the site fit
+\par together. Just what those features and functions are }{\f0\fs23\cf0\ulc0\insrsid14292024 form}{\f0\fs23\cf0\ulc0\insrsid13375915  the scope of the site. Some
+\par sites that sell books offer a feature that enables users to save previously used addresses so
+\par they can be used again. The question of whether that feature-or any feature-is included on
+\par a site is a question of scope.}{\f0\fs23\cf0\ulc0\insrsid15926043 
+\par }{\b\f0\fs23\cf0\ulc0\insrsid13375915 The Strategy Plane
+\par }{\f0\fs23\cf0\ulc0\insrsid13375915 The scope is fundamentally determined by the strategy of the site. This strategy
+\par }{\f0\fs23\cf0\ulc0\insrsid14292024 incorporate}{\f0\fs23\cf0\ulc0\insrsid13375915  not only what the people running the site want to get out of it but what the
+\par users want to get out of the site as well. In the case of our bookstore example, some of the
+\par strategic objectives are pretty obvious: Users want to buy books, and we want to sell
+\par them. Other objectives might not be so easy to articulate.}{\b\f0\cf0\ulc0\insrsid13375915\charrsid15926043 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043 Question No: 41    ( Marks: 10 ) 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f0\cf0\ulc0\insrsid2642536\charrsid15926043 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f0\cf0\ulc0\insrsid15926043\charrsid15926043  Explain the term \'93Accessibility\'94 with respect to Emerging Paradigms.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid15032340 {\f0\fs23\cf0\ulc0\insrsid15032340 Accessibility is a term }{\f0\fs23\cf0\ulc0\insrsid14292024 in}{\f0\fs23\cf0\ulc0\insrsid15032340  which a system is usable by}{
+\f0\fs23\cf0\ulc0\insrsid14292024  }{\f0\fs23\cf0\ulc0\insrsid15032340 as many people as possible without modification. It is not to be confused with usability}{\f0\fs23\cf0\ulc0\insrsid14292024  }{\f0\fs23\cf0\ulc0\insrsid15032340 
+which is used to describe how easily a thing can be used by any type of user. One}{\f0\fs23\cf0\ulc0\insrsid14292024  }{\f0\fs23\cf0\ulc0\insrsid15032340 meaning of accessibility specifically focuses on people with disabilities and their use of}{
+\f0\fs23\cf0\ulc0\insrsid14292024  }{\f0\fs23\cf0\ulc0\insrsid15032340 assistive devices such as screen-reading web browsers or wheelchairs. Other meanings}{\f0\fs23\cf0\ulc0\insrsid14292024  }{\f0\fs23\cf0\ulc0\insrsid15032340 are discussed below.
+\par Accessibility is strongly related to universal design in that it is about making things as
+\par accessible as possible to as wide a group of people as possible. However, products
+\par marketed as having benefited from a Universal Design process are often actually the same
+\par devices customized specifically for use by people with disabilities. It is rare to find a
+\par Universally Designed product at the mass-market level that is used mostly by nondisabled
+\par people.
+\par The disability rights movement advocates equal access to social, political and economic
+\par life which includes not only physical access but access to the same tools, organisations
+\par and facilities which we all pay for.
+\par A typical sign for wheelchair accessibility}{\f0\fs23\cf0\ulc0\insrsid9461563  }{\f0\fs23\cf0\ulc0\insrsid15032340 Accessibility is about giving equal access to
+\par everyone.
+\par While it is often used to describe facilities or amenities to assist people with disabilities,
+\par as in "wheelchair accessible", the term can extend to Braille signage, wheelchair ramps,
+\par audio signals at pedestrian crossings, walkway contours, website design, and so on.
+\par Various countries have legislation requiring physical accessibility:
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid9461563 {\f0\fs23\cf0\ulc0\insrsid15032340 In the UK, the Disability Discrimination Act 1995 has numerous provisions for}{\f0\fs23\cf0\ulc0\insrsid9461563  }{\f0\fs23\cf0\ulc0\insrsid15032340 
+accessibility.}{\f0\fs23\cf0\ulc0\insrsid15926043\charrsid9461563 
+\par }}
