@@ -25,15 +25,13 @@ jobs:
         env:
           DRIVE_API_KEY: ${{ secrets.DRIVE_API_KEY }}
         run: |
-          pip install -q gdown
           git config user.name "drive-sync-bot"
           git config user.email "drive-sync-bot@users.noreply.github.com"
           python3 - <<'PY'
-          import os, re, sys, json, time, hashlib, shutil, subprocess
+          import os, re, json, time, shutil, subprocess
           import urllib.request, urllib.parse, urllib.error
           from concurrent.futures import ThreadPoolExecutor, as_completed
 
-          # Drive folders (all sub-folders are scanned automatically)
           FOLDERS = [
               "1sX4F2mDPUvayakLoqQkuFYE5YlesTg5N",
               "1gXD5cf3Sh80zlAW72S-BLo7PAxcUmcQM",
@@ -75,7 +73,6 @@ jobs:
               "1swAsTvjQ4mkJUQrJrjzYT1iVGrsad09H",
               "1otdtBp0wTC9KseXTAG7lf35VGbrQjw3k",
               "1iStQPQaig_vmduOhzCwBcjlWJt1uyQpK",
-              "1BI-t27WGqA9d1yHD-mHzXWQM1aqBGZho",
               "18XX5kpRc1150FVti-kDjvto25xKbmEtO",
               "1AW5xcAeABpWu9ZNx8fCKDi6Eh1H-Yn50",
               "1Vj6_3QoLYZgRhl0ADVH9jbloQ2jDz-gG",
@@ -83,46 +80,110 @@ jobs:
               "1HTpsEWPqvBIevsmY9pRgqB3L89U1xbGv",
               "1kcy9vLk541hy2JZ5IucOyuCtmCyYwEeC",
               "1ZCeUHM8vXczv8ye6a0jfrcNjLi9-qgS7",
-              "16Dt8yYxOx4iGBwjwOSM6ro60lZbF_l9N",
               "1aTauls0Dk4EhLbc-TTppsPBI9yg_EdFe",
               "1Xz63_AjPCJ3x2Fl3nIIBP4554R2iKeqf",
-              "1bVC6UMA1-XjB5BFBEyMhKYY27GL6tcQ2",
-              "1QEIfCWG1a85cWECIiAjSfpfShOME2He1",
-              "1jskXgm-NfY3BHLkKKxORGmfgSsI3QgsD",
-              "1yUd6skmQjmMibhHmJ03rc7Ww55HWEoBu",
-              "1lU4WoLSzuP_3GolG1uALFt5qmq4pQsLl",
-              "1xiJF-F_d28tNXMfcqXeBRWs37Fbx_5nl",
-              "16U_RPeFgDm_lDiMpVM_7iiN6y1ff7YOj",
-              "1ME6dEPiOXSZVnkc2xSZ5ubo7XYOte6fj",
-              "1F_qvhUMVFfgsmvr92m3nJhH2m2ksaefm",
               "1buBQRlMilfWCN1dejKV7BAStQjYC4CR4",
               "12qgKCjOp2_18dt8JAy1gM6kezKAbWRBP",
               "1ux6NiFF_a5KjF-35DEg-73gyo36hRj83",
-              "1JAxnbF2ZlS3YfBZgYIKhQjdXoG8X95tx",
               "1xnMat0LNYkpkWSwWWWiNFU4rV45vzdEL",
               "1WZDwl_s-gErmAXcHUWA1cZiAXIpAkfXl",
               "10GG0S4v28Vo2yde_ba18NMmG1Nxwl3q8",
+              "1ioO1zms0dADO7_a2Tw4iNP1kzHmG_Ybk",
+              "1_BTyh4CO79HyRZcwz1ym-BoG_bI60pNp",
+              "1Eb2sn_6jRzvxwCxZccebBT5On08xZ7fF",
+              "1coWGKS_8xwtph2HO2tW1wOc4pvXO3bJg",
+              "1qBQm8_inIlJhVQLYm9Lfjb0opNPm0Hm2",
+              "1VjLODrMjRB1ZUfN9-qMLSqap410IIPQG",
+              "1MsDIO6LWdQnDQ5yMTTkhUpaCRaXkrIwp",
+              "1zziNC9bLbyDUiaOEufCSc4Hx0g7kFD7q",
+              "1uE7ppiKD0A13XTeibhrwu4TalU9xI9gv",
+              "1x4da1XMYH-mQ0tDA73kOkHHKjaQXJnf8",
+              "1w2gQ3jTOcSOyTjhEPsMqL_QFWRQ-8zDE",
+              "1AiEnj5r75XSKis-LiAdIrterHjXFG079",
+              "1gKfwEwsMsxRu_0FRJT2VKqGMnLMPJRZs",
+              "1KnIz3JijJZkgmYyc6uUJ-8TFnlFUWeQg",
+              "170YauYaRmOJxbS3ZLCJjgp491hJrt70J",
+              "11E6jXE7v2I8cjmI8eVQVdMufCu7dNIqg",
+              "1c4VnOP0fSGSQYNZIIqizHEUGjqeS0DyI",
+              "1xW3RHZLpWNwj4WXgVkxFMCnDiwMwtXcs",
+              "1kJzxu6VJfaTA-lcuL3RJft_A7yBKz9av",
+              "1yHMp7RaCf9BOtJWoPssAo4GsB71AapxM",
+              "1KDsuGt5i6W9yQikC9SuOFP6CzCfs_RF9",
+              "1REVM-tlvhdF6DTBaaQfk0WfWnYBJCWyM",
+              "1aead8e6J8EyiB66FM3Xw9Tlg7RCBJ7W7",
+              "1_NkWxPMB9_YkaXjRZrmCg7AHVHE1GadW",
+              "1C9XhNDHRSc7CzaEe3qCsZ9MhvUPo3fpZ",
+              "1fRf3xGqspLmCDBDK0WaiVtGxdrlRqVOV",
+              "1phKONy6_f0sam64B3gCnXXyih8U4XM_6",
+              "1KZDCNRQ53vI1MyuGMLhFYBh0U57uB0zd",
+              "1fim9uN3UTs2QihtgfiKap88QlrlUj9iJ",
+              "1E4w5h9giZAe8SsijNJkPxvIqKSntzsHr",
+              "1Z0GLNP0ZH5GaxpkCjCgROaCqnLd-BHIs",
+              "10Ru6T_dPJfeeSmeLTn2wTfdKJN51MkNh",
+              "14yG9QWC80FuzZUG9AdFv6BSNoIxv4yGd",
+              "10xWz4k9iyVEtQsyncG-sNxTaRnYGeJau",
+              "1rCoeEJZwTlQA69ZojBgg36QjTYu7-Hk7",
+              "1MLnaTNEvFkju0YUaJdXjehh310Kkoswj",
+              "1p856xSTdIKIbSvEp_UgPC1oaEmbrSS8b",
+              "1e2cGBtmcQV7sMiovPeHSxX4Nx7vKV4rQ",
+              "1NTuqsYXaCRpfBVEuLCzXDjv4wUDV3yDI",
+              "1LxIHsbdlZggqr5RzL-GoEHe82gEYHMmI",
+              "18yx8toFR7puWZFxXjZRZnXZkcRvxK50X",
+              "1lHjC97ESOgcc9wSUZfBJueW4055Hzgv7",
+              "1XWqPLzaKBAZKam1k22hfMUzkeWph9Snp",
+              "16ifDK_S-Mk-T5Y7R4X4K3u4LcZygd_xY",
+              "1GuXRTz8idMNHV99IhTtUDaxEMlGGInTJ",
+              "1VROwTpCl_Ls_nMq55FPjvgeg_BNg8tq4",
+              "1BmsBf4VJbzFVtsTkBnFlEfObSlEV1Yf4",
+              "1KGv8xLmD7khb_CkmHoGs4XvFo9V8ZmGR",
+              "1S9jrpiObR90pqr7e_sGPp7nyCaNQEcw4",
+              "10L-I3sim6iN9XGu53iDlKZ2itzAslpgO",
+              "1E45DqFH_lG4h_tWOX8eT7KiYIzBoRff-",
+              "1jcLmBJk-klTIf4MdPvSKYXjf9YL4D4_b",
+              "12Bv3OGIuR0Htl1_LfhSUN_bb4GtSpVms",
+              "1ZveqcK725Ctc2LM3ONbC4bQ4c-n-o-Dp",
+              "118z0ypqa8Ujq_tA3VyhH40dYOKYFsltg",
+              "1lFspN8de5kqCjlOVVL-q0AyY3ECy_r4_",
+              "12n1I6CucRwZ6gNHERA3BOlteVc9oFUtE",
+              "14a-eqVdCCzctKaeIdXq2-z21AIzC8LTA",
+              "1bJMKeM71XwunGmF91AXjQfsJPt0sOILJ",
+              "12iyf90NUGZim3cDKJSfgL_yWTCxVWjE2",
+              "1g84EMjsUFlw8Vs1p3smzFjPN70tyGIGS",
+              "1yDB2dBXTBqPs7EAs2hglhRbj6rrORJsZ",
+              "1ZZVVJNsPmNLCEV1mHKUuR3WvLYF4lLRq",
+              "1KW8ZOPxzjTYxVl0nvaDFr9GfkN0tn3WJ",
+              "1lxmBdxPdWXU1Z7XvimEcg2EcXBI-G5rT",
+              "1AI-q2SHPMjjZeMyDkivYCddUuBD-q3uq",
+              "1dQcy7jtEANig7IqBEDTNIO3O0YFWUzun",
+              "17mRcDSjzRWMF4w-_y9Ebq7_3RH6Oy6am",
+              "113Q7-pr-j8bhMZCq95PRScNTkMh_gt36",
+              "1LjfLoue3Lbknh50likWDrHKZGpqxCofb",
           ]
-          # Single files (direct file links)
           SINGLE_FILES = [
-              "1Ujg6veG-s31CSC8ARARXffW-6TW1_fYg",
               "1ZYJKdsN8mbzvLJe21nFC9JhFFkxOqUrg",
               "1e_bf3ZirLSjStG_WVB8KGunbjLJzDdpN",
               "140TibBMBHlEQw_ViG_3uanQ9jesB7Mtg",
               "1HwQEr82cOXcUCt645upiP5lwKZ_qR-LY",
           ]
           KEY = os.environ.get("DRIVE_API_KEY", "").strip()
-          BUDGET = 5 * 3600 + 10 * 60      # stop cleanly before GitHub's 6 hour job limit
-          MAX_BYTES = 95 * 1024 * 1024     # GitHub rejects files over 100 MB
-          CHUNK = 200                      # files per commit
+          BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
+          BUDGET = 5 * 3600 + 5 * 60        # stop cleanly before the 6 hour limit
+          MAX_BYTES = 95 * 1024 * 1024      # GitHub rejects files over 100 MB
+          CHUNK_FILES = 150                 # max files per commit
+          CHUNK_BYTES = 300 * 1024 * 1024   # max MB per commit/push
           WORKERS = 6
           START = time.time()
+          STATE = ".sync_state.json"        # remembers finished folders (delete it to rescan everything)
 
           API = "https://www.googleapis.com/drive/v3/files"
           FOLDER_MT = "application/vnd.google-apps.folder"
           SHORTCUT_MT = "application/vnd.google-apps.shortcut"
           NOISE = {"PART", "PAGE", "FILE", "LEC", "LECT", "CHAP", "UNIT", "SEC", "FIG", "TOP", "NO", "SET", "WEEK", "DAY"}
           CODE_RE = re.compile(r"(?<![A-Za-z])([A-Za-z]{2,4})[\s_\-]?(\d{3})(?!\d)")
+
+
+          def sh(*cmd):
+              return subprocess.run(list(cmd)).returncode
 
 
           def find_code(text):
@@ -143,116 +204,133 @@ jobs:
               return "Other"
 
 
-          def http_get(url, tries=6):
+          def http_open(url, tries=7):
               last = None
               for a in range(tries):
                   try:
-                      with urllib.request.urlopen(url, timeout=120) as r:
-                          return r.read()
+                      return urllib.request.urlopen(url, timeout=120)
                   except urllib.error.HTTPError as e:
                       body = e.read()[:400]
                       last = "HTTP %s %r" % (e.code, body)
-                      if e.code in (429, 500, 502, 503, 504) or (e.code == 403 and b"ateLimit" in body):
-                          time.sleep(min(60, 2 ** a))
-                          continue
-                      break
+                      retry = e.code in (429, 500, 502, 503, 504) or (
+                          e.code == 403 and (b"ateLimit" in body or b"uota" in body))
+                      if not retry:
+                          break
+                      time.sleep(min(90, 3 * 2 ** a))
                   except Exception as e:
                       last = repr(e)
                       time.sleep(min(60, 2 ** a))
               raise RuntimeError(last)
 
 
+          def http_json(url):
+              with http_open(url) as r:
+                  return json.loads(r.read())
+
+
+          def root_name(fid):
+              try:
+                  q = urllib.parse.urlencode({"fields": "name", "supportsAllDrives": "true", "key": KEY})
+                  return http_json("%s/%s?%s" % (API, fid, q)).get("name", "")
+              except Exception:
+                  return ""
+
+
           def list_tree(root_id):
-              out, stack = [], [(root_id, "")]
-              while stack:
-                  fid, path = stack.pop()
-                  token = None
-                  while True:
-                      params = {
-                          "q": "'%s' in parents and trashed=false" % fid,
-                          "key": KEY,
-                          "pageSize": 1000,
-                          "fields": "nextPageToken,files(id,name,mimeType,size)",
-                          "supportsAllDrives": "true",
-                          "includeItemsFromAllDrives": "true",
-                      }
-                      if token:
-                          params["pageToken"] = token
-                      d = json.loads(http_get(API + "?" + urllib.parse.urlencode(params)))
-                      for f in d.get("files", []):
-                          if f["mimeType"] == FOLDER_MT:
-                              stack.append((f["id"], path + "/" + f["name"]))
-                          else:
-                              f["path"] = path
-                              out.append(f)
-                      token = d.get("nextPageToken")
-                      if not token:
-                          break
-              return out
+              """returns (files, ok). ok=False if listing broke half way."""
+              out, ok = [], True
+              stack = [(root_id, "/" + root_name(root_id))]
+              try:
+                  while stack:
+                      fid, path = stack.pop()
+                      token = None
+                      while True:
+                          params = {
+                              "q": "'%s' in parents and trashed=false" % fid,
+                              "key": KEY, "pageSize": 1000,
+                              "fields": "nextPageToken,files(id,name,mimeType,size)",
+                              "supportsAllDrives": "true", "includeItemsFromAllDrives": "true",
+                          }
+                          if token:
+                              params["pageToken"] = token
+                          d = http_json(API + "?" + urllib.parse.urlencode(params))
+                          for f in d.get("files", []):
+                              if f["mimeType"] == FOLDER_MT:
+                                  stack.append((f["id"], path + "/" + f["name"]))
+                              else:
+                                  f["path"] = path
+                                  f["root"] = root_id
+                                  out.append(f)
+                          token = d.get("nextPageToken")
+                          if not token:
+                              break
+              except Exception as e:
+                  ok = False
+                  print("LIST FAILED", root_id, str(e)[:200], flush=True)
+              return out, ok
 
 
           def get_single(fid):
-              params = {"key": KEY, "fields": "id,name,mimeType,size", "supportsAllDrives": "true"}
-              f = json.loads(http_get("%s/%s?%s" % (API, fid, urllib.parse.urlencode(params))))
+              q = urllib.parse.urlencode({"key": KEY, "fields": "id,name,mimeType,size", "supportsAllDrives": "true"})
+              f = http_json("%s/%s?%s" % (API, fid, q))
               f["path"] = ""
+              f["root"] = "single:" + fid
               return f
 
 
-          def list_local():
-              import gdown
-              out = []
-              for i, fid in enumerate(FOLDERS):
-                  d = "/tmp/_dl/%d" % i
-                  try:
-                      gdown.download_folder(url="https://drive.google.com/drive/folders/" + fid,
-                                            output=d, quiet=True, use_cookies=False, remaining_ok=True)
-                  except Exception as e:
-                      print("gdown failed for", fid, e)
-                  for root, _, names in os.walk(d):
-                      rel = os.path.relpath(root, d)
-                      for n in names:
-                          p = os.path.join(root, n)
-                          out.append({"id": hashlib.md5(p.encode()).hexdigest(), "name": n,
-                                      "path": "" if rel == "." else rel, "mimeType": "",
-                                      "size": str(os.path.getsize(p)), "local": p})
-              return out
-
-
           def fetch(item, dest):
+              if os.path.exists(dest):
+                  return 0
               os.makedirs(os.path.dirname(dest), exist_ok=True)
               tmp = dest + ".part"
-              try:
-                  if item.get("local"):
-                      shutil.copyfile(item["local"], tmp)
-                  else:
-                      if item["mimeType"].startswith("application/vnd.google-apps."):
-                          url = "%s/%s/export?%s" % (API, item["id"], urllib.parse.urlencode(
-                              {"mimeType": "application/pdf", "key": KEY}))
-                      else:
-                          url = "%s/%s?%s" % (API, item["id"], urllib.parse.urlencode(
-                              {"alt": "media", "supportsAllDrives": "true", "key": KEY}))
-                      data = http_get(url)
-                      with open(tmp, "wb") as fh:
-                          fh.write(data)
-                  os.replace(tmp, dest)
-              except Exception:
-                  if os.path.exists(tmp):
-                      os.remove(tmp)
-                  raise
+              if item["mimeType"].startswith("application/vnd.google-apps."):
+                  url = "%s/%s/export?%s" % (API, item["id"], urllib.parse.urlencode(
+                      {"mimeType": "application/pdf", "key": KEY}))
+              else:
+                  url = "%s/%s?%s" % (API, item["id"], urllib.parse.urlencode(
+                      {"alt": "media", "supportsAllDrives": "true", "key": KEY}))
+              last = None
+              for a in range(3):
+                  try:
+                      with http_open(url) as r, open(tmp, "wb") as fh:
+                          shutil.copyfileobj(r, fh, 1024 * 1024)
+                      os.replace(tmp, dest)
+                      return os.path.getsize(dest)
+                  except Exception as e:
+                      last = e
+                      time.sleep(3 * (a + 1))
+              if os.path.exists(tmp):
+                  os.remove(tmp)
+              raise RuntimeError(str(last))
+
+
+          def clean_parts():
+              for root, _, names in os.walk("."):
+                  if ".git" in root.split(os.sep):
+                      continue
+                  for n in names:
+                      if n.endswith(".part"):
+                          try:
+                              os.remove(os.path.join(root, n))
+                          except OSError:
+                              pass
 
 
           def commit_push(msg):
-              subprocess.run(["git", "add", "-A"], check=True)
-              if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
-                  return
-              subprocess.run(["git", "commit", "-q", "-m", msg], check=True)
-              branch = os.environ.get("GITHUB_REF_NAME", "main")
-              for a in range(4):
-                  if subprocess.run(["git", "push", "-q", "origin", "HEAD:" + branch]).returncode == 0:
-                      return
+              """True if everything is pushed (or nothing to push)."""
+              clean_parts()
+              sh("git", "add", "-A")
+              if sh("git", "diff", "--cached", "--quiet") == 0:
+                  return True
+              sh("git", "commit", "-q", "-m", msg)
+              for a in range(8):
+                  if sh("git", "push", "-q", "origin", "HEAD:" + BRANCH) == 0:
+                      return True
                   time.sleep(5 * (a + 1))
-                  subprocess.run(["git", "pull", "-q", "--rebase", "origin", branch])
-              raise RuntimeError("git push failed")
+                  if sh("git", "pull", "-q", "--rebase", "--autostash", "origin", BRANCH) != 0:
+                      sh("git", "rebase", "--abort")
+              print("PUSH FAILED after retries", flush=True)
+              return False
 
 
           def build_plan(files):
@@ -275,32 +353,46 @@ jobs:
                       safe = stem[:140] + ext[:10]
                   code = course_code(name, f["path"])
                   dest = "%s/%s" % (code, safe)
-                  if dest.lower() in used:
-                      stem, ext = os.path.splitext(safe)
-                      dest = "%s/%s__%s%s" % (code, stem, f["id"][:6], ext)
+                  if dest.lower() in used:      # same name already planned (same file in 2 folders)
+                      continue
                   used.add(dest.lower())
                   plan.append((f, dest))
               return plan
 
 
+          def load_state():
+              try:
+                  return set(json.load(open(STATE)).get("done", []))
+              except Exception:
+                  return set()
+
+
+          def save_state(done):
+              json.dump({"done": sorted(done)}, open(STATE, "w"), indent=1)
+
+
           def main():
-              print("mode:", "Drive API" if KEY else "gdown (no API key: max 50 files per folder)")
-              files = []
-              if KEY:
-                  for fid in FOLDERS:
-                      try:
-                          got = list_tree(fid)
-                          print("folder", fid, "->", len(got), "files", flush=True)
-                          files += got
-                      except Exception as e:
-                          print("FOLDER FAILED (private or wrong link?)", fid, str(e)[:200], flush=True)
-                  for fid in SINGLE_FILES:
-                      try:
-                          files.append(get_single(fid))
-                      except Exception as e:
-                          print("FILE FAILED (private or wrong link?)", fid, str(e)[:200], flush=True)
-              else:
-                  files = list_local()
+              if not KEY:
+                  print("ERROR: DRIVE_API_KEY secret is missing")
+                  raise SystemExit(1)
+
+              done_roots = load_state()
+              todo_roots = [x for x in FOLDERS if x not in done_roots]
+              todo_singles = [x for x in SINGLE_FILES if ("single:" + x) not in done_roots]
+              print("folders: %d total, %d already finished (skipped), %d to scan" % (
+                  len(FOLDERS), len(FOLDERS) - len(todo_roots), len(todo_roots)), flush=True)
+
+              files, ok_roots = [], {}
+              with ThreadPoolExecutor(WORKERS) as ex:
+                  for rid, (res, ok) in zip(todo_roots, ex.map(list_tree, todo_roots)):
+                      files += res
+                      ok_roots[rid] = ok
+              for fid in todo_singles:
+                  try:
+                      files.append(get_single(fid))
+                      ok_roots["single:" + fid] = True
+                  except Exception as e:
+                      print("FILE FAILED", fid, str(e)[:200], flush=True)
 
               seen, uniq = set(), []
               for f in files:
@@ -317,12 +409,18 @@ jobs:
 
               done = failed = 0
               more = False
-              for i in range(0, len(todo), CHUNK):
+              pushed_ok = True
+              i = 0
+              while i < len(todo):
                   if time.time() - START > BUDGET:
                       more = True
-                      print("time budget reached, continuing in a new run")
+                      print("time budget reached, continuing in a new run", flush=True)
                       break
-                  chunk = todo[i:i + CHUNK]
+                  chunk, size = [], 0
+                  while i < len(todo) and len(chunk) < CHUNK_FILES and size < CHUNK_BYTES:
+                      chunk.append(todo[i])
+                      size += int(todo[i][0].get("size") or 0)
+                      i += 1
                   with ThreadPoolExecutor(WORKERS) as ex:
                       futs = {ex.submit(fetch, f, d): d for f, d in chunk}
                       for fu in as_completed(futs):
@@ -331,12 +429,33 @@ jobs:
                               done += 1
                           except Exception as e:
                               failed += 1
-                              print("FAILED", futs[fu], str(e)[:200])
-                  commit_push("Add files %d-%d of %d" % (i + 1, i + len(chunk), len(todo)))
-                  print("progress: %d added, %d failed, %d left" % (done, failed, len(todo) - i - len(chunk)), flush=True)
+                              print("FAILED", futs[fu], str(e)[:200], flush=True)
+                  if not commit_push("sync: %d/%d files" % (i, len(todo))):
+                      pushed_ok = False
+                      more = True
+                      break
+                  print("progress: %d added, %d failed, %d left" % (done, failed, len(todo) - i), flush=True)
+
+              # mark folders that are 100% present in the repo as finished
+              complete = {}
+              for f, d in plan:
+                  r = f["root"]
+                  complete[r] = complete.get(r, True) and os.path.exists(d)
+              newly = 0
+              for r, ok in ok_roots.items():
+                  if ok and complete.get(r, True):
+                      if r not in done_roots:
+                          newly += 1
+                      done_roots.add(r)
+              save_state(done_roots)
+              print("folders finished so far: %d (+%d this run)" % (len(done_roots), newly), flush=True)
 
               if failed and done and not more:
-                  more = True   # retry the failed ones in a fresh run
+                  more = True       # retry failed files in a fresh run
+              if not more and not all(ok_roots.values()):
+                  more = True       # some folder could not be listed: try again
+                  if not done and newly == 0:
+                      more = False  # nothing improved, stop looping
 
               if not more:
                   counts = {}
@@ -346,20 +465,17 @@ jobs:
                   lines = ["# VU files", "", "| Folder | Files |", "|---|---|"]
                   lines += ["| %s | %d |" % (k, v) for k, v in counts.items()]
                   lines += ["", "Total: %d" % sum(counts.values())]
-                  with open("FILES.md", "w") as fh:
-                      fh.write("\n".join(lines) + "\n")
-                  commit_push("Update FILES.md")
-                  print("ALL DONE. Total files:", sum(counts.values()))
+                  open("FILES.md", "w").write("\n".join(lines) + "\n")
+                  print("ALL DONE. Total files:", sum(counts.values()), flush=True)
 
+              commit_push("sync: update state")
               out = os.environ.get("GITHUB_OUTPUT")
               if out:
                   with open(out, "a") as fh:
                       fh.write("more=%s\n" % ("true" if more else "false"))
 
 
-          if __name__ == "__main__":
-              main()
-
+          main()
           PY
       - name: Continue in a new run if work remains
         if: steps.sync.outputs.more == 'true'
@@ -367,4 +483,4 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           N: ${{ github.event.inputs.n }}
         run: |
-          if [ "${N:-1}" -lt 40 ]; then gh workflow run drive-sync.yml -f n=$((${N:-1}+1)); fi
+          if [ "${N:-1}" -lt 60 ]; then gh workflow run drive-sync.yml -f n=$((${N:-1}+1)); fi
