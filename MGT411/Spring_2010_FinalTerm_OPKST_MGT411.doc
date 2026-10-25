@@ -1,0 +1,929 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff10\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
+{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f73\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times New Roman};}{\f74\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times New Roman};}
+{\f76\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times New Roman};}{\f77\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times New Roman};}{\f78\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times New Roman};}
+{\f79\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times New Roman};}{\f80\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times New Roman};}{\f81\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times New Roman};}
+{\f83\fswiss\fcharset238\fprq2 Arial CE{\*\falt Arial};}{\f84\fswiss\fcharset204\fprq2 Arial Cyr{\*\falt Arial};}{\f86\fswiss\fcharset161\fprq2 Arial Greek{\*\falt Arial};}{\f87\fswiss\fcharset162\fprq2 Arial Tur{\*\falt Arial};}
+{\f88\fswiss\fcharset177\fprq2 Arial (Hebrew){\*\falt Arial};}{\f89\fswiss\fcharset178\fprq2 Arial (Arabic){\*\falt Arial};}{\f90\fswiss\fcharset186\fprq2 Arial Baltic{\*\falt Arial};}{\f91\fswiss\fcharset163\fprq2 Arial (Vietnamese){\*\falt Arial};}
+{\f93\fmodern\fcharset238\fprq1 Courier New CE;}{\f94\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f96\fmodern\fcharset161\fprq1 Courier New Greek;}{\f97\fmodern\fcharset162\fprq1 Courier New Tur;}{\f98\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f99\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f100\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f101\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}
+{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\*\cs17 \additive \i \sbasedon10 Emphasis;}{\*\cs18 
+\additive \ul \sbasedon10 Hyperlink;}{\*\cs19 \additive \ul\cf8 \sbasedon10 FollowedHyperlink;}{\*\cs20 \additive \b\fs20 Keyboard;}{\s21\ql \li0\ri0\nowidctlpar
+\tx0\tx959\tx1918\tx2877\tx3836\tx4795\tx5754\tx6713\tx7672\tx8631\tx9590\faauto\rin0\lin0\itap0 \f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Preformatted;}{\s22\qc \li0\ri0\nowidctlpar\brdrt\brdrdb\brdrw15\brdrcf1 
+\faauto\rin0\lin0\itap0 \v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Bottom of Form;}{\s23\qc \li0\ri0\nowidctlpar\brdrb\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 
+\v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Top of Form;}{\*\cs24 \additive Sample;}{\*\cs25 \additive \b \sbasedon10 Strong;}{\*\cs26 \additive \fs20 Typewriter;}{\*\cs27 \additive \i Variable;}{\*\cs28 
+\additive \v\cf1 HTML Markup;}{\*\cs29 \additive \v Comment;}{\s30\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f2\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style2;}}{\*\listtable{\list\listtemplateid0{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}}{\listname ;}\listid1}{\list\listtemplateid1946591246{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4
+\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname 
+;}\listid223613487}{\list\listtemplateid-1168084938\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698699\'01\u-3880 ?;}{\levelnumbers;}\f10\fbias0 
+\fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid434985029}{\list\listtemplateid1581653062\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid-331060092\'02\'00.;}{\levelnumbers\'01;}\b \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li3600\jclisttab\tx3600\lin3600 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid754286457}}{\*\listoverridetable{\listoverride\listid223613487\listoverridecount0\ls1}{\listoverride\listid754286457\listoverridecount0\ls2
+}{\listoverride\listid434985029\listoverridecount0\ls3}}{\*\rsidtbl \rsid69990\rsid81185\rsid550463\rsid2118656\rsid2125309\rsid2440180\rsid3352780\rsid3946806\rsid4014471\rsid4855481\rsid5260211\rsid5844084\rsid5974169\rsid6317949\rsid6768463\rsid6817548
+\rsid7739186\rsid7881374\rsid8858534\rsid9387930\rsid9662054\rsid9781250\rsid10316185\rsid10949113\rsid10971966\rsid11036535\rsid11159815\rsid11948182\rsid12978644\rsid13243919\rsid13644845\rsid13849250\rsid14444739\rsid15346466\rsid16123827}
+{\*\generator Microsoft Word 10.0.2627;}{\info{\author chocolate}{\operator chocolate}{\creatim\yr2010\mo8\dy5\hr14\min39}{\revtim\yr2010\mo8\dy11\hr19\min38}{\version27}{\edmins76}{\nofpages12}{\nofwords2969}{\nofchars16928}{\*\company Salman}
+{\nofcharsws19858}{\vern16437}}\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\viewnobound1\rsidroot2118656 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang 
+{\pntxta ?}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta ?}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb ?}{\pntxta ?}}\pard\plain 
+\qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f10\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f1\insrsid5260211\charrsid5260211 FINALTERM  EXAMINATION 
+\par Spring 2010
+\par MGT411- Money &amp; Banking (Session - 3) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\insrsid5260211\charrsid5260211 Time: 90 min 
+\par Marks: 69
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 _____________ are organized to eliminate the need of costly information gathering.
+\par        \u9658\'3f Central banks
+\par        \u9658\'3f Commercial banks
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid12978644 \u9658\'3f Stock exchanges}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Insurance companies
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following financial instrument is }{\b\i\f1\ul\cf0\ulc0\insrsid5260211\charrsid5260211 NOT}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+ primarily used as store of value?
+\par        \u9658\'3f Banks loans
+\par        \u9658\'3f Asset-backed securities
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid12978644 \u9658\'3f Insurance contracts}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Stocks
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following is }{\b\i\f1\ul\cf0\ulc0\insrsid5260211\charrsid5260211 NOT }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 an example 
+of Centralized exchange?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f New York Stock Exchange
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid12978644 \u9658\'3f NASDAQ}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Large exchanges in London 
+\par        \u9658\'3f Large exchanges in Tokyo
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 A borrower is promis
+ed a $100 payment (including interest) one year from today. If  the lender has an 8% opportunity cost of money, he should be willing to accept what amount today?
+\par        \u9658\'3f Rs.100.00
+\par        \u9658\'3f Rs.108.20
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid12978644 \u9658\'3f Rs.92.59}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Rs.96.40
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\lang3081\langfe1033\langnp3081\ulc0\insrsid5260211\charrsid5260211 _________ measures the probability of worst outcome in any investment project.}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Variance
+\par        \u9658\'3f Standard deviation
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid16123827 \u9658\'3f Value at risk}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Hedging
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 The risk premium for an investment: 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid16123827 \u9658\'3f Increases with risk}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        \u9658\'3f Is a fixed amount added to the risk free return
+\par        \u9658\'3f Is negative for U.S. Treasury Securities
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Is negative for risk averse investors
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 The current yield on a $10,000, 5% coupon bond selling for $8,000 is:
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13243919 \u9658\'3f 6.25%}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f 7.50%
+\par        \u9658\'3f 8.00%
+\par        \u9658\'3f 5.00%
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 In which of the following bonds we may ignore the default risk?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Privately issued bonds
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13243919 \u9658\'3f Government issued bonds}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Bonds issued by Corporate
+\par        \u9658\'3f All of the given options
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx6840\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 A graph in which time to maturity is along x-axis and yield to maturity is along y-axis is called __________.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Government curve
+\par        \u9658\'3f SWAP curve
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13243919 \u9658\'3f Yield curve}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f LIBOR curve
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 According to the liquidity premium theory of the term structure, when the yield curve has its usual slope, the market expects
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Short-term interest rates to rise sharply
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13243919 \u9658\'3f Short-term interest rates to stay near their current levels}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Short-term interest rates to drop sharply
+\par        \u9658\'3f Short-term interest rates does not change
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Other things remaining equal, the liquidity premium theory is based upon the idea that ____________.
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\ulc0\insrsid5260211\charrsid14444739 \u9658\'3f Investors prefer long-term bonds}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid14444739 \u9658\'3f Investors prefer short-term bonds}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+
+\par        \u9658\'3f Investors are indifferent between short-term and long-term bonds
+\par        \u9658\'3f Investors prefer intermediate-term bonds}{\f1\cf0\ulc0\insrsid5260211 
+\par }{\f1\cf0\highlight7\ulc0\insrsid4855481\charrsid10316185 Reference:
+\par }{\field\flddirty{\*\fldinst {\f1\cf0\highlight7\ulc0\insrsid4855481\charrsid10316185  HYPERLINK "http://wps.aw.com/aw_mishkin_econmbfm_8/46/12000/3072105.cw/content/index.html" }{\f1\cf0\highlight7\ulc0\insrsid2125309\charrsid10316185 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000004f00000068007400740070003a002f002f007700700073002e00610077002e0063006f006d002f00610077005f006d006900730068006b0069006e005f00650063006f006e006d00620066006d005f0038002f00340036002f00310032003000300030002f00
+33003000370032003100300035002e00630077002f0063006f006e00740065006e0074002f0069006e006400650078002e00680074006d006c000000e0c9ea79f9bace118c8200aa004ba90bb600000068007400740070003a002f002f007700700073002e00610077002e0063006f006d002f00610077005f006d00690073
+0068006b0069006e005f00650063006f006e006d00620066006d005f0038002f00340036002f00310032003000300030002f0033003000370032003100300035002e00630077002f0063006f006e00740065006e0074002f0069006e006400650078002e00680074006d006c000000795881f43b1d7f48af2c825dc4852763
+00000000a5ab0000ff}}}{\fldrslt {\cs18\f1\ul\highlight7\ulc0\insrsid4855481\charrsid10316185 http://wps.aw.com/aw_mishkin_econmbfm_8/46/12000/3072105.cw/content/index.html}}}{\f1\cf0\highlight7\ulc0\insrsid4855481\charrsid10316185 
+\par Question#10}{\f1\cf0\ulc0\insrsid4855481\charrsid4855481 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 A stand by letter of credit is a form of:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Loan
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid10316185 \u9658\'3f Insurance}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Security
+\par        \u9658\'3f Deposits
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following is the similiraity between pension funds and insurance companies?
+\par        \u9658\'3f Pooling the savings of many investors
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid10316185 \u9658\'3f Spreading risk}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Accepting deposits
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Both pool the savings of many investors and spread risk
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following is included in the functions of}{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+both Finance company as well as Government Sponsored Enterprise?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Consumer loans
+\par        \u9658\'3f Farm loans 
+\par        \u9658\'3f Business loans
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Mortgages}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following is extended usually overnight to sound institutions on a very short-term basis?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Primary credit}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Secondary credit
+\par        \u9658\'3f Seasonal credit
+\par        \u9658\'3f All of the given options
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 If Md reflects money demand, then we can write the equation for money demand as: 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Md =VY
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid5974169 \u9658\'3f Md = (1/V) PY}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        }{\f1\cf0\ulc0\insrsid5260211\charrsid5974169 \u9658\'3f Md = PY}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Md = V(Y/P)
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 If a central bank sets an explicit inflation target it would require which one of the following? 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f More emphasis on the interest rate target and less on a money target}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f To shift their focus entirely to a nominal interest rate target
+\par        \u9658\'3f Willingness to live with more volatility in the interest rate
+\par        \u9658\'3f To give up control of targeting the monetary base
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Banking is risky because __________.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Depository institutions are highly leveraged}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Banks do in all the lines of banking trades
+\par        \u9658\'3f Banks pay less for the deposits
+\par        \u9658\'3f All of the given options
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 A U.S. institution, United Bank, buys some financial assets denominated in British pounds. Fluctuations in the dollar value of the pound will give rise to:
+\par        \u9658\'3f Credit risk
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Operational risk
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Foreign exchange risk}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Country risk
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 In general, if the financial institution's balance sheet displays assets and liabilities that are "mis-matched" to a significant degree, the institution faces:
+
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Operational risk
+\par        \u9658\'3f Sovereign risk
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Interest rate risk}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Liquidity risk
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Excess reserve-to-deposit ratio is a factor that affects the quantity of money. This factor is controlled by which of the following?
+\par        \u9658\'3f Central bank
+\par        \u9658\'3f Bank regulators
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Commercial banks}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Non bank public
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Required reserve-to-deposit ratio is a factor that affects the quantity of money. This factor is controlled by which of the following?
+\par        \u9658\'3f Central bank
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Bank regulators}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Commercial banks
+\par        \u9658\'3f Non bank public
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Monetary Base is a factor that affects the quantity of money. This factor is controlled by which of the following?
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid2440180 \u9658\'3f Central bank}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Bank regulators
+\par        \u9658\'3f Commercial banks
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Non bank public
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 In the long run, if we ignore changes in velocity then which of the following statement is true?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid5844084 \u9658\'3f Inflation will equal money growth less the growth in potential output}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Inflation will equal the rate of money growth
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Inflation will be zero
+\par        \u9658\'3f Inflation will equal money growth plus the growth in potential output
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Aggregate demand curve slopes down because of many reasons which of the following is }{\b\i\f1\ul\cf0\ulc0\insrsid5260211\charrsid5260211 NOT}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211  the reason of its downward slope?
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid11159815 \u9658\'3f Higher inflation increases real money balances}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Higher inflation induces policymakers to raise the real interest rate
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Rising inflation also reduces wealth
+\par        \u9658\'3f Rising inflation lowers consumption
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which of the following will not shift Aggregate Supply left?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid11159815 \u9658\'3f A new cost-reducing production technology}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f A sudden increase in energy prices
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f An increase in the expected price
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f An increase in the wage rate
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which one of the following statement is true for investment if all other factors are held constant?
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid11159815 \u9658\'3f An investment with less risk should sell for a lower price and offer a lower return}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f An investment with more risk should sell for a lower price and offer a higher return
+\par        \u9658\'3f An investment with less risk should sell for a lower price and offer a higher return
+\par        \u9658\'3f An investment with more risk should offer a lower return and sell for a higher price
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Zero-Coupon Bonds are pure discount bonds since they sell at a price __________.
+\par        \u9658\'3f Equal their face value
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid9662054 \u9658\'3f Below their face value}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Above their face value
+\par        \u9658\'3f None of the given options
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 __________ pool money from individuals and invest in different portfolio and return is distributed in different share holders.
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid6768463 \u9658\'3f Mutual funds}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Investment banks
+\par        \u9658\'3f Brokers
+\par        \u9658\'3f Finance companies
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par If interest rate on liabilities is 8% and interest rate on deposits is 10% what be interest margin?
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f 18% 
+\par        \u9658\'3f 10%
+\par        \u9658\'3f 8%
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid15346466 \u9658\'3f 2%}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 The two sides of the bank\rquote s balance sheet often do not match up this phenomena creates interest rate risk. How?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\ulc0\insrsid5260211\charrsid9781250 \u9658\'3f
+ There is interest-rate risk because liabilities tend to be long term while assets tend to be short term}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid9781250 \u9658\'3f There is interest-rate risk because liabilities tend to be short term while assets tend to be long term}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        \u9658\'3f There is interest-rate risk because both the liabilities assets tend to be long term 
+\par        \u9658\'3f There is interest-rate risk because both the liabilities assets tend to be short term 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 What is the impact of growth of international banking?
+\par }\pard \ql \li0\ri0\widctlpar\tx5730\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f It increase the competition in the banking market
+\par        \u9658\'3f It increase the efficiency of banking market
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Profits are harder to come as borrowers and depositors have more options 
+\par }\pard \ql \li0\ri0\widctlpar\tx5730\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13644845 \u9658\'3f All of the given options}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which of the following is the most important part of a bank examination?
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13644845 \u9658\'3f To examine past-due loans}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f To examine the long term loans 
+\par        \u9658\'3f To examine the liquidity of the banks
+\par        \u9658\'3f To examine the management of the bank
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par If inflation were__________, an employer wishing to cut labor costs would need to cut nominal wages, which is difficult to do.
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid10971966 \u9658\'3f Zero}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Low 
+\par        \u9658\'3f High
+\par        \u9658\'3f Stable 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which of the following are functions of a central bank?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Regulating banks
+\par        \u9658\'3f Clearing checks
+\par        \u9658\'3f Acting as lender of last resort
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid11948182 \u9658\'3f All of the above}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 During the period of _______the central bank decreases the interest rate in order to boost the economic activities in the country.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Boom
+\par        \u9658\'3f Recovery
+\par        \u9658\'3f Recession or boom 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid3352780 \u9658\'3f Recession}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par Which of the following side of a balance sheet represent that central bank is a bankers\rquote  bank?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Asset side of the balance sheet 
+\par        \u9658\'3f Liabilities side of the balance sheet 
+\par        \u9658\'3f Equity side of the balance sheet 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid69990 \u9658\'3f The whole balance sheet}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 \'93Politicians must clearly state their policy goals and the tradeoffs among them\'94 represent which of the following principle of central bank design?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Independence
+\par        \u9658\'3f Decision making by committee
+\par        \u9658\'3f Accountability and transparency
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid3352780 \u9658\'3f Policy framework}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 What is (are) the prerequisite of smooth functioning of central bank?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Transparency
+\par        \u9658\'3f Independence
+\par        \u9658\'3f Accountability
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid9387930 \u9658\'3f All of the given options}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 When the currency that people are holding loses value much rapidly, what will be the behavior of people?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid9387930 \u9658\'3f The will spend money as quickly as possible}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f They will try to save the money for future
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid9387930 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f They will not bother the value of money 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f None of the given option 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 41    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 The quantity of money people hold for transaction purposes does NOT depends upon:
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Nominal income 
+\par        \u9658\'3f Cost of holding money 
+\par        \u9658\'3f Availability of substitutes
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid13849250 \u9658\'3f Real income}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 42    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Higher the level of uncertainty about the future, the higher the demand for money and the _________ the velocity of money.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Incomplete information 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid81185 \u9658\'3f Lower}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        \u9658\'3f Higher 
+\par        \u9658\'3f Stable 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 43    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1067{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+The rate will change if one of the following components of aggregate demand that is not sensitive to the real interest rate goes up (or down) or if potential output changes.
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Consumption 
+\par        \u9658\'3f Investment 
+\par        \u9658\'3f Net exports 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid7881374 \u9658\'3f Govt. spending}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 44    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1068{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Policymakers set their short-run nominal interest rate targets in response to economic conditions in general and _____________in particular.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid8858534 \u9658\'3f Inflation}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Deposits 
+\par        \u9658\'3f Exports 
+\par        \u9658\'3f Imports 
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 45    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1069{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 The monetary policy reaction curve is located so that the central bank\rquote 
+s target inflation is consistent with the long-run ____________, which equates aggregate demand with potential output.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid8858534 \u9658\'3f Real interest rate}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        \u9658\'3f Nominal interest rate 
+\par        \u9658\'3f Effective interest rate
+\par        \u9658\'3f None of the given options 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 46    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1070{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 With a higher inflation target, the central bank will set a lower current __________ at every 
+level of current inflation, shifting the monetary policy reaction curve to the right.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid8858534 \u9658\'3f Real interest rate}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par        \u9658\'3f Nominal interest rate 
+\par        \u9658\'3f Effective interest rate
+\par        \u9658\'3f None of the given options 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 47    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1071{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Which of the following is shown by the aggregate demand curve?
+\par }\pard \ql \li0\ri0\widctlpar\tx360\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid8858534 \u9658\'3f How sensitive current output is to given change in current inflation}{
+\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par        \u9658\'3f Current output is not sensitive to given change in current inflation
+\par        \u9658\'3f Current output and current inflation both move in the same direction
+\par        \u9658\'3f None of the given options 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 48    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1072{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 If current output is lower than potential output, the resulting recessionary gap places pressure towards ________ on inflation, causing the short-run aggregate supply curve to shift downward.
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211        \u9658\'3f Right 
+\par        \u9658\'3f Left
+\par        \u9658\'3f Upward 
+\par        }{\f1\cf0\highlight7\ulc0\insrsid5260211\charrsid8858534 \u9658\'3f Downward}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211  
+\par     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 49    ( Marks: 3 ) 
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1073{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 What is the effect of an increase in potential output on inflation and output?}{\f1\cf0\ulc0\insrsid5260211 
+\par }{\f1\cf0\highlight7\ulc0\insrsid6817548\charrsid6817548 Solution:-}{\f1\cf0\ulc0\insrsid6817548 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6817548 {\b\f0\cf2\ulc0\insrsid6817548\charrsid6817548    }{\b\f0\ul\cf0\ulc0\insrsid6817548\charrsid6817548 The Effects of an increase in potential Output on Inflation and Output}{
+\f0\ul\cf0\ulc0\insrsid6817548\charrsid6817548  
+\par }{\f0\cf0\ulc0\insrsid6817548\charrsid6817548 
+An increase in potential output shifts the LRAS curve to the right. In the short run, current output remains unchanged. But since current output is now below potential output, the resulting recessionary gap places downward pressure on inflation and output
+ eventually begin to rise.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid6817548\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 50    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1074{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Give an account of different components of aggregate demand?}{\f1\cf0\ulc0\insrsid5260211 
+\par }{\f1\cf0\highlight7\ulc0\insrsid4014471\charrsid11036535 Solution:-}{\f1\cf0\ulc0\insrsid4014471 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid4014471 {\f0\cf0\ulc0\insrsid4014471\charrsid4014471 Aggregate demand is divided into four components:
+\par {\listtext\pard\plain\b\insrsid4014471\charrsid4014471 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid4014471 {\f0\cf0\ulc0\insrsid4014471\charrsid4014471 Consumption,
+\par {\listtext\pard\plain\b\insrsid4014471\charrsid4014471 \hich\af0\dbch\af0\loch\f0 2.\tab}Investment,
+\par {\listtext\pard\plain\b\insrsid4014471\charrsid4014471 \hich\af0\dbch\af0\loch\f0 3.\tab}Government purchases,
+\par {\listtext\pard\plain\b\insrsid4014471\charrsid4014471 \hich\af0\dbch\af0\loch\f0 4.\tab}Net exports
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid4014471 {\f0\cf0\ulc0\insrsid4014471\charrsid4014471 
+Investment is the most important of the components of aggregate demand that are sensitive to changes in the real interest rate. Consumption and net exports also respond to the real interest rate;
+\par Aggregate Govt.\rquote s Net Demand = Consumption + Investment + Purchases + Exports
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid4014471\charrsid5260211 
+\par }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 51    ( Marks: 5 ) 
+\par {\listtext\pard\plain\b\f1\insrsid2125309\charrsid5260211 \hich\af1\dbch\af0\loch\f1 a.\tab}}\pard \qj \fi-360\li360\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\tx360\faauto\ls1\rin0\lin360\itap0 {\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 
+{\pict{\*\picprop\shplid1075{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 What does the slope of aggregate demand curve show?}{\f1\cf0\ulc0\insrsid5260211 
+\par }\pard \qj \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\tx360\faauto\rin0\lin0\itap0\pararsid11036535 {\b\f1\cf0\highlight7\ulc0\insrsid11036535\charrsid11036535 Solution:-}{\b\f1\cf0\ulc0\insrsid11036535 
+\par }{\f0\cf0\ulc0\insrsid11036535\charrsid11036535 
+The slope of the aggregate demand curve tells us how sensitive current output is to a given change incurrent inflation. When current inflation rises, policy makers react by raising the real interest rate, which reduces consumption, investment, and net exp
+orts. The result is a reduction in aggregate demand.
+\par {\listtext\pard\plain\f1\insrsid5260211\charrsid5260211 \hich\af1\dbch\af0\loch\f1 b.\tab}}\pard \qj \fi-360\li360\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\tx360\faauto\ls1\rin0\lin360\itap0\pararsid11036535 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+In which situations aggregate demand curve will be flat and steep?}{\f1\cf0\ulc0\insrsid11036535 
+\par }\pard \qj \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\tx360\faauto\rin0\lin0\itap0\pararsid11036535 {\f1\cf0\ulc0\insrsid11036535 Solution:-
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid11036535 {\f0\cf0\ulc0\insrsid11036535\charrsid11036535 The aggregate demand curve will be relatively
+\par {\listtext\pard\plain\f10\insrsid11036535\charrsid11036535 \loch\af10\dbch\af0\hich\f10 \'d8\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls3\rin0\lin720\itap0\pararsid11036535 {\f0\cf0\ulc0\insrsid11036535\charrsid11036535 
+Flat if current output is very sensitive to inflation (a change in current inflation causes a large movement in current output)
+\par {\listtext\pard\plain\f10\insrsid11036535\charrsid11036535 \loch\af10\dbch\af0\hich\f10 \'d8\tab}Steep if current output is not very sensitive to inflation
+\par }\pard \qj \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\tx360\faauto\rin0\lin0\itap0\pararsid11036535 {\f1\cf0\ulc0\insrsid11036535\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 52    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1076{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  \'93}{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Responsible fiscal policy is essential to the success of monetary policy\'94. Discuss.}{\f1\cf0\ulc0\insrsid5260211 
+\par }{\f1\cf0\highlight7\ulc0\insrsid6317949\charrsid6317949 Solution:-}{\f1\cf0\ulc0\insrsid6317949 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\f0\cf0\ulc0\insrsid6317949\charrsid6317949 The monetary policy framework exists to resolve the ambiguities that arise in the course of the Central bank\rquote 
+s work and also clarifies the likely responses when goals are
+ in conflict with one another. In some cases the government sets an explicit numerical target for inflation, while in others the central bank defines the target Central bankers face the tradeoff between inflation and growth on a daily basis.
+\par Fiscal policy control the government\rquote s tax and expenditure policies to stabilize output and inflation. }{\f0\insrsid6317949\charrsid6317949 
+When the economy is sluggish, the government may cut taxes, leaving taxpayers with extra cash to spend and thereby increasing levels of consumption
+. An increase in public-works spending may likewise pump cash into the economy, having an expansionary effect. Conversely, a decrease in government spending or an increase in taxes tends to cause the economy to contract.}{
+\f0\cf0\ulc0\insrsid6317949\charrsid6317949 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid6317949\charrsid5260211 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5260211\charrsid5260211     }{\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Question No: 53    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid2125309\charrsid5260211 {\pict{\*\picprop\shplid1077{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5260211\charrsid5260211  }{\f1\cf0\ulc0\insrsid5260211\charrsid5260211 Why monetary base is called as high powered money? What are the factors on which the amount of excess reserves depends that a bank holds ?}{
+\f1\cf0\ulc0\insrsid5260211 
+\par }{\f1\cf0\highlight7\ulc0\insrsid6317949\charrsid6317949 Solution:-}{\f1\cf0\ulc0\insrsid6317949 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\f0\cf0\ulc0\insrsid6317949\charrsid6317949 The monetary policy framework exists to resolve the ambiguities that arise in the course of the Central bank\rquote 
+s work and also clarifies the likely responses when goals are in conflict with one another. In some cases the government sets an explicit numerical
+ target for inflation, while in others the central bank defines the target Central bankers face the tradeoff between inflation and growth on a daily basis.
+\par Fiscal policy control the government\rquote s tax and expenditure policies to stabilize output and inflation. }{\f0\insrsid6317949\charrsid6317949 
+When the economy is sluggish, the government may cut taxes, leaving taxpayers with extra cash to spend and thereby increasing levels of consumption. An increase in public-works spending may likewise pump cash into the economy, having an expansionary eff
+ect. Conversely, a decrease in government spending or an increase in taxes tends to cause the economy to contract.}{\f0\cf0\ulc0\insrsid6317949\charrsid6317949 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\b\f0\cf0\ulc0\insrsid6317949\charrsid6317949 What are the factors on which the amount of excess reserves depends that a bank holds?
+\par (Related data)
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\f0\cf0\ulc0\insrsid6317949\charrsid6317949 Currency in the hands of the public and the reserves of the banking system are the two
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\f0\cf0\ulc0\insrsid6317949\charrsid6317949 Components of the monetary base, also called high-powered money.}{\b\f0\cf2\ulc0\insrsid6317949\charrsid6317949 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0\pararsid6317949 {\f0\cf0\ulc0\insrsid6317949\charrsid6317949 The desire of banks to hold excess reserves and the desire of account holders to withdraw cash both reduce
+ the impact of a given change in reserves on the total deposits in the system.
+\par The more excess reserves banks desire to hold, and the more cash that is withdrawn, the smaller the impact. The amount of excess reserves a bank holds depends on the costs and benefits of holding them,
+\par The cost is the interest foregone
+\par The benefit is the safety from having the reserves in case there is an increase in withdrawals
+\par The higher the interest rate, the lower banks\rquote  excess reserves will be; the greater the concern over possible deposit withdrawals, the higher the excess reserves will be
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid6317949\charrsid5260211 
+\par }}

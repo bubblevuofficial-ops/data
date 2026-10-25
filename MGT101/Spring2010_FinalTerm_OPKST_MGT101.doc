@@ -1,0 +1,1182 @@
+{\rtf1\adeflang1025\ansi\ansicpg1256\uc1\adeff1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f37\froman\fcharset238\fprq2 Times New Roman CE;}
+{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f43\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f47\fswiss\fcharset238\fprq2 Arial CE;}
+{\f48\fswiss\fcharset204\fprq2 Arial Cyr;}{\f50\fswiss\fcharset161\fprq2 Arial Greek;}{\f51\fswiss\fcharset162\fprq2 Arial Tur;}{\f52\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f53\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}
+{\f54\fswiss\fcharset186\fprq2 Arial Baltic;}{\f55\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{
+\s15\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 
+\rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{\s17\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext17 Normal (Web);}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid-1329959598{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'d8;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listname ;}\listid110586952}{\list\listtemplateid-892564518{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}
+\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc2
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'03.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 }{\listname ;}\listid2114978214}{\list\listtemplateid1733736500
+{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'d8;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}
+\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listname ;}\listid2128155566}{\list\listtemplateid920697876{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01v;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f1\fs24 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listname ;}\listid2130540285}}{\*\listoverridetable{\listoverride\listid2128155566\listoverridecount0\ls1}{\listoverride\listid110586952\listoverridecount0\ls2}{\listoverride\listid2114978214\listoverridecount0\ls3}
+{\listoverride\listid2130540285\listoverridecount0\ls4}}{\*\rsidtbl \rsid3243459\rsid15234504}{\*\generator Microsoft Word 11.0.0000;}{\info{\operator Amira}{\creatim\yr2010\mo8\dy9\hr14\min57}{\revtim\yr2010\mo8\dy9\hr14\min57}{\version2}{\edmins0}
+{\nofpages12}{\nofwords2580}{\nofchars14708}{\nofcharsws17254}{\vern24615}{\*\password 00000000}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aendnotes\donotembedsysfont0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\rsidroot15234504 \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}
+{\*\pnseclvl9\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af1\afs24\alang1025 \ltrch\fcs0 
+\f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 FINALTERM  EXAMINATION 
+\par Spring 2010
+\par MGT101- Financial Accounting (Session - 4) 
+\par }\pard \ltrpar\qr \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 Time: 90 min 
+\par Marks: 69
+\par \rtlrow}\trowd \irow0\irowband0\rtlrow\ts11\trqr\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 Student Info\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 \trowd \irow0\irowband0\rtlrow
+\ts11\trqr\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row \rtlrow}\trowd \irow1\irowband1\rtlrow\ts11\trqr\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459  StudentID:\cell  \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 \trowd \irow1\irowband1\rtlrow\ts11\trqr\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 
+\clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row \rtlrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459  Center:\cell 
+  OPKST\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 \trowd \irow2\irowband2\rtlrow\ts11\trqr\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row \rtlrow}\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 
+ ExamDate:\cell   09 Aug 2010\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 \trowd \irow3\irowband3\lastrow \rtlrow\ts11\trqr\trrh500\trleft0
+\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt
+\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 
+\ltrch\fcs0 \insrsid3243459 
+\par \rtlrow}\trowd \irow0\irowband0\lastrow \rtlrow\ts11\trqr\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ltrpar\ql \li0\ri0\nowidctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 For Teacher's Use Only\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459 \trowd \irow0\irowband0\lastrow \rtlrow
+\ts11\trqr\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3\tblind60\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\insrsid3243459   }{\rtlch\fcs1 
+\ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459   }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 1\cell 2\cell 3\cell 4\cell 5\cell 6\cell 7\cell 8\cell Total\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 9\cell 10\cell 11\cell 12\cell 13\cell 14
+\cell 15\cell 16\cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow2\irowband2\ltrrow\ts11\trrh500\trleft0\trbrdrt
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow3\irowband3\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 17\cell 18\cell 19\cell 20\cell 21\cell 22\cell 23\cell 24\cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 \trowd \irow4\irowband4\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell 
+\cell \cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow5\irowband5\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 25\cell 26\cell 27\cell 28\cell 29\cell 30\cell 31\cell 32\cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow6\irowband6\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 \trowd \irow7\irowband7\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 33\cell 34\cell 35\cell 36\cell 37\cell 
+38\cell 39\cell 40\cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow8\irowband8\ltrrow\ts11\trrh500\trleft0\trbrdrt
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow9\irowband9\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 41\cell 42\cell 43\cell 44\cell 45\cell 46\cell 47\cell 48\cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 \trowd \irow10\irowband10\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell 
+\cell \cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow11\irowband11\ltrrow\ts11\trrh500\trleft0\trbrdrt
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 Q No.\cell 49\cell 50\cell 51\cell 52\cell 53\cell  \cell  \cell  \cell \cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 \trowd \irow12\irowband12\ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af0 \ltrch\fcs0 
+\b\f0\cf0\ulc0\insrsid3243459 \trowd \irow13\irowband13\lastrow \ltrrow\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1\tblind5\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \page }{\rtlch\fcs1 \af0 \ltrch\fcs0 \cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{
+\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 An organization operating with the objective of making profit from the sale of goods or services is called:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Transaction
+\par        \u9658\'3f Business
+\par        \u9658\'3f Society
+\par        \u9658\'3f Trust
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 We can say that the business is in profit, when:
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1440\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Assets exceed Expenditure 
+\par        \u9658\'3f Assets exceed Liabilities
+\par        \u9658\'3f Income exceeds Expenditure
+\par        \u9658\'3f Income exceeds Liabilities
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following account balance will be shown on debit side of Trial Balance? (It is assumed that all account balances are shown on normal balance). 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Capital account 
+\par        \u9658\'3f Sundry creditors account
+\par        \u9658\'3f Accounts payable account 
+\par        \u9658\'3f Cash account 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 If the cost of sales is Rs. 60,000, sales are Rs. 95,000 and operating expenses are Rs.20,000 during the year. What would be the Net Profit?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1965\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx1965\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Rs.15,000
+\par        \u9658\'3f Rs. 35,000
+\par        \u9658\'3f Rs. 55,000
+\par        \u9658\'3f Rs. 60,000
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 In cost of goods sold statement the \lquote cost of goods manufactured\rquote  is equal to:
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Total factory cost + Opening work in process + Ending work in process
+\par        \u9658\'3f Total factory cost + Opening work in process \endash  Ending work in process
+\par        \u9658\'3f Total factory cost - Opening work in process + Ending work in process
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx0\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Ending work in process +Total factory cost \endash  Opening work in process 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 If, Cost of machine\tab = Rs.400, 000
+\par Useful life\tab \tab = 5 years
+\par Residual value \tab = Rs.25, 000
+\par The depreciation of machine per year using straight line method is?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Rs. 160,000
+\par        \u9658\'3f Rs. 96,000
+\par        \u9658\'3f Rs. 75,000
+\par        \u9658\'3f Rs. 57,600
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Find out the missing value of an Accounting Equation with the help of given data:
+\par 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2214\clshdrawnil \cellx2106\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1778\clshdrawnil \cellx3884\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Cash \cell Rs.1, 00, 000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2214\clshdrawnil \cellx2106\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1778\clshdrawnil \cellx3884
+\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Debtors\cell Rs.10, 000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow
+\ts11\trqc\trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2214\clshdrawnil 
+\cellx2106\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1778\clshdrawnil \cellx3884\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Other Assets\cell Rs. 1,000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\trowd \irow2\irowband2\ltrrow\ts11\trqc\trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth2214\clshdrawnil \cellx2106\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1778\clshdrawnil \cellx3884\row \ltrrow}\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Owner\rquote s equity\cell Rs. 1, 000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow3\irowband3\lastrow \ltrrow
+\ts11\trqc\trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2214\clshdrawnil 
+\cellx2106\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth1778\clshdrawnil \cellx3884\row }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Rs. 12,000 liabilities
+\par        \u9658\'3f Rs. 11,000 liabilities
+\par        \u9658\'3f Rs. 1, 10,000 liabilities
+\par        \u9658\'3f Rs. 1, 11,000 liabilities
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Upon checking the Bank Statement against the Cash Book by Mr. A, It was discovered that an amount of Rs.120 for dividend from XYZ Co. had not been entered in the Cash Boo
+k. Which of the following entry should be recorded to rectify the mistake?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Bank Account(Dr.) and Dividend Account (Cr.)
+\par        \u9658\'3f XYZ Co. Account (Dr.) and Bank Account (Cr.)
+\par        \u9658\'3f Dividend Account (Dr.) and Bank Account (Cr.)
+\par        \u9658\'3f Bank Account (Dr.) and XYZ Co. Account (Cr.)
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which one of the following transactions will cause the balance in Mr. Terry's Cash Book to be greater than his Bank Statement balance?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f A cheque is drawn but not yet presented at the bank for payment
+\par        \u9658\'3f The bank has not yet notified to Mr. Terry about a dishonoured cheque
+\par        \u9658\'3f A credit transfer into Terry's Bank Account
+\par        \u9658\'3f A cheque payment of Rs.101 is recorded in the Cash Book as Rs.110
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 If Bad Debts written off are given in adjustment, then which of the following entry for bad debts written off is }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459 CORRECT}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 ? 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Bad debts a/c (Dr)  and  Trading a/c (Cr)
+\par        \u9658\'3f Provision for Bad and Doubtful debts a/c (Dr) and Bad debts a/c(Cr)
+\par        \u9658\'3f Bad debts a/c (Dr) and debtors a/c (Cr)
+\par        \u9658\'3f Trading a/c (Dr) and Bad debts a/c (Cr)
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is (are) benefit/s of subsidiary ledger accounts to business?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f It tells about customer attitude of payments
+\par        \u9658\'3f It can be checked against the control account to pick up recording errors
+\par        \u9658\'3f It tells about the complete history of transactions of business client
+\par        \u9658\'3f All of the given options
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 When one or both aspects of a transaction are recorded in the wrong class or category of account, this is called:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Error of principle
+\par        \u9658\'3f Error of omission
+\par        \u9658\'3f Error of commission
+\par        \u9658\'3f Error of original entry 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is the first phase of the typical operating cycle?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Sell goods and services to customers
+\par        \u9658\'3f Purchase goods and services
+\par        \u9658\'3f Receive cash from customers
+\par        \u9658\'3f Pay cash to suppliers
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 In which type of a business, the owner and his business are considered same in the eyes of law?
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx3420\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Sole proprietorship
+\par        \u9658\'3f Public companies 
+\par        \u9658\'3f Limited companies 
+\par        \u9658\'3f Listed companies 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following clause/s are discussed in Memorandum of Association of Companies?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Name of company 
+\par        \u9658\'3f Place of registered office of company 
+\par        \u9658\'3f Objective of the company 
+\par        \u9658\'3f All of the given options
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 6% Debentures Account Rs. 3, 00,000. What amount of interest on debentures should be shown in profit and loss account?
+\par }\pard \ltrpar\qj \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Rs.  6,000
+\par        \u9658\'3f Rs. 3, 00,000
+\par        \u9658\'3f Rs. 18,000
+\par        \u9658\'3f Rs.  3, 18,000 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is a type of business formed under the Companies Ordinance 1984?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Sole-Proprietorship
+\par        \u9658\'3f Partnership
+\par        \u9658\'3f Joint Stock Company
+\par        \u9658\'3f All of the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3243459 
+If company has distributable profit is Rs. 4, 90,000. Profit sharing share ratio of Mr. A, Mr. B and Mr. C is 2:3:5 respectively what will be the Profit share for Mr. C in distributable profit. 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \insrsid3243459        \u9658\'3f }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Rs. 98,000
+\par        \u9658\'3f Rs. 1, 47,000
+\par        \u9658\'3f Rs. 2, 45,000
+\par        \u9658\'3f Rs. 3, 43,000
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 When we close bad debts account, which of the following account is credited?
+\par        \u9658\'3f Profit and loss account
+\par        \u9658\'3f Bad debt account
+\par        \u9658\'3f Debtor account
+\par        \u9658\'3f Provision for bad debt account
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx5865\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Stock account is credited and creditors account is debited, which of the following is reflecting the statement?
+\par        \u9658\'3f Discount received
+\par        \u9658\'3f Goods returned
+\par        \u9658\'3f Purchase of goods on credit
+\par        \u9658\'3f Payment of goods 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following justifies when profit is earned?
+\par        \u9658\'3f Assets exceed Expenditure
+\par        \u9658\'3f Income exceeds Expenditure
+\par        \u9658\'3f Cash Inflow exceeds Cash Outflow
+\par        \u9658\'3f Income exceeds Liabilities
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 In a partnership of Mr. X and Mr. Y, the share of profit of Mr. X is Rs.3,840 and the share of profit of Mr. Y is Rs. 5,760. What will be the ratio of their share?
+\par        \u9658\'3f 1:2
+\par        \u9658\'3f 2:3
+\par        \u9658\'3f 3:2
+\par        \u9658\'3f 2:1
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is the major benefit of a partnership over a sole proprietorship?
+\par        \u9658\'3f Unlimited liability
+\par        \u9658\'3f Single tax filing
+\par        \u9658\'3f Difficult ownership resale
+\par        \u9658\'3f Raising capital
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Profits earned by partnerships compensate the owners for which of the following?
+\par        \u9658\'3f Personal services rendered to the business
+\par        \u9658\'3f Capital invested in the business
+\par        \u9658\'3f Assuming the risks of ownership
+\par        \u9658\'3f All of the given options
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 For which of the following share premium can not be utilized?
+\par        \u9658\'3f To meet the expenses of issue of shares
+\par        \u9658\'3f To issue bonus shares
+\par        \u9658\'3f None of the given options
+\par        \u9658\'3f To write off preliminary expenses
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 According to the statement of cash flows following are the examples of investing activities except:
+\par        \u9658\'3f Sales of machinery
+\par        \u9658\'3f Capital invested by the owners 
+\par        \u9658\'3f Purchase of building for the business use
+\par        \u9658\'3f Cash received from the disposal of equipment
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx7200\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is one of the major factors affecting the market value of a company\rquote s shares?
+\par        \u9658\'3f Current ratio
+\par        \u9658\'3f Earning per share
+\par        \u9658\'3f Return on investment
+\par        \u9658\'3f Return on asset
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 In statement of cash flows, a payment of cash dividends is related to:
+\par        \u9658\'3f Investing activity
+\par        \u9658\'3f Financing activity  
+\par        \u9658\'3f Operating activity
+\par        \u9658\'3f Cash flows from operations
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is the investment in business by the owners?
+\par        \u9658\'3f Capital
+\par        \u9658\'3f Liability
+\par        \u9658\'3f Asset
+\par        \u9658\'3f Profit
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is an example of revenue in business enterprises?
+\par        \u9658\'3f Accounts payable
+\par        \u9658\'3f Accounts receivable
+\par        \u9658\'3f Commission received
+\par        \u9658\'3f Commission paid
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following system of recording transactions is based on dual aspect concept of accounting?
+\par        \u9658\'3f Double entry system
+\par        \u9658\'3f Cash accounting system
+\par        \u9658\'3f Single entry system
+\par        \u9658\'3f Management system
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is a book of original entry in which all the vouchers are recorded at first?
+\par        \u9658\'3f General Journal
+\par        \u9658\'3f General Ledger
+\par        \u9658\'3f Trial Balance
+\par        \u9658\'3f Balance Sheet
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 What is the treatment of Accumulated depreciation in Balance Sheet?
+\par        \u9658\'3f Treated as an expense
+\par        \u9658\'3f Treated as an asset
+\par        \u9658\'3f Treated as a contra asset
+\par        \u9658\'3f Treated as an income
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx540\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is/are }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 TRUE}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459  about fixed assets?
+
+\par        \u9658\'3f Fixed assets have a long life
+\par        \u9658\'3f Fixed assets are used in the business for future generation of income
+\par        \u9658\'3f Fixed assets are not bought with the main purpose of resale
+\par        \u9658\'3f All of the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which one of the following cost is}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\ul\cf0\ulc0\insrsid3243459  NOT}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+ attributable to the fixed assets? 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f Costs of site preparation
+\par        \u9658\'3f Administration and other general overhead cost
+\par        \u9658\'3f Initial delivery and handling charges
+\par        \u9658\'3f Installation and assembly costs
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Mr. B\rquote s cash book shows a credit balance of Rs.68,000. He issued a cheque of Rs.7,000 but not yet presented by the bank. What will be the balance of bank statement?
+
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid3243459 Rs. 61,000}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid3243459 Rs. 75,000}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid3243459 Rs. 68,000}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f0\cf0\ulc0\insrsid3243459 Rs. 7,000}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 If cash purchase is the missing figure, it can be ascertained by the construction of:
+\par        \u9658\'3f }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid3243459 Cash Account}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid3243459 None of the given options}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid3243459 Creditors Control Accounts}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par        \u9658\'3f }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\lang2057\langfe1033\langnp2057\ulc0\insrsid3243459 Debtors Control Accounts}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Depreciation expense is charged to which of the following head?
+\par        \u9658\'3f Administrative expenses
+\par        \u9658\'3f Selling expenses
+\par        \u9658\'3f Cost of sales
+\par        \u9658\'3f It depends on the nature of expense
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is/are included in the cost of goods sold?
+\par        \u9658\'3f Cost of materials used
+\par        \u9658\'3f Direct labour cost
+\par        \u9658\'3f Factory costs
+\par        \u9658\'3f All of the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+A firm had sales of Rs. 200,000, cost of goods available for sale Rs. 120,000, and an ending finished goods inventory of Rs. 20,000. Selling and Administrative expenses are Rs. 55,000. Which of the following would be }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459 TRUE?}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459   
+\par        \u9658\'3f Net income was 22.5% of sales 
+\par        \u9658\'3f The cost of goods sold was Rs. 100,000 
+\par        \u9658\'3f The gross profit was Rs. 100,000 
+\par        \u9658\'3f All of the given options 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 41    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\ul\cf0\ulc0\insrsid3243459 TRUE}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+ about the Companies Limited by Shares?
+\par        \u9658\'3f Company has limited shares to offer
+\par        \u9658\'3f Shareholders of the Company are limited
+\par        \u9658\'3f Liability of the shareholders is limited
+\par        \u9658\'3f Liability of the shareholders is unlimited
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 42    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is shown on the liability side of Balance Sheet?
+\par        \u9658\'3f Discount on issue of shares a/c only
+\par        \u9658\'3f Share capital a/c only
+\par        \u9658\'3f Premium on issue of shares a/c only
+\par        \u9658\'3f Both share capital and share premium a/c
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 43    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1067{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 XYZ Company has paid up capital of 20,000 shares of Rs. 100 each. The company offers to existing shareholders
+ the right to buy 3 shares of Rs. 100 each at Rs. 125 for every 5 shares held. What would be the number of right shares?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f 120 right shares
+\par        \u9658\'3f 12,000 right shares
+\par        \u9658\'3f 15,000 right shares
+\par        \u9658\'3f 25,000 right shares
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 44    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1068{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 A company is said to have been registered when:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f It gets certificate of incorporation from registrar of Companies
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f It gets certificate of commencement of business from registrar of Companies 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f It actually starts its business
+\par        \u9658\'3f It filed with the Registrar of Companies certain documents, like memorandum and articles of association 
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 45    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1069{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is considered as Non-cash item in cash flow statement?
+\par        \u9658\'3f Depletion
+\par        \u9658\'3f Accrued income
+\par        \u9658\'3f Prepaid expenses
+\par        \u9658\'3f Cash at bank
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 46    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1070{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is the }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 CORRECT}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+ statement with respect to the liquidity and profitability?
+\par        \u9658\'3f Liquidity and Profitability is the same thing
+\par        \u9658\'3f The importance of Liquidity > The importance of Profitability
+\par        \u9658\'3f The importance of Liquidity < The importance of Profitability
+\par        \u9658\'3f The liquidity and profitability is not the same thing but both have equal importance
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 47    ( Marks: 1 )    - Please choose one
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1071{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 If issuance of shares against cash is Rs. 2,000 and payment of dividend is Rs. 9,000 then which of the following is correct?
+\par        \u9658\'3f Inflow of cash Rs. 11,000
+\par        \u9658\'3f Outflow of cash Rs. 11,000
+\par        \u9658\'3f Inflow of cash Rs. 7,000
+\par        \u9658\'3f Outflow of cash Rs. 7,000
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 48    ( Marks: 1 )    - Please choose one
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1072{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Which of the following is }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 CORRECT}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+ about Gross Profit Ratio?
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459        \u9658\'3f (Gross profit / Net Sales) x 100
+\par        \u9658\'3f (Gross profit / Operating Income) x 100
+\par        \u9658\'3f (Gross profit / Sales Return) x 100
+\par        \u9658\'3f (Gross profit / Net Income) x 100
+\par     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 49    ( Marks: 3 ) 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af1 \ltrch\fcs0 \f1\insrsid15234504 \loch\af1\dbch\af0\hich\f1 \'d8\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\widctlpar\tx720\tx4320\wrapdefault\faauto\ls1\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1073{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Cash at bank Rs. 20,000
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Closing stock Rs. 25,000
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Sundry debtors Rs. 35,000
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx4320\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par If provision for doubtful debts is Rs. 5,000, calculate the amount of current assets to be shown in balance sheet.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 50    ( Marks: 3 ) 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 \clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\tx720\tx1440\tqc\tx2824\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 
+{\pict{\*\picprop\shplid1074{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  Particulars\cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Rs.\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row \ltrrow
+}\trowd \irow1\irowband1\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 \clvertalb\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Interest  on loans\cell }\pard \ltrpar
+\qr \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 2,000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 
+\clvertalb\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Interest  on overdraft\cell }\pard \ltrpar
+\qr \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 4,000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 \trowd \irow2\irowband2\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 
+\clvertalb\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Foreign exchange gain\cell }\pard \ltrpar
+\qr \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 6,000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 \trowd \irow3\irowband3\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 
+\clvertalb\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Gain on disposal of fixed assts.\cell 
+}\pard \ltrpar\qr \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 8,000\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 
+\af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow4\irowband4\ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 
+\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 \clvertalb\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row \ltrrow}\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 Sale of Scrap\cell }\pard \ltrpar\qr \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 1,000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow5\irowband5\lastrow \ltrrow\ts11\trgaph108\trleft814\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 
+\trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind922\tblindtype3 \clvertalb\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth5865\clshdrawnil \cellx6679\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth951\clshdrawnil \cellx7630\row }\pard \ltrpar
+\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Based on the above information, you are required to calculate the amount of following:
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\widctlpar\tx720\wrapdefault\faauto\ls2\rin0\lin720\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 
+Financial charges
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \ab\af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Other income}{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 51    ( Marks: 5 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1075{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  Briefly discuss the followings:
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}}\pard \ltrpar\qj \fi-360\li1080\ri0\widctlpar\tx1080\wrapdefault\faauto\ls2\rin0\lin1080\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+Issuance of shares at premium 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Cash flow statement 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Debentures
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af1 \ltrch\fcs0 \f1 \loch\af1\dbch\af0\hich\f1 \'d8\tab}Notes to the accounts
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\tx1080\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 52    ( Marks: 5 ) 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sbauto1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1076{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  Find the cost of goods sold by preparing a cost of goods sold statement with the help of given date for the year 2007.
+\par }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt
+\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth4008\clshdrawnil \cellx3903\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5310\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 Raw material Stocks on 1-1-2007\cell }\pard \ltrpar\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Rs. 30,000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 
+\trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth4008\clshdrawnil \cellx3903\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5310\row 
+\ltrrow}\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Work in process on 1-1-2007\cell }\pard \ltrpar
+\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 35,600\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 
+\trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth4008\clshdrawnil \cellx3903\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5310\row 
+\ltrrow}\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Finished Goods on 1-1-2007\cell }\pard \ltrpar
+\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 35,400\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow2\irowband2\lastrow \ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 
+\trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth4008\clshdrawnil \cellx3903\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5310\row 
+}\pard \ltrpar\qr \li0\ri0\sb100\sbauto1\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt
+\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb
+\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 Raw material Stocks 31-12-2007\cell }\pard \ltrpar\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Rs. 31,000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 
+\trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\row 
+\ltrrow}\trowd \irow1\irowband1\ltrrow\ts11\trqc\trgaph105\trrh406\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt
+\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 
+\clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 Work in process 31-12-2007\cell }\pard \ltrpar\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 25,000\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow\ts11\trqc\trgaph105\trrh406\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl
+\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 \trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\row \ltrrow}\trowd \irow2\irowband2\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 
+\trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175
+\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Finished Goods 31-12-2007\cell }\pard \ltrpar
+\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 53,900\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow2\irowband2\ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 
+\trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\row 
+\ltrrow}\pard \ltrpar\ql \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Total factory Cost \cell }\pard \ltrpar
+\qr \li0\ri0\sb100\sa115\sbauto1\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 543,339\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow3\irowband3\lastrow \ltrrow\ts11\trqc\trgaph105\trleft-105\trbrdrt\brdrs\brdrw15 \trbrdrl\brdrs\brdrw15 \trbrdrb\brdrs\brdrw15 \trbrdrr\brdrs\brdrw15 
+\trftsWidth1\trpaddl105\trpaddr105\trpaddfl3\trpaddfr3\tblind0\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 
+\cltxlrtb\clftsWidth3\clwWidth3873\clshdrawnil \cellx3768\clvertalt\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cltxlrtb\clftsWidth3\clwWidth1407\clshdrawnil \cellx5175\row 
+}\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459     }{\rtlch\fcs1 \ab\af0 \ltrch\fcs0 \b\f0\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Question No: 53    ( Marks: 5 ) 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid15234504 {\pict{\*\picprop\shplid1077{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch\fcs1 \ab\af1 \ltrch\fcs0 
+\b\cf0\ulc0\insrsid3243459  }{\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 Classify the followings whether these Entries are Operating, Investing or Financing activity by filling the appropriate boxes given below.
+\par 
+\par \ltrrow}\trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\pard \ltrpar
+\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\ul\cf0\ulc0\insrsid3243459 
+\par S. No.\cell 
+\par ENTRIES
+\par \cell 
+\par CLASSIFICATION\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 \trowd \irow0\irowband0\ltrrow\ts11\trgaph108\trleft449\trbrdrt
+\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 
+\ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 
+\par 0\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 
+\par Change in Accounts receivable and Inventory
+\par \cell }\pard \ltrpar\qj \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 
+\par }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 Operating activity\cell }\pard \ltrpar
+\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \ab\af1 \ltrch\fcs0 \b\cf0\ulc0\insrsid3243459 \trowd \irow1\irowband1\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par 1\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par Change in Property, Buildings, and Equipment
+\par \cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par ?\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow2\irowband2\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par 2\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par Change in Accumulated depreciation and Amortization
+\par \cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par 
+\par ?\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow3\irowband3\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par 3\cell }\pard \ltrpar\qj \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par Change in Accounts payable, Accrued wages and Salaries payable\cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par ?\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow4\irowband4\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par 4\cell }\pard \ltrpar\qj \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par Change in Note payable
+\par \cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par ?\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow5\irowband5\ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 \trbrdrl
+\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row \ltrrow}\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par 5\cell }\pard \ltrpar\qj \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par Net income
+\par \cell }\pard \ltrpar\qc \li0\ri0\widctlpar\intbl\wrapdefault\faauto\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 
+\par ?\cell }\pard \ltrpar\ql \li0\ri0\widctlpar\intbl\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\rtlch\fcs1 \af1 \ltrch\fcs0 \cf0\ulc0\insrsid3243459 \trowd \irow6\irowband6\lastrow \ltrrow\ts11\trgaph108\trleft449\trbrdrt\brdrs\brdrw10 
+\trbrdrl\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trbrdrr\brdrs\brdrw10 \trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3\tblind557\tblindtype3 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth943\clshdrawnil \cellx1392\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3355\clshdrawnil \cellx4747\clvertalt\clbrdrt\brdrs\brdrw10 
+\clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth3240\clshdrawnil \cellx7987\row }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af1 \ltrch\fcs0 
+\cf0\ulc0\insrsid3243459 
+\par }}
