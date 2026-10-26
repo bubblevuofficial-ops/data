@@ -1,0 +1,90 @@
+ 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Virtual University 786 </title>
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="../images/favicon.ico" />
+<script type="text/javascript" src="../includes/status.js"></script>
+
+
+<script type="text/javascript" src="../includes/google.js"></script>
+
+
+</head>
+
+<body onLoad="scrollit(100)">
+<img style="position: absolute; margin-left: 800px;" src="../images/leaf_2.png"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+    </td>
+      <tr>
+    <td align="center">
+    <table width="1000" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>
+        
+        
+        
+        </td>
+      </tr>
+      <tr>
+        <td height="55" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="center" valign="top"><table width="95%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="73%" rowspan="3" valign="top"><table width="680" border="0" cellspacing="0" cellpadding="0" style="height:269px;">
+                  <tr>
+                    <td  valign="top" class="border1">&nbsp;</td>
+                  </tr>
+            </table></td>
+            <td width="27%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="12" height="269" style="background-image:url(../images/m_l.jpg)" >&nbsp;</td>
+                <td valign="top" style="background-image:url(../images/m_mid.jpg)" >
+                              </td>
+                <td width="12" style="background-image:url(../images/m_r.jpg)">&nbsp;</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="50" align="center" style="background-image:url(../images/footer.jpg)" >&nbsp;</td>
+  </tr>
+</table>
+
+
+
+</body>
+</html>
