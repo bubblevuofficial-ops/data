@@ -1,0 +1,119 @@
+----------------------------------------------------------
+----------------------------------------------------------
+Q1) OUTPUT: 
+PROGRAM:
+#include<iostream>
+using namespace std;
+
+class Title
+{	
+	public:
+		Title() {
+			cout << "Title Constructor\n";
+		}
+		
+		~Title() {
+			cout << "Title Destructor\n";
+		}
+};
+
+class Book 
+{
+	private:
+		Title title;
+	public:
+		Book() {
+			cout << "Base Constructor\n";
+		}
+		
+		~Book() {
+			cout << "Base Destructor\n";
+		}
+};
+
+int main() {
+	
+	Book b;
+	
+	return 0;
+}
+ANSWER:
+Title Constructor
+Base Constructor
+Base Destructor
+Title Destructor
+
+----------------------------------------------------------
+----------------------------------------------------------
+Q2) make a class named Point with two int data members
+and add a default constructor and paramaetrized constructor.
+ANSWER:
+#include<iostream>
+using namespace std;
+
+class Point
+{	
+	private:
+		int x, y;
+	public:
+		Point() {
+			x = 0;
+			y = 0;
+		}
+		
+		Point(int num1, int num2) {
+			x = num1;
+			y = num2;
+		}	
+};
+
+int main() {
+	
+	return 0;
+}
+
+----------------------------------------------------------
+----------------------------------------------------------
+Q3) write only convert() and int main ... to convert char 'Z' to
+int 90.
+ANSWER:
+#include<iostream>
+using namespace std;
+
+template<typename T>
+class Convertor
+{	
+	private:
+		T first;
+	public:
+		Convertor(T first) {
+			this -> first = first;
+		}
+		
+		void convert() {
+			cout << int(first);
+		}
+};
+
+int main() {
+	
+	Convertor<char> obj('Z');
+	obj.convert();
+	
+	return 0;
+}
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
