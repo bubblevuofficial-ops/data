@@ -1,0 +1,51 @@
+<html>
+<head>
+	<title>jQuery Effects</title>
+	<style>
+		.ubox {
+			width: 150px;
+			height: 150px;
+			background-color: lightblue;
+			margin: 10px;
+		}
+		.box {
+			width: 150px;
+			height: 150px;
+			background-color: lightblue;
+			margin: 10px;
+		}
+		#uniqueBox {
+			background-color: lightgreen;
+		}
+	</style>
+</head>
+<body>
+	<h1>jQuery Effects on Class, ID, and Element</h1>
+	<!-- Elements to manipulate -->
+	<div id="uniqueBox" class="box">This is #uniqueBox</div>
+	<div class="box">This is a .box</div>
+	<p>My name is [Your Name] and my VUId is [Your VUId]</p>
+	<!-- Add your own name and VUID -->
+	
+	<!-- Add Buttons to trigger jQuery effects -->
+	<button id="hideButton">Hide #uniqueBox</button>
+	<button id="fadeOutButton">Fade out .box</button>
+	<button id="slideUpButton">Slide up p</button>
+	
+	<!-- jQuery Script -->
+	<script src="(link unavailable)"></script>
+	<script>
+		$(document).ready(function() {
+			$("#hideButton").click(function() {
+				$("#uniqueBox").hide();
+			});
+			$("#fadeOutButton").click(function() {
+				$(".box").fadeOut();
+			});
+			$("#slideUpButton").click(function() {
+				$("p").slideUp();
+			});
+		});
+	</script>
+</body>
+</html>
