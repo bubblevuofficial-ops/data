@@ -1,0 +1,219 @@
+<!-- Hafiz Muhammad Sheheryar -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annual Tech Conference 2024</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .header {
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('background.jpg') no-repeat center center / cover;
+            color: white;
+            text-align: center;
+            padding: 4rem 1rem;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 600;
+        }
+
+        .header p {
+            margin: 0.5rem 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        .section {
+            margin: 3rem 0;
+            text-align: center;
+        }
+
+        .section h2 {
+            color: #ff6600;
+            margin-bottom: 1.5rem;
+            font-size: 1.8rem;
+        }
+
+        .schedule-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem;
+            border-bottom: 1px solid #eee;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .time {
+            color: #ff6600;
+            font-weight: 600;
+            width: 100px;
+        }
+
+        .activity {
+            flex-grow: 1;
+            text-align: left;
+            padding-left: 1rem;
+        }
+
+        .register-form {
+            background: #f8f9fa;
+            padding: 2rem;
+            border-radius: 8px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+
+        .form-group input:focus {
+            border-color: #ff6600;
+            outline: none;
+        }
+
+        .submit-btn {
+            background: #ff6600;
+            color: white;
+            border: none;
+            padding: 0.75rem 2rem;
+            font-size: 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+
+        .submit-btn:hover {
+            background: #e65c00;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 2rem 1rem;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .schedule-item {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .time {
+                width: auto;
+                margin-bottom: 0.5rem;
+            }
+
+            .activity {
+                padding-left: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="header">
+        <h1>Annual Tech Conference 2024</h1>
+        <p>December 15, 2024 | San Francisco, CA</p>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>About the Event</h2>
+            <p>Join us for the Annual Tech Conference 2024 to explore the latest advancements in technology, network
+                with industry leaders, and participate in hands-on workshops. This is an opportunity to be part of the
+                future of technology. Whether you're a developer, designer, or tech enthusiast, there's something for
+                everyone!</p>
+        </section>
+
+        <section class="section">
+            <h2>Event Schedule</h2>
+            <div class="schedule-item">
+                <span class="time">10:00 AM</span>
+                <span class="activity">Registration & Welcome Coffee</span>
+            </div>
+            <div class="schedule-item">
+                <span class="time">11:00 AM</span>
+                <span class="activity">Keynote Speech by CEO</span>
+            </div>
+            <div class="schedule-item">
+                <span class="time">1:00 PM</span>
+                <span class="activity">Networking Lunch</span>
+            </div>
+            <div class="schedule-item">
+                <span class="time">2:30 PM</span>
+                <span class="activity">Breakout Sessions</span>
+            </div>
+            <div class="schedule-item">
+                <span class="time">5:00 PM</span>
+                <span class="activity">Closing Remarks & Reception</span>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Register Now</h2>
+            <form class="register-form">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="attendees">Number of Attendees:</label>
+                    <input type="number" id="attendees" name="attendees" min="1" required>
+                </div>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Tech Conference. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
