@@ -1,0 +1,776 @@
+{\rtf1\adeflang1025\ansi\ansicpg1256\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f54\froman\fcharset238\fprq2 Times New Roman CE;}{\f55\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f57\froman\fcharset161\fprq2 Times New Roman Greek;}{\f58\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f59\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f60\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f61\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f62\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f64\fswiss\fcharset238\fprq2 Arial CE;}{\f65\fswiss\fcharset204\fprq2 Arial Cyr;}{\f67\fswiss\fcharset161\fprq2 Arial Greek;}{\f68\fswiss\fcharset162\fprq2 Arial Tur;}{\f69\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f70\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f71\fswiss\fcharset186\fprq2 Arial Baltic;}{\f72\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f74\fmodern\fcharset238\fprq1 Courier New CE;}{\f75\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f77\fmodern\fcharset161\fprq1 Courier New Greek;}{\f78\fmodern\fcharset162\fprq1 Courier New Tur;}{\f79\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f80\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f81\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f82\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\s4\ql \li0\ri0\sb240\sa60\keepn\nowidctlpar\faauto\outlinelevel3\rin0\lin0\itap0 \rtlch 
+\ab\af0\afs28\alang1025 \ltrch \b\fs28\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext0 heading 4;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch \af0\afs20 \ltrch \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch 
+\af1\afs24\alang1025 \ltrch \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af1\afs24\alang1025 \ltrch \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\snext0 Style1;}{\*\cs17 \additive \fs20 CODE;}{\*\cs18 \additive \rtlch \ai\af0 \ltrch \i \sbasedon10 Emphasis;}{\*\cs19 \additive \rtlch \af0 \ltrch \ul \sbasedon10 Hyperlink;}{\*\cs20 \additive \rtlch \af0 \ltrch \ul\cf8 \sbasedon10 FollowedHyperlink;}
+{\*\cs21 \additive \b\fs20 Keyboard;}{\s22\ql \li0\ri0\nowidctlpar\tx0\tx959\tx1918\tx2877\tx3836\tx4795\tx5754\tx6713\tx7672\tx8631\tx9590\faauto\rin0\lin0\itap0 \rtlch \af2\afs20\alang1025 \ltrch 
+\f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Preformatted;}{\s23\qc \li0\ri0\nowidctlpar\brdrt\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 \rtlch \af2\afs16\alang1025 \ltrch 
+\v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Bottom of Form;}{\s24\qc \li0\ri0\nowidctlpar\brdrb\brdrdb\brdrw15\brdrcf1 \faauto\rin0\lin0\itap0 \rtlch \af2\afs16\alang1025 \ltrch 
+\v\f2\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 \shidden HTML Top of Form;}{\*\cs25 \additive Sample;}{\*\cs26 \additive \rtlch \ab\af0 \ltrch \b \sbasedon10 Strong;}{\*\cs27 \additive \fs20 Typewriter;}{\*\cs28 \additive 
+\i Variable;}{\*\cs29 \additive \v\cf1 HTML Markup;}{\*\cs30 \additive \v Comment;}{\s31\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 
+\sbasedon0 \snext31 Normal (Web);}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\listtable{\list\listtemplateid0{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers
+\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch 
+\af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch 
+\af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0
+\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}\rtlch \af0 \ltrch }{\listname ;}\listid1}{\list\listtemplateid84292784{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'00);}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}
+\f3\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f3\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f1\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}
+\f1\fs24 }{\listname ;}\listid947661786}{\list\listtemplateid2095745666\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid72413746\'02\'00.;}{\levelnumbers\'01;}
+\rtlch \ab0\af0 \ltrch \b0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 
+\ltrch \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-180\li3600
+\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-360\li4320
+\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-360\li5040
+\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-180\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-360\li6480
+\jclisttab\tx6480\lin6480 }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-360\li7200
+\jclisttab\tx7200\lin7200 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch \fi-180\li7920
+\jclisttab\tx7920\lin7920 }{\listname ;}\listid1084838723}{\list\listtemplateid1{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch \af0\afs24 \ltrch 
+\f0\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }
+{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel
+\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listname List1226393443_1;}\listid1226393443}{\list\listtemplateid2{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0
+\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0
+\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0
+\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listname List1226393450_1;}\listid1226393450}{\list\listtemplateid2010957658{\listlevel\levelnfc4\levelnfcn4
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listname ;}\listid1398623211}
+{\list\listtemplateid-1566698716{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers
+\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch 
+\af0 \ltrch }{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc4\levelnfcn4\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch 
+\af0 \ltrch }{\listname ;}\listid1481531280}}{\*\listoverridetable{\listoverride\listid1226393443\listoverridecount0\ls1}{\listoverride\listid1226393450\listoverridecount9{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc23\levelnfcn23
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'02.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\rtlch 
+\af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel
+\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat
+{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0
+\leveljc2\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}{\lfolevel\listoverridestartat\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc2\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\rtlch \af0 \ltrch }}\ls2}{\listoverride\listid947661786\listoverridecount0\ls3}{\listoverride\listid947661786\listoverridecount0\ls4}{\listoverride\listid1084838723
+\listoverridecount0\ls5}}{\*\rsidtbl \rsid339537\rsid4810358\rsid7103297\rsid7286666\rsid7471631\rsid8214145\rsid8655876\rsid9138839\rsid14881110\rsid15604102\rsid15799141\rsid15825860\rsid16082352}{\*\generator Microsoft Word 11.0.5604;}{\info
+{\author Sohail Anwar}{\operator Mastour}{\creatim\yr2008\mo12\dy2\hr6\min58}{\revtim\yr2009\mo5\dy29\min13}{\version3}{\edmins72}{\nofpages9}{\nofwords1360}{\nofchars7752}{\nofcharsws9094}{\vern24689}}\ltrsect 
+\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\viewnobound1\rsidroot15825860 \fet0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \rtlch \af0\afs24\alang1025 \ltrch \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\rtlch \ab\af0 \ltrch \b\insrsid7103297 MIDTERM  EXAMINATION 
+
+\par Fall 2008
+\par ISL201- Islamic Studies (Session - 2) 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297      }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 1    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297   The delegation of Qurresh offered the king of Abyssania?
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f To become their king
+\par        \u9658\'3f Social reforms
+\par        \u9658\'3f Political reforms
+\par        \u9658\'3f Gifts
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 2    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  The name of Hazrat Hajra\rquote s son is________
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Hazrat Ishaq
+\par        \u9658\'3f Hazrat Yaqoob
+\par        \u9658\'3f Hazrat Ismaeel
+\par        \u9658\'3f Hazrat Haroon
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 3    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Which prophet left his wife in desert for the pleasure of Allah?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Hazrat Moses
+\par        \u9658\'3f Hazrat Jesus
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Hazrat Abraham
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Hazrat Abu Bakar
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 4    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  How many times the wife of Hazrat Abraham run between the mountains in search of water?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Five
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Seven
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Nine
+\par        \u9658\'3f Eleven
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 5    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  \'93Obey me as long as I obey Allah and his Prophet if ever I should disobey them, then you need no longer to obey me\'94 it was saying of_________
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Hazrat Abu Bakar
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Hazrat Ommer
+\par        \u9658\'3f Hazrat Usman
+\par        \u9658\'3f Hazrat Ali
+\par     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 6    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 According to Hadith \'93 If the_________ is right then every system is right"
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 Brain}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Heart}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Arms}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Head}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 7    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 " They are severe against disbelievers\'94 is a very distinguished quality of the Muslims.
+\par 
+\par 
+\par 
+\par 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Sahaba (Companions of the Holy Prophet)A.S}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Ta\rquote been}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Muslims}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Saints}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 8    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 __________was the first person who confirmed the miracle of Ascension \{Mi\rquote raj\}. 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Hazrat Abu-baker }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Hazrat Ommer}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Hazrat Usman }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Hazrat Ali}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 9    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Miracle of Ascension \{Mi\rquote raj\} took place during the holy prophet\rquote s stay in
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Makkah
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Madina
+\par        \u9658\'3f Quba
+\par        \u9658\'3f Khaibar
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 10    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Holy prophet Muhammad (PBUH) brought about Moral Revolution through his
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Actions and sayings
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Actions and worship
+\par        \u9658\'3f Actions and battles
+\par        \u9658\'3f Actions and activities
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 11    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Muslims migrated to ________, due to the hardships and atrocities committed by disbelievers.
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Yam an
+\par        \u9658\'3f Iran
+\par        \u9658\'3f Babul
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Abyssinia
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 12    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 In which surah Allah mentions about two angels who receive and record the deeds of mankind.
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 An-Najam}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 At-Tur}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Qaf}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Hadid}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 13    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  What is the first demand of sincerity?
+\par        \u9658\'3f Believe in Faith (imaan) with worldly benefits
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 \u9658\'3f Similarity in inner and outer self 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Efficiency
+\par        \u9658\'3f All of the given option
+\par     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 14    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  How many aspects of Truthfulness?
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f One
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Two
+\par        \u9658\'3f Three
+\par        \u9658\'3f Four
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 15    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  According to hadith, the best stage of goodness (Ihsan) in worship (ibaadah) that 
+\par 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f You see Allah and He sees you
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f You see yourself
+\par        \u9658\'3f Allah sees to prophets
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f All the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 16    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  The Hypocrites shall be cast into the________ level of the Hell.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f Upper
+\par        \u9658\'3f Medium
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Lowest
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f None of the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 17    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Obedience of Allah is related only with the Obedience of
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 Prophet Muhammad (PBUH)
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 Executive authority
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 Parents
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 Friends
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 18    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Body of the Fast (roza) is to avoid from
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\ul\cf0\ulc0\insrsid7103297\charrsid339537 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Eating and drinking
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Backbiting
+\par        \u9658\'3f Quarreling 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Spitefulness
+\par     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 19    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Soul of Fast (roza) is to avoid from 
+\par 
+\par 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f Eating 
+\par        \u9658\'3f Drinking
+\par }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297\charrsid7471631        \u9658\'3f }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 Backbiting and quarreling}{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297\charrsid7471631  
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7471631        \u9658\'3f None of the given options
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 20    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\tx258\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  ________ uses inner stress to act upon its teachings.
+\par 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f Islam
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f Christianity
+\par        \u9658\'3f Buddhism
+\par        \u9658\'3f Hinduism
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 21    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  The term "sulosul-Quran" (one third of the Holy Quran) is applied to which surah?}{\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Fateha}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Kousar}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 Al-Ikhlas}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Qadar}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 22    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 Benefits that bring out  from having Taqwa\~
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sbauto1\saauto1\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 His affairs will be purify }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 He will receive forgiveness for his sins. }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 He will receive mercy from ALLAH }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 All of the given option}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 23    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 Action that keep away Man from Allah\rquote s Love\~
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af2 \ltrch \f2\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Aggression 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Arrogance}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 Ungratefulness }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 All of the given options}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 24    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297 \u-4064\'3f}{\rtlch \af0 \ltrch \insrsid7103297 Specific act that nourish ALLAH\rquote S love\~
+\par }\pard \ltrpar\ql \li0\ri0\sbauto1\saauto1\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sbauto1\saauto1\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af3 \ltrch \f3\insrsid7103297 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\rtlch \af0 \ltrch \insrsid7103297 Waste }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af3 \ltrch \f3\cf0\ulc0\insrsid7103297 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\rtlch \af0 \ltrch \insrsid7103297 Oppression }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af3 \ltrch \f3\cf0\ulc0\insrsid7103297 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\rtlch \af0 \ltrch \insrsid7103297 Betrayal }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af3 \ltrch \b\f3\cf0\ulc0\insrsid7103297\charrsid7286666 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\rtlch \ab\af0 \ltrch \b\insrsid7103297\charrsid7286666 Taqwa}{\rtlch \ab\af0 
+\ltrch \b\cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 Question No: 25    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  Which of the following surah describes the concept of Tauheed comprehensively }{\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Fateha
+\par 
+\par }\pard \ltrpar\ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Nassar}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297 Al-Kousar}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666 Al-Ikhlas}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af0 \ltrch \b\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 26    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\insrsid7103297 Hajj has been declared obligatory for Muslims
+\par 
+\par 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297\charrsid7286666 Once in a life}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Twice in a life}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Thrice in a life }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af2 \ltrch \f2\cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 None of the given options}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 27    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\insrsid7103297 In the period of ________Caliph,some Arab tribes refused to pay Zakat.
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 First}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297\charrsid7286666 Second}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Third}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Fourth}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 28    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\insrsid7103297 Abu-Bakar (R.A) compelled to declare war against
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        }{\rtlch \ab\af0 \ltrch \b\ul\cf0\ulc0\insrsid7103297\charrsid15604102 \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297\charrsid7286666 Negators of Zakat}{\rtlch \ab\af0 \ltrch 
+\b\ul\cf0\ulc0\insrsid7103297\charrsid15604102 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Mushrikeen}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Christians}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Jews}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 29    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af0 \ltrch \insrsid7103297 Zakat is a kind of 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Recitation}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297\charrsid7286666 Fiscal worship}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Fasting}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 None of the given options}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 30    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 The coolness of my eyes lies in Salat" is the saying of }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Prophet (S.A.W)}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Hazrat Abu-bakar R.A}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Hazrat Umer Farooq R.A }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Hazrat Ali R.A}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 31    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 In Hadith " The coolness of my eyes lies in _________"}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Salat}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Roza}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Zakat}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Hajj}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 32    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 __________of the Holy prophet are the highest qualities of prophet hood.}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Patience}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Long suffering }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Forgiveness}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 All of the given options}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 33    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 \'93Ethics is the name of that condition of human nature for which a man very easily and conveniently does any action\'94 it was the saying of}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sl480\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Allama iqbal
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Imam Ghazali
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sl480\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Sir Seyed Ahmad khan
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sl480\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Liaqat Ali Khan
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 34    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Single-minded devotion is the most essential part of the___________of all good and virtuous acts and behavior.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297       }{\rtlch \ab\af0 \ltrch \b\ul\cf0\ulc0\insrsid7103297\charrsid15604102  \u9658\'3f }{\rtlch \af1 \ltrch 
+\f1\cf0\ulc0\insrsid7103297\charrsid7286666 Inner reality }{\rtlch \ab\af0 \ltrch \b\ul\cf0\ulc0\insrsid7103297\charrsid15604102 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Outer reality}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 World reality}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 All of the given options}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 35    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 The highest stage of Ikhlass is the rendering of an act:}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 For a good life}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 For self satisfaction}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 For the sake of Allah\tab }{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297\charrsid7286666 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 For worship}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 36    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  The role of the executive authority in the Islamic society is:
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 To establish a stable economic system\tab }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 To ensure the implementation of the Sharia
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 To fulfill human rights
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 To eliminate the society from the evils
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 37    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Muslims will split up into _________ sects.
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 70
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par        \u9658\'3f 71
+\par        \u9658\'3f 72
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f 73
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 38    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Taqwa (piety) means to purify
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Soul
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Heart 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Heart and soul
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 None of above}{\rtlch \af1 \ltrch \f1\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 39    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 A \'85\'85\'85 is a messenger of Allah who is given a new Shariat (codes of law) from Him.}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Rasool
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Nabe
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Saint
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Rector
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 40    ( Marks: 1 )    - Please choose one}{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 What is the synonymous of \'93faith\'94?
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\insrsid7103297 Guidance
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \insrsid7103297\charrsid7286666        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297\charrsid7286666 Believe
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Knowledge
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297        \u9658\'3f }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Ignorance
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 41    ( Marks: 5 ) }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }\pard \ltrpar\qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Explain briefly that Allah alone is authorized to make any modifications in the universe according to His will.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297\charrsid7103297     }{\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297\charrsid7103297 
+\par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\rtlch \ab\af1 \ltrch \b\f1\cf0\ulc0\insrsid7103297 Question No: 42    ( Marks: 5 ) }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7103297 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid8655876 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{\rtlch \af0 \ltrch 
+\cf0\ulc0\insrsid7103297  }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7103297 Do Muslims have many sects? Analyze in the light of hadith.
+\par }{\rtlch \af1 \ltrch \f1\cf0\ulc0\insrsid7471631 
+\par }{\rtlch \af0 \ltrch \cf0\ulc0\insrsid7471631 
+\par }}
