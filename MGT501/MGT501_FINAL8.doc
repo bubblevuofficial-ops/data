@@ -1,0 +1,918 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi22\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f22\froman\fcharset222\fprq2{\*\panose 02020603050405020304}Angsana New;}{\f36\froman\fcharset238\fprq2 Times New Roman CE;}{\f37\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f39\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f40\froman\fcharset162\fprq2 Times New Roman Tur;}{\f41\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f42\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f43\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f44\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f46\fswiss\fcharset238\fprq2 Arial CE;}{\f47\fswiss\fcharset204\fprq2 Arial Cyr;}{\f49\fswiss\fcharset161\fprq2 Arial Greek;}{\f50\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f51\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f52\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f53\fswiss\fcharset186\fprq2 Arial Baltic;}{\f54\fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f56\fmodern\fcharset238\fprq1 Courier New CE;}
+{\f57\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f59\fmodern\fcharset161\fprq1 Courier New Greek;}{\f60\fmodern\fcharset162\fprq1 Courier New Tur;}{\f61\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f62\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f63\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f64\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f258\froman\fcharset0\fprq2 Angsana New;}}{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;
+\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}
+{\*\listtable{\list\listtemplateid597694434\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li720
+\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid446005073}{\list\listtemplateid-1038040982\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li1260\jclisttab\tx1260\lin1260 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li1980\jclisttab\tx1980\lin1980 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li2700\jclisttab\tx2700\lin2700 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}
+\fi-360\li3420\jclisttab\tx3420\lin3420 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li4140\jclisttab\tx4140\lin4140 }
+{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li4860\jclisttab\tx4860\lin4860 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li5580\jclisttab\tx5580\lin5580 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li6300\jclisttab\tx6300\lin6300 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li7020\jclisttab\tx7020\lin7020 }{\listname ;}\listid449592919}{\list\listtemplateid637164748{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}
+\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid1488934911}{\list\listtemplateid2073467850{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'b7;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\'a7;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid1750152006}
+{\list\listtemplateid1392641082{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3607 ?;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3591 ?;}{\levelnumbers;}\f10\fs24 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3607 ?;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3591 ?;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3607 ?;}{\levelnumbers;}\f10\fs24 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f10\fs24 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u3591 ?;}{\levelnumbers;}\f10\fs24 }{\listname ;}\listid1905489324}}{\*\listoverridetable{\listoverride\listid1905489324
+\listoverridecount0\ls1}{\listoverride\listid446005073\listoverridecount0\ls2}{\listoverride\listid449592919\listoverridecount0\ls3}}{\*\rsidtbl \rsid408445\rsid483034\rsid738624\rsid1324832\rsid1334347\rsid1732844\rsid1735975\rsid2301959\rsid2369653
+\rsid2571997\rsid2764641\rsid3694950\rsid4537496\rsid6187881\rsid6955947\rsid7820760\rsid7955393\rsid8016193\rsid8202595\rsid8403652\rsid8678625\rsid8871270\rsid9318436\rsid11679424\rsid11893064\rsid12342239\rsid12659030\rsid13045389\rsid13700684
+\rsid14507131\rsid14620776\rsid15278310\rsid15554475\rsid16253135}{\*\generator Microsoft Word 11.0.5604;}{\info{\title Final Term Exams}{\subject MGT-501}{\author Ateeq Akhtar}{\operator server}{\creatim\yr2009\mo2\dy4\hr10\min1}
+{\revtim\yr2010\mo2\dy17\hr16\min45}{\version27}{\edmins109}{\nofpages12}{\nofwords3135}{\nofchars17871}{\*\company Personal}{\nofcharsws20965}{\vern24689}}
+\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot13700684 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnqc\pnstart1\pnindent720\pnhang 
+{\pntxta .}}{\*\pnseclvl3\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnqc\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\insrsid11893064\charrsid1732844 FINALTERM  EXAMINATION 
+\par Fall 2008
+\par MGT501- Human Resource Management (Session - 2) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 Time: 120 min 
+\par Marks: 85
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844      }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  While downsizing, organizations sometimes reduce the number of its employees by offering early retirements because:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f HR requirement is less than existing number of employees
+\par        \u9658\'3f HR requirement is greater than the existing number of employees
+\par        \u9658\'3f Company\rquote s cost in terms of employee compensation can be saved
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Organizations can be more efficient by this action of management}{\cf2\ulc0\insrsid483034\charrsid1732844  (correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Which of the following can be an alternative decision to employee termination?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Demotion
+\par        \u9658\'3f Retirement
+\par        \u9658\'3f Resignation
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Lay-off}{\cf2\ulc0\insrsid15554475\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  If the time between violation & the respective penalty implementation lengthens, the impact of the disciplinary action will:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Be exceeded}{\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Remain the same
+\par        \u9658\'3f Become invisible
+\par        \u9658\'3f Be reduced
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Mr. Imran is appointed to supervise all the employees of the admin department. In this situation he is said to be a ___________.}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Manager only}{\cf2\ulc0\insrsid15554475\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Charismatic leader
+\par        \u9658\'3f Leader only
+\par        \u9658\'3f Leader & manager at the same time
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  What sort of relationship exists between \lquote negative-reinforcement\rquote  & \lquote punishment\rquote ?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Both are similar concepts
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Punishment leads to negative-reinforcement}{\cf2\ulc0\insrsid15554475\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Negative-reinforcement leads to punishment
+\par        \u9658\'3f Both leads to similar consequences
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  'Federal law' requiring employers to give 60 days notice prior to plant closing or major layoff, as stated by:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Statutory right of employees}{\cf2\ulc0\insrsid738624\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f Employer itself
+\par        \u9658\'3f Due process by an employer
+\par        \u9658\'3f Union recommendations
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Which of the following facilitates the employer to hire, fire, demote or promote anyone, in the absence of any legal obligation?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\cf0\ulc0\insrsid11893064\charrsid1732844 Discrimination law
+\par }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\cf2\ulc0\insrsid11893064\charrsid1732844 Employment at will}{\cf2\ulc0\insrsid738624\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\cf0\ulc0\insrsid11893064\charrsid1732844 Affirmative action
+\par }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\cf0\ulc0\insrsid11893064\charrsid1732844 Equal employment opportunity
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+ 'Honda Pakistan', implemented a safety & health program for its employees after consulting experts and management in the organization. But, no reduction in the accidents or injuries is observed. Identify a reason which is }{
+\ul\cf0\ulc0\insrsid11893064\charrsid1732844 least }{\cf0\ulc0\insrsid11893064\charrsid1732844 possible to the failure of this Safety & Health program?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f
+Company is not considering inputs of employees regarding safety decisions
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f
+Safety & health program is not communicated properly to all employees
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 
+Proper safety & health training has not been provided to the employees}{\cf2\ulc0\insrsid738624\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fProper budget is not allocated to safety and health program as required
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Which one of the following is NOT included in the content of 'Employee Handbook'?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fFringe benefits
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fSafety procedures
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Financial statements}{\cf2\ulc0\insrsid8403652\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fJob duties
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  "Accounting staff of a EFU General Insurance ltd, share information of different departments to assist in preparing the annual budget on a consistent basis". Which type of communication it is?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fDiagonal communication
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Horizontal communication}{\cf2\ulc0\insrsid8403652\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fUpward communication
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fDownward communication
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Under a strong union influence, the union members demanded the salary increment as per the rate of increase in inflation. As an HR manager what will be your initial step?}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fRejecting the request as it is unnecessary
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fApproving the demand immediately
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fAsking union to make a contract
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Arranging negotiation to discuss the issue}{\cf2\ulc0\insrsid8403652\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  According to which of the following view, "conflict is bad and should be avoided"?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Behavioral view}{
+\cf2\ulc0\insrsid8403652\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fTraditional View
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fHuman Relations View
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fInteractionist View
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  If the political behavior is motivated by self-serving interests without taking into account the goals of the organization, the move would be considered as:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fEthical
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fNeutral
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Unethical}{\cf2\ulc0\insrsid8403652\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fIntense
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Legitimate power includes which of the following?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Acceptance of authority by organizational members}{
+\cf2\ulc0\insrsid408445\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fLimited ability to reward employees
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fAbility to only punish employees
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fLimited control of company\rquote s physical resources
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  A power base that depends on fear comes under which of the following category of power?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fReward power
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Coercive power}{\cf2\ulc0\insrsid7955393\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fReferent power
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fLegitimate power
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Which of the following is NOT included in time-off benefits?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fOn-the-job breaks
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fAnnual holidays
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3f}{\cf2\ulc0\insrsid11893064\charrsid1732844 Flexi time}{\cf2\ulc0\insrsid7955393\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+
+\par \u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u-4064\'3f\u9658\'3f\u-4064\'3fPaid leaves
+\par     }{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  Ali was working as MTO in ABL & getting the package of Rs.20.000, few weeks ago he resigned from ABL & joined HBL which is offering
+ him Rs.30,000 at the same post of MTO. In this situation HBL is adopting the ________ pay strategy.}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\f10\cf0\ulc0\insrsid11893064\charrsid1732844 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Above market rate}{\cf2\ulc0\insrsid7955393\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+
+\par }{\f10\cf0\ulc0\insrsid11893064\charrsid1732844 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Below market rate}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\f10\cf0\ulc0\insrsid11893064\charrsid1732844 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 At market rate}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\f10\cf0\ulc0\insrsid11893064\charrsid1732844 \'20\'20\'20\'20\'20\'20\'20\u9658\'ba\'20}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 All of the given options}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 What type of pay plan is being used when workers are paid a sum for each unit they produce?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Base pay}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Competency-based pay}{\cf2\ulc0\insrsid7955393\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Bonus pay}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Piecework pay}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 To make the 'Ranking Method' of job evaluation more effective:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Perform performance appraisals on regular basis}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Train employees prior to appraisals}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Develop high compensation packages}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Clearly define job description initially}{\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf2\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Miss. Fouzia wants to excel herself in the banking field by clearing the IBP Superior Qualification (ISQ) examination. But her current job\rquote 
+s strict timings do not allow her to fulfill her plans. To address this problem, the bank could help her by:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Providing her with a career coach}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Encouraging her to join a career success team}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Facilitating her with flexible working hours}{\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Suggesting her a better occupation to adopt}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 21    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following is part of a manager\rquote s role in the career development of an employee?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Communicating the mission, policies and procedures}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Utilizing career development opportunities}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Participating in career development discussions}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Establishing goals and career plans}{\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 22    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following plays a role in assessing interests, seeking out career information and utilizing development opportunities in career development?}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Individual}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Manager}{\f1\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Supervisor}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Company}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 23    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 The lifelong series of activities that contribute to a person\rquote s career exploration, establishment, success, and fulfillment is called:}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Organizational development}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Career management}{\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Career development}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Career planning}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 24    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 How do compensation and benefits with a career development focus differ from compensation and benefits with a traditional focus?}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Employee\rquote s productivity is rewarded}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Employee\rquote s efficiency is rewarded}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Enhancement in abilities is rewarded}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 All of the given options}{\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 25    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+Amjad has reached the age of full retirement, but he still wants to continue his job. Moreover, organization has not yet found any replacement to him. In such situation Amjad should pursue:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Counseling to utilize his leisure time}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Search careers outside the company}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Psychological counseling to prepare for retirement}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Extension of current job within company}{\f1\cf2\ulc0\insrsid16253135\charrsid1732844  (Correct)}{\cf2\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 26    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the given objective is mainly focused during pre-retirement educational programs?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Improve job satisfaction among senior staff}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Enhance employee performances through such concerns}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Prepare employees for their upcoming retired life}{\cf2\ulc0\insrsid8678625\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Minimize medical claims from retirees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 27    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 During which stage of socialization, employees successfully internalize the organizational norms & beliefs?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Pre-arrival stage}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Encounter stage}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Metamorphosis stage}{\cf2\ulc0\insrsid8678625\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Post-retirement stage}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 28    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\insrsid11893064\charrsid1732844 During which of the following interview, an interviewer asks probing and open-ended questions?}{\f1\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Structured interview}{\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\insrsid11893064\charrsid1732844 Unstructured interview}{\cf2\insrsid8678625\charrsid1732844  (Correct)}{\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Formal interview}{\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Planned interview}{\insrsid11893064\charrsid1732844 
+\par   }{\cf0\ulc0\insrsid11893064\charrsid1732844   }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 29    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\insrsid11893064\charrsid1732844 Which of the following is a process of attracting individuals on timely basis, in sufficient 
+numbers and with appropriate qualifications, to apply for jobs with an organization?}{\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Selection
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\insrsid11893064\charrsid1732844 Recruitment}{\f1\cf2\insrsid2301959\charrsid1732844  (Correct)}{\f1\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Staffing
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\insrsid11893064\charrsid1732844 Enrollment 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\insrsid11893064\charrsid1732844   }{\cf0\ulc0\insrsid11893064\charrsid1732844   }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 30    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following is a force by which personality traits (expertise) affects others\rquote  behavior?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Power}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Influence}{\cf2\ulc0\insrsid2301959\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Authority}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Command}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 31    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following practice involves the selling off portions of the company and making severe staff reductions?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Redesigning}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Restructuring}{\cf2\ulc0\insrsid2301959\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Organizational designing}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Reengineering}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 32    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1056{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 People can be more productive while working in:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Isolation}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Groups}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Crowd}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 None of the given options}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 33    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri630\nowidctlpar\faauto\rin630\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1057{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 The MOST common reason that an expatriate fails at an international assignment is _____.}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Incompetency}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Technical demands of the job}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Expense}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Family pressures}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 34    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1058{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Previous company records & customer satisfaction surveys may serve as a source for:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Cultivating learning culture within the organization}{\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Determining deficiencies that require training}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Developing career development plans for employees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Identifying training outcomes through evaluation}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 35    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1059{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 The best hiring occurs when the goals of which of the following should consistent to each other?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 HR managers, Finance managers}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Head office, Branch}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Organization, Individual}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Lower managers, Top managers}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 36    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1060{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which one of the following is NOT the advantage of Workforce Diversity?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Multiple perspectives}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Greater openness to new ideas}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Increased creativity and flexibility}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Decreased problem-solving skills}{\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 37    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1061{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Due to which of the following reason, subordinates may feel dissatisfied with their appraisal interviews?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 They feel threatened during the interview}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 They can influence the course of the interview}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Constructive interviewer is conducting the interview}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Their poor performance is being highlighted}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 38    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1062{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the given solution served as the }{\f1\ul\cf0\ulc0\insrsid11893064\charrsid1732844 best}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+ one for reducing the problem of central tendency in performance appraisals?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Rank employees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Train supervisors to avoid it}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Impose a distribution for performance}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Consider the purpose of the appraisal}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 39    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1063{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+Some supervisors, when filling in rating scales, tend to avoid the highs and lows on the scale and rate most people in the middle. This type of evaluation is said to be effected by:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Stereotyping}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Central tendency}{\cf2\ulc0\insrsid1324832\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Strictness}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Leniency}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 40    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1064{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 \'93Ongoing process of managing & evaluating both the behavior & outcomes in the workplace\'94 is known as:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Training & development}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Performance appraisal}{\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Compensation management}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Job analysis}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 41    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1065{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+Employees' routine working is now being monitored through computers electronically; this trend has affected the Performance Appraisal (PA) system in which of the following manner?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8202595 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Development of PA on more frequent basis}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Enhanced importance of PA for employees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 PA have became more accurate & efficient one}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Human involvement is completely removed}{\cf2\ulc0\insrsid8202595\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 42    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1066{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 By what means, organizations show concerns for their employees and earn their commitment?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Solely ensuring job security of employees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Provide career development opportunities}{\cf2\ulc0\insrsid8202595\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Promise after retirement incentives only}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Offer stock options limited to senior employees}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 43    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1067{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 The frequency of conducting the performance appraisal depends on:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Environmental challenges}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Training sessions}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Job analysis}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Organizational policies}{\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 44    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1068{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Evaluation method generally adopted by most of the educational institutes to evaluate the students\rquote  academic performance is:}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Project based method}{\f1\cf2\ulc0\insrsid8202595\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Focal point method}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Anniversary method}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Base timings method}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 45    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1069{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following approach emphasizes the effect of psychological & social factors on employees\rquote  performance?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Scientific approach}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid1735975\charrsid1732844 Rational}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844  approach
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Human relations approach
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Systematic approach}{\f1\cf2\ulc0\insrsid15278310\charrsid1732844  (Correct)}{
+\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 46    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1070{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 In Hawthorne studies which decisive factor was used in the variation of the workers\rquote  performance?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Safety measures
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Health condition
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Light variation
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Salary bonuses
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 47    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1071{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 signifies a term}{
+\f1\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 \'93Task\'94 as a component of an organization?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Organizational HR
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Organizational hierarchy
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Mechanical process}{\f1\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{
+\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Existence purpose
+\par Existence purpose
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 48    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1072{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Which of the following abilities are categorized as the Technical skill of an individual?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Judgment & creativity
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Analysis & communication
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Knowledge & proficiency}{\f1\cf2\ulc0\insrsid13045389\charrsid1732844  (Correct)}{
+\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Innovation & advancement
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 49    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1073{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Reactive approach to overcome the influence of discriminatory practices occurred in the past is referred as:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Equal employment opportunity}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Affirmative action}{\cf2\ulc0\insrsid15278310\charrsid1732844  (Correct)}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 HR planning}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Litigation process}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 50    ( Marks: 1 )    - Please choose one
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1074{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 The cognitive component consists of a person\rquote s:}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Emotions}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf2\ulc0\insrsid11893064\charrsid1732844 Knowledge}{\cf2\ulc0\insrsid8016193\charrsid1732844  (Correct)}{\cf2\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid11893064\charrsid1732844        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Attitude}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par        \u9658\'3f }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Feelings}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 51    ( Marks: 5 ) 
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1075{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 Yousaf has beaten his fellow employee for which his manager has dismissed him. Evaluate manager\rquote s response in terms of ethical application of power.}{
+\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid14507131\charrsid1732844 
+\par }{\cf2\ulc0\insrsid14507131\charrsid1732844 Answer: 
+\par }{\cf2\ulc0\insrsid11893064\charrsid1732844 No employee is supposed to get physical with any of the colleagues. Manager\rquote 
+s decision was the extreme as he could have brought both employees together and tried to know the problem between them. I see this move as an unethical act by the manager.}{\cf2\ulc0\insrsid14507131\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 52    ( Marks: 10 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1076{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 What measures should be taken to limitize the union membership by employees? Explain each in detail.
+\par }{\f1\cf0\ulc0\insrsid12342239\charrsid1732844 
+\par Answer:
+\par 
+\par }{\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 53    ( Marks: 10 ) 
+\par }{\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1077{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 When do organizational people indulged themselves in organizational politics? Discuss any five factors in detail.}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid7820760\charrsid1732844 
+\par }{\cf2\ulc0\insrsid7820760\charrsid1732844 Answer: 
+\par 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 Organizational politics are actions that allow people in organizations to attain goals without goi
+ng through ceremonial channels. Whether political activities help or hurt the organization depends on whether the person's goals are steady with the organization's goals. In the impartial model of organizations, people are assumed to manage sensibly, base
+d on clear information and well-defined goals.
+\par 
+\par There are few factors that result in political activities in an organization  and are explained as under.
+\par 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid7820760\charrsid1732844 \hich\af1\dbch\af0\loch\f1 1.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+Changes in Leadership}{\f1\cf2\insrsid7820760\charrsid1732844  which changes conventional associations and processes can create an opportunity for increased political behavior.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid7820760\charrsid1732844 \hich\af1\dbch\af0\loch\f1 2.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+Changes in Coordination and integration}{\f1\cf2\insrsid7820760\charrsid1732844  of organizational activities used to achieve common goals can also lead to an increase in political behavior.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid7820760\charrsid1732844 \hich\af1\dbch\af0\loch\f1 3.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+Changes in any of the five contextual forces, i.e. }{\f1\cf2\insrsid7820760\charrsid1732844 environment, technology, strategy, culture, and structure, can generate uncertainty over resource allocation, leading to an increase in political behavior. 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid7820760\charrsid1732844 \hich\af1\dbch\af0\loch\f1 4.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+Blame & Integration.}{\f1\cf2\insrsid7820760\charrsid1732844  Blaming and attacking others to deflect attention from one's mistakes and using ingratiating behavior to gain favor are unethical and negative types of political actions.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid7820760\charrsid1732844 \hich\af1\dbch\af0\loch\f1 5.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\faauto\ls2\rin0\lin720\itap0\pararsid7820760 {\f1\cf2\insrsid7820760\charrsid1732844 
+Building Relationship}{\f1\cf2\insrsid7820760\charrsid1732844 . People develop relationships through coalitions, grouping, networks, and accommodating managerial linkages. Coalitions are relationships forme
+d over specific issues. Alliances are general agreements of support among different individuals and groups; and networks are broad, loose support systems. Relationship building can either help or harm the organization.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid7820760\charrsid1732844 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844     }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11893064\charrsid1732844 Question No: 54    ( Marks: 10 ) 
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid3694950\charrsid1732844 {\pict{\*\picprop\shplid1078{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\cf0\ulc0\insrsid11893064\charrsid1732844  }{\f1\cf0\ulc0\insrsid11893064\charrsid1732844 In order to get advantage of each method, will it be a sensible decision to simultaneously}{\f1\cf0\ulc0\insrsid11893064\charrsid1732844  }{
+\f1\cf0\ulc0\insrsid11893064\charrsid1732844 apply all the four methods of job evaluation?}{\cf0\ulc0\insrsid11893064\charrsid1732844 
+\par }{\cf0\ulc0\insrsid11679424\charrsid1732844 
+\par }{\f1\cf2\ulc0\insrsid11679424\charrsid1732844 Answer: 
+\par }\pard \ql \li540\ri566\nowidctlpar\faauto\rin566\lin540\itap0\pararsid11679424 {\f1\cf2\insrsid11679424\charrsid1732844 Four methods of Job evaluation
+\par 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid11679424\charrsid1732844 \hich\af1\dbch\af0\loch\f1 1.\tab}}\pard \ql \fi-360\li1260\ri566\widctlpar\jclisttab\tx1260\faauto\ls3\rin566\lin1260\itap0\pararsid11679424 {\f1\cf2\insrsid11679424\charrsid1732844 
+Ranking Method: }{\f1\cf2\insrsid11679424\charrsid1732844 
+Raters examine the description of each job being evaluated and assemble the jobs according to their value to the corporation. This technique requires a team characteristically composed of both management and employee delegate to arrange job in a simple ra
+nk order from uppermost to lowest. The most noticeable restraint to the ranking method is its utter lack of ability to be managed when there are a large number of jobs.}{\f1\cf2\insrsid11679424\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid11679424\charrsid1732844 \hich\af1\dbch\af0\loch\f1 2.\tab}Classification Method: }{\f1\cf2\insrsid11679424\charrsid1732844 A job evaluation method by which a number of classes or rating
+s are defined to explain a group of jobs is known as categorization method. The classifications are created by identifying some common denominator skills, knowledge, }{\f1\cf2\insrsid14507131\charrsid1732844 and responsibilities}{
+\f1\cf2\insrsid11679424\charrsid1732844  with the desired goal being the criterion of a number of distinctive classes or grades of jobs.}{\f1\cf2\insrsid11679424\charrsid1732844 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid11679424\charrsid1732844 \hich\af1\dbch\af0\loch\f1 3.\tab}Factor Comparison Method }{\f1\cf2\insrsid11679424\charrsid1732844 
+Raters need not keep the entire job in mind as they evaluate instead, they make decisions on separate phases, or issues, of the job. A basic fundamental hypothesis is that there are five universal job 
+factors:  (1) Mental Requirements (2) Skills (3) Physical Requirements (4) Responsibilities 5) Working Conditions. 
+\par {\listtext\pard\plain\f1\cf2\ulc1\insrsid11679424\charrsid1732844 \hich\af1\dbch\af0\loch\f1 4.\tab}}{\f1\cf2\insrsid11679424\charrsid1732844 Point Method: }{\f1\cf2\insrsid11679424\charrsid1732844 
+Raters assign numerical values to specific job components, and the sum of these values provides a quantitative appraisal of a job\rquote 
+s relative significance. The point method requires selection of job factors according to the nature of the specific group of jobs being evaluated. After determining the group of jobs to be studied, analysts conduct job analysis and write job descrip
+tions. Next, the analysts select and define the factors to be used in measuring job value and which become the standards used for the evaluation of jobs. Education, experience, job knowledge, mental effort, physical effort, responsibility, and working con
+ditions are examples of factors typically used.}{\f1\cf2\insrsid11679424\charrsid1732844 
+\par }\pard \qj \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\cf0\ulc0\insrsid11679424\charrsid1732844 
+\par }}
