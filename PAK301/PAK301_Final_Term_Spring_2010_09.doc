@@ -1,0 +1,641 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f37\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f54\froman\fcharset238\fprq2 Times New Roman CE;}{\f55\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f57\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f58\froman\fcharset162\fprq2 Times New Roman Tur;}{\f59\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f60\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f61\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f62\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f64\fswiss\fcharset238\fprq2 Arial CE;}{\f65\fswiss\fcharset204\fprq2 Arial Cyr;}{\f67\fswiss\fcharset161\fprq2 Arial Greek;}{\f68\fswiss\fcharset162\fprq2 Arial Tur;}
+{\f69\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f70\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f71\fswiss\fcharset186\fprq2 Arial Baltic;}{\f72\fswiss\fcharset163\fprq2 Arial (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red79\green129\blue189;}{\stylesheet{\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \snext0 Normal;}{\*\cs10 
+\additive \ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style;}{\s16\ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Style1;}{
+\s17\ql \li0\ri0\sa120\nowidctlpar\faauto\rin0\lin0\itap0 \f1\fs16\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 \sbasedon0 \snext17 \slink19 Body Text 3;}{\*\cs18 \additive \ul\cf2 \sbasedon10 \styrsid5470795 Hyperlink;}{\*\cs19 \additive 
+\fs16\cf1\ulc1 \sbasedon10 \slink17 \ssemihidden Body Text 3 Char;}}{\*\listtable{\list\listtemplateid-1284187636{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat18\levelspace0\levelindent0{\leveltext\'01\'00;}{\levelnumbers
+\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01);}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname ;}\listid616374887}{\list\listtemplateid1{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b\f0\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname List1214550538_1;}\listid1214550538}{\list\listtemplateid-112720720{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname 
+;}\listid1517042339}{\list\listtemplateid1{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\f0\fs24\ul }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}}{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'04.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'06.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}}{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}}{\listname List1229414273_1;}\listid1517042340}{\list\listtemplateid1006030336{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00);}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'01.;}{\levelnumbers\'01;}
+\f37\fs24 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'02.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'03.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'04.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc2
+\levelnfcn2\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'05.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'06.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'07.;}{\levelnumbers\'01;}\f37\fs24 }{\listlevel\levelnfc2\levelnfcn2\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'08.;}{\levelnumbers\'01;}\f37\fs24 }{\listname ;}\listid2067684785}}{\*\listoverridetable{\listoverride\listid1517042339\listoverridecount0\ls1}{\listoverride\listid1517042340
+\listoverridecount0\ls2}{\listoverride\listid2067684785\listoverridecount0\ls3}}{\*\rsidtbl \rsid2575397\rsid4079849\rsid5390901\rsid5470795\rsid5517755\rsid5577936\rsid6238601\rsid6686270\rsid9772610\rsid14096802\rsid14640403}
+{\*\generator Microsoft Word 10.0.2627;}{\info{\author zeeshan.saeed}{\operator Zain Ali }{\creatim\yr2010\mo8\dy6\hr11\min40}{\revtim\yr2010\mo10\dy13\hr17\min18}{\version7}{\edmins2}{\nofpages7}{\nofwords994}{\nofchars5672}{\*\company VU}
+{\nofcharsws6653}{\vern16437}}\widowctrl\ftnbj\aendnotes\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot5390901 \fet0\sectd \linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}
+{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain 
+\qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033\ulc1 {\b\f1\insrsid4079849 www.virtualinspire.com}{\b\f1\insrsid5470795 
+\par }{\b\f1\insrsid5577936\charrsid5577936 FINALTERM  EXAMINATION 
+\par Spring 2010
+\par PAK301- Pakistan Studies (Session - 2) 
+\par }\pard \qr \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\insrsid5577936\charrsid5577936 Ref No: 
+\par Time: 90 min 
+\par Marks: 55
+\par }\trowd \irow0\irowband0\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 Student Info\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 \trowd \irow0\irowband0\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl
+\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 \clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row }\trowd \irow1\irowband1\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt
+\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936  StudentID:\cell }\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0\pararsid5470795 {
+\b\f1\insrsid5577936\charrsid5577936   \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 \trowd \irow1\irowband1\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row }\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936  Center:\cell }\pard 
+\ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0\pararsid5470795 {\b\f1\insrsid5577936\charrsid5577936   \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 \trowd \irow2\irowband2
+\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt
+\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row }\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 
+ ExamDate:\cell   09 Aug 2010\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 \trowd \irow3\irowband3\lastrow \ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth2000\clshdrawnil \cellx2000\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth6650\clshdrawnil \cellx8650\row }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\insrsid5577936\charrsid5577936 
+\par }\trowd \irow0\irowband0\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 
+\clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\pard \ql \li0\ri0\nowidctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 For Teacher's Use Only\cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936 \trowd \irow0\irowband0\ts11\trgaph60\trleft0\trftsWidth1\trpaddl60\trpaddr60\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrs\brdrw5 \clbrdrl
+\brdrs\brdrw5 \clbrdrb\brdrs\brdrw5 \clbrdrr\brdrs\brdrw5 \clshdng2000\cltxlrtb\clftsWidth3\clwWidth8650\clshdngraw2000 \cellx8650\row }\trowd \irow1\irowband1\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt
+\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\insrsid5577936\charrsid5577936   }{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936   Q No.\cell 1\cell 2\cell 3\cell 4\cell 5\cell 6\cell 7\cell 8\cell Total\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\trowd \irow1\irowband1\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil 
+\cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard 
+\qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Marks\cell \cell \cell \cell \cell \cell \cell \cell \cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow2\irowband2\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Q No.\cell 9\cell 10\cell 11\cell 12\cell 13\cell 14\cell 15\cell 16\cell \cell }\pard 
+\ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow3\irowband3\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Marks\cell \cell \cell \cell 
+\cell \cell \cell \cell \cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow4\irowband4\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Q No.\cell 17\cell 18\cell 19
+\cell 20\cell 21\cell 22\cell 23\cell 24\cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow5\irowband5\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Marks\cell \cell \cell \cell 
+\cell \cell \cell \cell \cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow6\irowband6\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb\brdrs\brdrw10 
+\trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 
+\clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Q No.\cell 25\cell 26\cell 27
+\cell 28\cell 29\cell 30\cell 31\cell  \cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow7\irowband7\ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \qc \li0\ri0\widctlpar\intbl\faauto\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Marks\cell \cell \cell \cell 
+\cell \cell \cell \cell \cell \cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \trowd \irow8\irowband8\lastrow \ts11\trrh500\trleft0\trbrdrt\brdrs\brdrw10 \trbrdrb
+\brdrs\brdrw10 \trftsWidth1 \clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx865\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb
+\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx1730\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx2595
+\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx3460\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr
+\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx4325\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx5190\clvertalt\clbrdrt
+\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6055\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 
+\cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx6920\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx7785\clvertalt\clbrdrt\brdrs\brdrw10 \clbrdrl
+\brdrs\brdrw10 \clbrdrb\brdrs\brdrw10 \clbrdrr\brdrs\brdrw10 \cltxlrtb\clftsWidth3\clwWidth865\clshdrawnil \cellx8650\row }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 \page      }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 1    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\tx780\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\b\f1\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid5577936 \'93}{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+The political right of the majority to the exercise of power within the boundaries of a generally accepted political unit, area, or territory\'94.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid5577936 Which one of the following highlights the above definition?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f }{\f1\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid5577936 Decolonization}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par        \u9658\'3f }{\f1\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid5577936 Right of self-determination}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f }{\f1\cf17\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid14096802 Freedom movement}{\f1\cf17\ulc0\insrsid5577936\charrsid14096802 
+\par }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f }{\f1\lang9\langfe1033\langnp9\ulc0\insrsid5577936\charrsid5577936 Anti \endash colonialism}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 2    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1026{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 When did the rule of East India Company come into end in the British India?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1857
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In 1858
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1947
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1948
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 3    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1027{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 In which year the mosque in KANPUR was}{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 demolished?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1911
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In 1913
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1916
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1908   
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 4    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1028{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Why was the Mission send in 1945 called as Cabinet Mission Plan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f It was recommended by the British Cabinet
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f It consisted of three British Cabinet's members
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f It consisted of the members of Indian Cabinet
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f It was recommended by British Indian Cabinet
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 5    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1029{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Who imposed the longest martial law in Pakistan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f General Ayub Khan
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f General Yahya Khan
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f General Zia-Ul-Haq
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f General Pervaiz Musharraf
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 6    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1030{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 When the system of Local government was abolished from Pakistan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1977
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In 1979
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1981
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1983
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 7    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1031{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 When did Zia\rquote s military government hold presidential referendum in Pakistan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1983
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1979
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In 1984
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In 1985
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 8    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1032{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 For what purpose Wardha Educational Scheme was introduced by Hindus?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f To convert Muslims into Hinduism through primary educational literature
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f To preach the basics of Hindu religion at the primary level
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \fi-720\li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f To convert Sikhs into Hinduism through primary educational literature
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \fi-720\li720\ri0\widctlpar\faauto\rin0\lin720\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f To convert the British into Hinduism through primary educational literature
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 9    ( Marks: 1 )    - Please choose one
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1033{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 When was the report on Muslims sufferings presented by Fazal-e-Haq?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In December, 1939
+\par }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In March, 1939
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In March, 1938
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f In October, 1939
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 10    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1034{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  How many members of the First Constituent Assembly were increased after the 1947?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li360\ri0\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f From 49 to 59
+\par        \u9658\'3f From 59 to 69
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f From 69 to 79
+\par }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f From 39 to 49
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 11    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1035{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 What was the basic objective of the appointment of Mountbatten as Viceroy in 1947?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f To prolong British rule in India
+\par 
+\par 
+\par To prolong British rule in India
+\par 
+\par To prolong British rule in India
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Because he was a good administrator
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f To wind up the British rule in India
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Because he was affiliated with Congress
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 12    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1036{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  What is literacy rate of Pakistan?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par        \u9658\'3f 40%
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f 46%
+\par }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f 50%
+\par        \u9658\'3f 56%
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 13    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1037{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  What is meant by Distance Education?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \qj \li360\ri0\sa200\sl360\slmult1\widctlpar\faauto\rin0\lin360\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par 
+\par }\pard \ql \li0\ri0\sa200\sl276\slmult1\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par        \u9658\'3f Education through phone
+\par        \u9658\'3f Education through post mail
+\par        \u9658\'3f Education through TV and Internet
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f All of them
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802     }{\b\f1\cf17\ulc0\insrsid5577936\charrsid14096802 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 14    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1038{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936   How many kinds of education are there in Pakistan?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f 8
+\par }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f 6
+\par        \u9658\'3f 4
+\par        \u9658\'3f 2
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 15    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1039{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Who was the president of Pakistan in 1958?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Field Martial Ayub Khan
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Ghulam Muhammad
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f Iskander Mirza
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f None of these
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 16    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1040{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 When did military assume power in Pakistan for the first time?}{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f On 23 March, 1956
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f On 17 February, 1960
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802 \u9658\'3f On 7 October, 1958
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f On 14 August, 1956
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 17    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1041{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  What was sure about Pakistan?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par        \u9658\'3f That Pakistan would be An Islamic state
+\par        \u9658\'3f That Pakistan would be A secular state
+\par        \u9658\'3f That Pakistan would be A democratic state
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f That Pakistan would be An Islamic democratic state
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 18    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1042{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Who was the first president of Pakistan?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Ayub Khan
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f Iskander Mirza
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Ghulam Mohammad   
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Khawaja Nazimuddin         
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 19    ( Marks: 1 )    - Please choose one
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1043{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Which constitutional body in Pakistan enjoys only advisory capacity?
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f National Assembly
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Senate
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f National Security Council
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936        \u9658\'3f Supreme Court
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 20    ( Marks: 1 )    - Please choose one
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1044{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 In which year the incident of "Chaura Chori" took place?
+\par        \u9658\'3f In 1919
+\par        \u9658\'3f In 1920
+\par        \u9658\'3f In 1922
+\par }{\f1\cf17\ulc0\insrsid5577936\charrsid14096802        \u9658\'3f In 1924
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 21    ( Marks: 2 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1045{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Briefly tell about the Relations between Pakistan and Egypt?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 22    ( Marks: 2 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1046{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Write a very brief note on Land Reforms in Pakistan}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 23    ( Marks: 2 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1047{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  }{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 What was the total strength of the National Assembly under the 1956 Constitution?
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 24    ( Marks: 2 ) 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1048{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Draw attention to Junagarh issue.}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 25    ( Marks: 3 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1049{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Briefly tell about the issue of Islamic or Secular status of Pakistan as a State?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 26    ( Marks: 3 ) 
+\par }\pard \qj \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1050{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Write down some line about the educational career of Allama Iqbal.    
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 27    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\tx5145\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1051{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Write a note on the Geographical location of Pakistan.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 28    ( Marks: 3 ) 
+\par }\pard \ql \li0\ri0\widctlpar\tx5145\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1052{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}
+{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0
+\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Write a brief note on the process of Industrialization during Bhutto regime.
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 29    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1053{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  What do you know about the River/Cannal System in Pakistan?}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 30    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1054{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Write a note on the industrialization in Pakistan during Bhutto and Zia\rquote s regimes.}{\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1\cf0\ulc0\insrsid5577936\charrsid5577936     }{\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0 {\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936 Question No: 31    ( Marks: 5 ) 
+\par }{\b\f1\cf0\ulc0\insrsid5517755\charrsid5577936 {\pict{\*\picprop\shplid1055{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex100\picscaley100\piccropl0\piccropr0\piccropt0\piccropb0\picw15584\pich26\picwgoal8835\pichgoal15\wmetafile8\bliptag-1895836859\blipupi-161{\*\blipuid 8effd34580ace9d478c35331c42d728e}
+010009000003b500000005001c00000000000400000003010800050000000b0200000000050000000c020d006c0e040000002e0118001c000000fb029cff0000
+000000009001000000000440001254696d6573204e657720526f6d616e0000000000000000000000000000000000040000002d01000004000000020101000500
+00000902000000020d000000320a5a00ffff01000400ffff0000670e0d0020f32d00030000001e0008000000fa0200000600000000000000040000002d010100
+07000000fc020100000000000000040000002d0102000800000025030200040003005f0e030008000000fa0200000000000000000000040000002d0103000700
+0000fc020000ffffff000000040000002d01040004000000f0010100040000002701ffff1c000000fb021000070000000000bc02000000000102022253797374656d000000000000fd99807c58bd1e0010f9230070bb1e005ae78339040000002d010100030000000000}}{
+\b\f1\cf0\ulc0\insrsid5577936\charrsid5577936  Outline the criticism raised against the First Report of Basic Principle Committee.}{\b\f1\cf0\ulc0\insrsid5577936 
+\par }\pard \qc \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9772610 {\b\f1\insrsid9772610 www.virtualinspire.com
+\par }\pard \ql \li0\ri0\nowidctlpar\faauto\rin0\lin0\itap0\pararsid9772610 {\ulc0\insrsid2575397\charrsid5577936 
+\par }}
