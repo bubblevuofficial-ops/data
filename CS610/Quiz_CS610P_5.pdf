@@ -1,0 +1,687 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4159
+>>
+stream
+0.5670000000000001 w
+0 G
+0.13 0.59 0.95 rg
+0. 841.8899999999999864 595.2755905511811534 -42.5196850393700814 re
+f
+BT
+/F4 16 Tf
+18.3999999999999986 TL
+1. g
+224.1199999999999477 813.5435433070865656 Td
+(CS610P - Quiz No.5) Tj
+ET
+BT
+/F4 11 Tf
+12.6499999999999986 TL
+1. g
+482.7667716535431737 816.3781889763779418 Td
+(Date: 19 June 2025) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 771.0238582677164914 Td
+(1. Which of the following is not an installation component of Wireshark?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 749.7640157480315111 Td
+(A. Tools) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 732.7561417322834814 Td
+(B. Layout) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 715.7482677165354517 Td
+(C. Plugins & Extensions) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 698.7403937007873083 Td
+(D. TShark) Tj
+ET
+0.78 G
+42.5196850393700814 676.0632283464566399 m
+552.7559055118110791 676.0632283464566399 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 653.3860629921259715 Td
+(2. In Wireshark tool, to create new profile you need to select __________ in Configuration Profile window) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 632.1262204724408775 Td
+(A. Narrow) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 615.1183464566928478 Td
+(B. New) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 598.1104724409448181 Td
+(C. Edit) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 581.1025984251967884 Td
+(D. Update) Tj
+ET
+0.78 G
+42.5196850393700814 558.42543307086612 m
+552.7559055118110791 558.42543307086612 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 535.748267716535338 Td
+(3. In Wireshark tool, __________ would be able to capture live network traffic) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 514.4884251968503577 Td
+(A. WPcap) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 497.480551181102328 Td
+(B. MSPcap) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 480.4726771653542983 Td
+(C. ProPcap) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 463.4648031496062686 Td
+(D. WinPcap) Tj
+ET
+0.78 G
+42.5196850393700814 440.7876377952755433 m
+552.7559055118110791 440.7876377952755433 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 418.1104724409448181 Td
+(4. Which of the following is a network packet analyzer tool?) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 396.850629921259781 Td
+(A. Nesuss) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 379.8427559055117513 Td
+(B. Packter tracer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 362.8348818897637216 Td
+(C. Network simulator) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 345.8270078740156919 Td
+(D. Wireshark) Tj
+ET
+0.78 G
+42.5196850393700814 323.1498425196849666 m
+552.7559055118110791 323.1498425196849666 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 300.4726771653542983 Td
+(5. Wireshark tool is available for __________) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 279.2128346456692043 Td
+(A. UNIX and Windows) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 262.2049606299211746 Td
+(B. Only UNIX) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 245.1970866141731449 Td
+(C. Android) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 228.1892125984251152 Td
+(D. Only Windows) Tj
+ET
+0.78 G
+42.5196850393700814 205.51204724409439 m
+552.7559055118110791 205.51204724409439 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 182.8348818897636647 Td
+(6. In Wireshark tool, “Interfaces” option is available under _______ tab) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 161.5750393700786844 Td
+(A. File) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 144.5671653543306547 Td
+(B. Analyze) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 127.559291338582625 Td
+(C. View) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 110.5514173228345953 Td
+(D. Capture) Tj
+ET
+0.78 G
+42.5196850393700814 87.8742519685038275 m
+552.7559055118110791 87.8742519685038275 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+535.5335433070865747 28.3466929133857093 Td
+(Page 1) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0. g
+223.839999999999975 19.8427559055116944 Td
+(VU TOOLKIT BY PARADOXCIAL) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2691
+>>
+stream
+0.5670000000000001 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 807.8742519685039269 Td
+(7. In Wireshark tool, until you ____________, you are working in Wireshark's default profile) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 786.614409448818833 Td
+(A. Create a new profile) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 769.6065354330708033 Td
+(B. Create colors scheme) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 752.5986614173227736 Td
+(C. Create new row) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 735.5907874015747439 Td
+(D. Create new column) Tj
+ET
+0.78 G
+42.5196850393700814 712.9136220472440755 m
+552.7559055118110791 712.9136220472440755 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 690.2364566929134071 Td
+(8. In Wireshark, ________ shows profile name) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 668.9766141732283131 Td
+(A. Menu Bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 651.9687401574802834 Td
+(B. Tool Bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 634.9608661417322537 Td
+(C. Title Bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 617.952992125984224 Td
+(D. Status Bar) Tj
+ET
+0.78 G
+42.5196850393700814 595.2758267716534419 m
+552.7559055118110791 595.2758267716534419 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 572.5986614173227736 Td
+(9. In Wireshark, By default, the Packet List pane does not contain __________) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 551.3388188976377933 Td
+(A. Source) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 534.3309448818897636 Td
+(B. Time) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 517.3230708661417339 Td
+(C. Protocol) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 500.3151968503936473 Td
+(D. Device) Tj
+ET
+0.78 G
+42.5196850393700814 477.6380314960629221 m
+552.7559055118110791 477.6380314960629221 l
+S
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 454.9608661417322537 Td
+(10. In Wireshark tool, profile name is shown in the right side column of the __________) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 433.7010236220471597 Td
+(A. Status bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 416.69314960629913 Td
+(B. Menu bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 399.6852755905511003 Td
+(C. Tool bar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 382.6774015748030706 Td
+(D. Title bar) Tj
+ET
+0.78 G
+42.5196850393700814 360.0002362204723454 m
+552.7559055118110791 360.0002362204723454 l
+S
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+535.5335433070865747 28.3466929133857093 Td
+(Page 2) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0. g
+223.839999999999975 19.8427559055116944 Td
+(VU TOOLKIT BY PARADOXCIAL) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.1)
+/CreationDate (D:20250619132134+05'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000007243 00000 n 
+0000009068 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004363 00000 n 
+0000004500 00000 n 
+0000007306 00000 n 
+0000007431 00000 n 
+0000007561 00000 n 
+0000007694 00000 n 
+0000007832 00000 n 
+0000007956 00000 n 
+0000008085 00000 n 
+0000008217 00000 n 
+0000008353 00000 n 
+0000008481 00000 n 
+0000008608 00000 n 
+0000008737 00000 n 
+0000008870 00000 n 
+0000008972 00000 n 
+0000009318 00000 n 
+0000009404 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <8A857FDF62D9A85FB721B7ADC4C01B22> <8A857FDF62D9A85FB721B7ADC4C01B22> ]
+>>
+startxref
+9508
+%%EOF
